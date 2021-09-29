@@ -1,0 +1,44 @@
+\chapter{VOT production at first exposure to an L3}
+
+# Overview 
+
+The present study investigates the production of words in a language by bilinguals that they do not yet though. In so doing, the present dissertation aims to investigate the very initial stage of acquisition by providing an overview of the initial relative influence of both L1 and L2. 
+
+## Research Questions 
+
+RQ1: Will Spanish-English bilinguals produce L3 words with Spanish or English like VOT?
+
+RQ2: Will Spanish-English bilinguals produce vowels with F1 and F2 values more like English or Spanish? 
+
+# Methods
+
+## Participants
+
+4 total groups of participants will take part in the experiment. There will be 2 bilingual groups with opposite orders of acquisition, Spanish L1-English L2, and English L1-Spanish L2, and monolingual English and monolingual Spanish participants. The bilingual groups will contain 75 participants per group, where the monolingual groups will contain 50 participants per group, for a total of 400 participants. These sample sizes were justified by a power analysis, in which a power level of .8 was desired (CITATION). 
+
+## Tasks 
+
+Oragnization paragraph: An elicted production task & A shadowing task in the L3. 
+
+### Bilingual Language Profile 
+
+To measure language use and language dominance, the Bilingual Language Profile (BLP) will be used. 
+
+### LexTALE 
+
+The LexTALE will be used to measure English and Spanish proficiency. The LexTALE is a lexical decision task, in which participants see either words or pseudowords on a screen one at a time. Participants are supposed to then decide whether the word presented is a real word in the language or a pseudoword. The task is intended to be a measure of vocabulary size and thus a proxy of proficiency. ADD SENTENCE JUSTIFYING THE LINK BETWEEN VOCAB AND PROF. Either the English and Spanish versions of the task will be used in the study, depending upon the L2 of participant.
+
+### Elicited Production Tasks 
+
+In the elicited production task, the participants read words which appeared on the screen one at a time and submitted their recording of the read words by clicking on a record button to begin the recording, a stop button to end the recording, and an upload button upon completion of the recording. Participants were able to listen to their recording after completing a trial and were able to re-record in the event of an error.
+
+### Shadowing Task  
+
+For the shadowing task, participants were given a French word on screen and were able to play a recording of that word up to three times. The participant would then record themselves repeating the word that was uttered one at a time in a procedure identical to the elicited production task. 
+The experiment was programmed and given in the online platform Labvanced. In order to control for language mode, the language specific word lists were presented in separate sessions, and the order of the languages (Spanish first or English first) was counter-balanced across participants. All participants ended the experiment with the L3 shadowing task.
+
+## Analysis plan 
+
+The results will be analyzed using a Bayesian Multilevel Regression where the outcome will by VOT and the fixed effect, categorical predictor will be language, and the fixed effect continous predictor variables LexTALE scores, and a dominance metric. 
+
+# Simulated Results

@@ -1,0 +1,32 @@
+\chapter{Perception of L3 vowels}
+
+# Research Questions 
+
+RQ1: Will Spanish-English bilinguals assimilate L3 sounds to L1 or L2 categories? 
+
+RQ2: Will Spanish-English bilinguals perceive differences on an acoustic continuum using L1 or L2 boundaries? 
+
+# Methods
+
+## Participants
+
+4 total groups of participants will take part in the experiment. There will be 2 bilingual groups with opposite orders of acquisition, Spanish L1-English L2, and English L1-Spanish L2, and monolingual English and monolingual Spanish participants. The bilingual groups will contain 75 participants per group, where the monolingual groups will contain 50 participants per group, for a total of 400 participants. These sample sizes were justified by a power analysis, in which a power level of .8 was desired (CITATION). 
+
+## Tasks 
+
+### AX Discrimination Task
+The /i/ - /u/ continuum will be used, in which French /y/ is an intermediate. At this time, a second continuum is also being considered. 
+
+### Category Identification Task
+
+The purpose of this task is to identify whether French segments are assimilated to Spanish or English categories. Four conditions are proposed for vowels (1) The same vowel sound is found in both languages, such as /i/, which can be found in all 3 languages. (2) A sound which is found in English, but not in Spanish, such as /e/ in "bed", or the short /I/. (3) Only Spanish, such as the rounded back-vowel /o/, and finally, (4) a vowel which is not present in English or Spanish, but is in French, such as /y/.
+
+The stimuli will be created by splicing natural utterances of the French vowels together, in closed syllables, with a consonant (e.g. gVg). The stimuli will be played 5 repetitions each, which will create 20 tokens per participant. 
+
+### Analysis plan 
+
+The results will be analyzed using a Bayesian Logistic Regression where the outcome of language choice (English or Spanish) will be modeled as a function of presented vowel sound, LexTALE score, and a continuous language dominance metric. 
+
+# Simulated Results
+
+
