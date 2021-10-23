@@ -1,0 +1,359 @@
+1.0489 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+6.3490 	INFO 	Loaded monitor calibration from ['2021_05_25 17:40']
+6.3586 	WARNING 	User requested fullscreen with size [1680 1050], but screen is actually [1440, 900]. Using actual size
+7.0593 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fdb6e94da90>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fdb6e469710>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, units='norm', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.0595 	EXP 	window1: mouseVisible = True
+7.0595 	EXP 	window1: recordFrameIntervals = False
+7.2244 	EXP 	window1: recordFrameIntervals = True
+7.4076 	DEBUG 	Screen (0) actual frame rate measured at 60.22
+7.4076 	EXP 	window1: recordFrameIntervals = False
+8.1710 	INFO 	keyboard.Keyboard is using ptb backend.
+8.2257 	EXP 	Created insructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='insructions', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+8.4177 	INFO 	keyboard.Keyboard is using ptb backend.
+8.4826 	EXP 	Sound sound_stim1 set volume 1.000
+8.4827 	EXP 	Sound sound_stim2 set volume 1.000
+8.4828 	EXP 	Sound sound_stim3 set volume 1.000
+8.4872 	EXP 	Created text_response_first = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_response_first', opacity=1, ori=0, pos=array([-0.5,  0. ]), rgb=UNKNOWN, text='First is different', units='norm', win=Window(...), wrapWidth=1)
+8.4905 	EXP 	Created text_response_third = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_response_third', opacity=1, ori=0, pos=array([0.5, 0. ]), rgb=UNKNOWN, text='Third is different', units='norm', win=Window(...), wrapWidth=1)
+8.4932 	EXP 	Created text_response_same = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_response_same', opacity=1, ori=0, pos=array([ 0. , -0.5]), rgb=UNKNOWN, text='They are the same', units='norm', win=Window(...), wrapWidth=1)
+8.6858 	INFO 	keyboard.Keyboard is using ptb backend.
+8.6893 	EXP 	Created text_trial_cross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-7.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.2, italic=False, languageStyle='LTR', name='text_trial_cross', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='norm', win=Window(...), wrapWidth=1)
+8.6918 	EXP 	Created text_end = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_end', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thank you.', units='norm', win=Window(...), wrapWidth=1)
+8.8802 	INFO 	keyboard.Keyboard is using ptb backend.
+8.8937 	EXP 	insructions: autoDraw = True
+18.7948 	DEBUG 	Read csv file with pandas: condition_file/trials.csv
+18.8006 	DEBUG 	Clearing unnamed columns from condition_file/trials.csv
+18.8026 	EXP 	Imported condition_file/trials.csv as conditions, 54 conditions, 6 params
+18.8053 	EXP 	Created sequence: random, trialTypes=54, nReps=3, seed=None
+18.8057 	EXP 	New trial (rep=0, index=0): OrderedDict([('stim1', 'stim/bda2.wav'), ('stim2', 'stim/bda1.wav'), ('stim3', 'stim/bda1.wav'), ('trialType', 'aaa'), ('diffCategory', 'same'), ('isCorrect', 'space')])
+18.8234 	DATA 	Keypress: space
+18.8277 	EXP 	insructions: autoDraw = False
+18.8277 	EXP 	text_trial_cross: autoDraw = True
+19.0407 	EXP 	text_trial_cross: autoDraw = False
+20.8085 	EXP 	text_response_first: autoDraw = True
+20.8085 	EXP 	text_response_third: autoDraw = True
+20.8085 	EXP 	text_response_same: autoDraw = True
+21.7774 	EXP 	New trial (rep=0, index=1): OrderedDict([('stim1', 'stim/bda1.wav'), ('stim2', 'stim/bda6.wav'), ('stim3', 'stim/bda5.wav'), ('trialType', 'abb'), ('diffCategory', 'first'), ('isCorrect', 1.0)])
+21.7915 	DATA 	Keypress: space
+21.7957 	EXP 	text_response_first: autoDraw = False
+21.7957 	EXP 	text_response_third: autoDraw = False
+21.7957 	EXP 	text_response_same: autoDraw = False
+21.7957 	EXP 	text_trial_cross: autoDraw = False
+21.7957 	EXP 	text_trial_cross: autoDraw = True
+22.0077 	EXP 	text_trial_cross: autoDraw = False
+23.7744 	EXP 	text_response_first: autoDraw = True
+23.7744 	EXP 	text_response_third: autoDraw = True
+23.7744 	EXP 	text_response_same: autoDraw = True
+25.2261 	EXP 	New trial (rep=0, index=2): OrderedDict([('stim1', 'stim/bda5.wav'), ('stim2', 'stim/bda4.wav'), ('stim3', 'stim/bda5.wav'), ('trialType', 'bbb'), ('diffCategory', 'same'), ('isCorrect', 'space')])
+25.2297 	DATA 	Keypress: 1
+25.2419 	EXP 	text_response_first: autoDraw = False
+25.2419 	EXP 	text_response_third: autoDraw = False
+25.2419 	EXP 	text_response_same: autoDraw = False
+25.2419 	EXP 	text_trial_cross: autoDraw = False
+25.2419 	EXP 	text_trial_cross: autoDraw = True
+25.4577 	EXP 	text_trial_cross: autoDraw = False
+27.2245 	EXP 	text_response_first: autoDraw = True
+27.2245 	EXP 	text_response_third: autoDraw = True
+27.2245 	EXP 	text_response_same: autoDraw = True
+28.0600 	EXP 	New trial (rep=0, index=3): OrderedDict([('stim1', 'stim/bda1.wav'), ('stim2', 'stim/bda4.wav'), ('stim3', 'stim/bda5.wav'), ('trialType', 'abb'), ('diffCategory', 'first'), ('isCorrect', 1.0)])
+28.0634 	DATA 	Keypress: space
+28.0740 	EXP 	text_response_first: autoDraw = False
+28.0740 	EXP 	text_response_third: autoDraw = False
+28.0740 	EXP 	text_response_same: autoDraw = False
+28.0740 	EXP 	text_trial_cross: autoDraw = False
+28.0740 	EXP 	text_trial_cross: autoDraw = True
+28.2743 	EXP 	text_trial_cross: autoDraw = False
+30.0582 	EXP 	text_response_first: autoDraw = True
+30.0582 	EXP 	text_response_third: autoDraw = True
+30.0582 	EXP 	text_response_same: autoDraw = True
+30.8264 	EXP 	New trial (rep=0, index=4): OrderedDict([('stim1', 'stim/bda6.wav'), ('stim2', 'stim/bda5.wav'), ('stim3', 'stim/bda1.wav'), ('trialType', 'bba'), ('diffCategory', 'third'), ('isCorrect', 0.0)])
+30.8303 	DATA 	Keypress: 1
+30.8415 	EXP 	text_response_first: autoDraw = False
+30.8415 	EXP 	text_response_third: autoDraw = False
+30.8415 	EXP 	text_response_same: autoDraw = False
+30.8415 	EXP 	text_trial_cross: autoDraw = False
+30.8415 	EXP 	text_trial_cross: autoDraw = True
+31.0411 	EXP 	text_trial_cross: autoDraw = False
+32.8246 	EXP 	text_response_first: autoDraw = True
+32.8246 	EXP 	text_response_third: autoDraw = True
+32.8246 	EXP 	text_response_same: autoDraw = True
+33.5597 	EXP 	New trial (rep=0, index=5): OrderedDict([('stim1', 'stim/bda0.wav'), ('stim2', 'stim/bda4.wav'), ('stim3', 'stim/bda5.wav'), ('trialType', 'abb'), ('diffCategory', 'first'), ('isCorrect', 1.0)])
+33.5635 	DATA 	Keypress: 0
+33.5746 	EXP 	text_response_first: autoDraw = False
+33.5746 	EXP 	text_response_third: autoDraw = False
+33.5746 	EXP 	text_response_same: autoDraw = False
+33.5746 	EXP 	text_trial_cross: autoDraw = False
+33.5746 	EXP 	text_trial_cross: autoDraw = True
+33.7746 	EXP 	text_trial_cross: autoDraw = False
+35.5581 	EXP 	text_response_first: autoDraw = True
+35.5581 	EXP 	text_response_third: autoDraw = True
+35.5581 	EXP 	text_response_same: autoDraw = True
+36.4434 	EXP 	New trial (rep=0, index=6): OrderedDict([('stim1', 'stim/bda6.wav'), ('stim2', 'stim/bda5.wav'), ('stim3', 'stim/bda5.wav'), ('trialType', 'bbb'), ('diffCategory', 'same'), ('isCorrect', 'space')])
+36.4466 	DATA 	Keypress: 1
+36.4583 	EXP 	text_response_first: autoDraw = False
+36.4583 	EXP 	text_response_third: autoDraw = False
+36.4583 	EXP 	text_response_same: autoDraw = False
+36.4583 	EXP 	text_trial_cross: autoDraw = False
+36.4583 	EXP 	text_trial_cross: autoDraw = True
+36.6579 	EXP 	text_trial_cross: autoDraw = False
+38.4414 	EXP 	text_response_first: autoDraw = True
+38.4414 	EXP 	text_response_third: autoDraw = True
+38.4414 	EXP 	text_response_same: autoDraw = True
+39.1938 	EXP 	New trial (rep=0, index=7): OrderedDict([('stim1', 'stim/bda4.wav'), ('stim2', 'stim/bda1.wav'), ('stim3', 'stim/bda0.wav'), ('trialType', 'baa'), ('diffCategory', 'first'), ('isCorrect', 1.0)])
+39.1969 	DATA 	Keypress: space
+39.2080 	EXP 	text_response_first: autoDraw = False
+39.2080 	EXP 	text_response_third: autoDraw = False
+39.2080 	EXP 	text_response_same: autoDraw = False
+39.2080 	EXP 	text_trial_cross: autoDraw = False
+39.2080 	EXP 	text_trial_cross: autoDraw = True
+39.4078 	EXP 	text_trial_cross: autoDraw = False
+41.1918 	EXP 	text_response_first: autoDraw = True
+41.1918 	EXP 	text_response_third: autoDraw = True
+41.1918 	EXP 	text_response_same: autoDraw = True
+42.5767 	EXP 	New trial (rep=0, index=8): OrderedDict([('stim1', 'stim/bda5.wav'), ('stim2', 'stim/bda6.wav'), ('stim3', 'stim/bda6.wav'), ('trialType', 'bbb'), ('diffCategory', 'same'), ('isCorrect', 'space')])
+42.5798 	DATA 	Keypress: 1
+42.5919 	EXP 	text_response_first: autoDraw = False
+42.5919 	EXP 	text_response_third: autoDraw = False
+42.5919 	EXP 	text_response_same: autoDraw = False
+42.5919 	EXP 	text_trial_cross: autoDraw = False
+42.5919 	EXP 	text_trial_cross: autoDraw = True
+42.7920 	EXP 	text_trial_cross: autoDraw = False
+44.5749 	EXP 	text_response_first: autoDraw = True
+44.5749 	EXP 	text_response_third: autoDraw = True
+44.5749 	EXP 	text_response_same: autoDraw = True
+45.1437 	EXP 	New trial (rep=0, index=9): OrderedDict([('stim1', 'stim/bda0.wav'), ('stim2', 'stim/bda1.wav'), ('stim3', 'stim/bda0.wav'), ('trialType', 'aaa'), ('diffCategory', 'same'), ('isCorrect', 'space')])
+45.1468 	DATA 	Keypress: space
+45.1585 	EXP 	text_response_first: autoDraw = False
+45.1585 	EXP 	text_response_third: autoDraw = False
+45.1585 	EXP 	text_response_same: autoDraw = False
+45.1585 	EXP 	text_trial_cross: autoDraw = False
+45.1585 	EXP 	text_trial_cross: autoDraw = True
+45.3583 	EXP 	text_trial_cross: autoDraw = False
+47.1416 	EXP 	text_response_first: autoDraw = True
+47.1416 	EXP 	text_response_third: autoDraw = True
+47.1416 	EXP 	text_response_same: autoDraw = True
+49.4934 	EXP 	New trial (rep=0, index=10): OrderedDict([('stim1', 'stim/bda1.wav'), ('stim2', 'stim/bda2.wav'), ('stim3', 'stim/bda1.wav'), ('trialType', 'aaa'), ('diffCategory', 'same'), ('isCorrect', 'space')])
+49.4983 	DATA 	Keypress: space
+49.5090 	EXP 	text_response_first: autoDraw = False
+49.5090 	EXP 	text_response_third: autoDraw = False
+49.5090 	EXP 	text_response_same: autoDraw = False
+49.5090 	EXP 	text_trial_cross: autoDraw = False
+49.5090 	EXP 	text_trial_cross: autoDraw = True
+49.7082 	EXP 	text_trial_cross: autoDraw = False
+51.4917 	EXP 	text_response_first: autoDraw = True
+51.4917 	EXP 	text_response_third: autoDraw = True
+51.4917 	EXP 	text_response_same: autoDraw = True
+52.4266 	EXP 	New trial (rep=0, index=11): OrderedDict([('stim1', 'stim/bda6.wav'), ('stim2', 'stim/bda5.wav'), ('stim3', 'stim/bda6.wav'), ('trialType', 'bbb'), ('diffCategory', 'same'), ('isCorrect', 'space')])
+52.4298 	DATA 	Keypress: space
+52.4422 	EXP 	text_response_first: autoDraw = False
+52.4422 	EXP 	text_response_third: autoDraw = False
+52.4422 	EXP 	text_response_same: autoDraw = False
+52.4422 	EXP 	text_trial_cross: autoDraw = False
+52.4422 	EXP 	text_trial_cross: autoDraw = True
+52.6417 	EXP 	text_trial_cross: autoDraw = False
+54.4254 	EXP 	text_response_first: autoDraw = True
+54.4254 	EXP 	text_response_third: autoDraw = True
+54.4254 	EXP 	text_response_same: autoDraw = True
+55.1766 	EXP 	New trial (rep=0, index=12): OrderedDict([('stim1', 'stim/bda4.wav'), ('stim2', 'stim/bda5.wav'), ('stim3', 'stim/bda6.wav'), ('trialType', 'bbb'), ('diffCategory', 'same'), ('isCorrect', 'space')])
+55.1792 	DATA 	Keypress: space
+55.1919 	EXP 	text_response_first: autoDraw = False
+55.1919 	EXP 	text_response_third: autoDraw = False
+55.1919 	EXP 	text_response_same: autoDraw = False
+55.1919 	EXP 	text_trial_cross: autoDraw = False
+55.1919 	EXP 	text_trial_cross: autoDraw = True
+55.3918 	EXP 	text_trial_cross: autoDraw = False
+57.1759 	EXP 	text_response_first: autoDraw = True
+57.1759 	EXP 	text_response_third: autoDraw = True
+57.1759 	EXP 	text_response_same: autoDraw = True
+57.8768 	EXP 	New trial (rep=0, index=13): OrderedDict([('stim1', 'stim/bda6.wav'), ('stim2', 'stim/bda5.wav'), ('stim3', 'stim/bda2.wav'), ('trialType', 'bba'), ('diffCategory', 'third'), ('isCorrect', 0.0)])
+57.8800 	DATA 	Keypress: space
+57.8923 	EXP 	text_response_first: autoDraw = False
+57.8923 	EXP 	text_response_third: autoDraw = False
+57.8923 	EXP 	text_response_same: autoDraw = False
+57.8923 	EXP 	text_trial_cross: autoDraw = False
+57.8923 	EXP 	text_trial_cross: autoDraw = True
+58.0920 	EXP 	text_trial_cross: autoDraw = False
+59.8764 	EXP 	text_response_first: autoDraw = True
+59.8764 	EXP 	text_response_third: autoDraw = True
+59.8764 	EXP 	text_response_same: autoDraw = True
+60.9270 	EXP 	New trial (rep=0, index=14): OrderedDict([('stim1', 'stim/bda5.wav'), ('stim2', 'stim/bda6.wav'), ('stim3', 'stim/bda5.wav'), ('trialType', 'bbb'), ('diffCategory', 'same'), ('isCorrect', 'space')])
+60.9296 	DATA 	Keypress: 0
+60.9420 	EXP 	text_response_first: autoDraw = False
+60.9420 	EXP 	text_response_third: autoDraw = False
+60.9420 	EXP 	text_response_same: autoDraw = False
+60.9420 	EXP 	text_trial_cross: autoDraw = False
+60.9420 	EXP 	text_trial_cross: autoDraw = True
+61.1420 	EXP 	text_trial_cross: autoDraw = False
+62.9254 	EXP 	text_response_first: autoDraw = True
+62.9254 	EXP 	text_response_third: autoDraw = True
+62.9254 	EXP 	text_response_same: autoDraw = True
+64.8439 	EXP 	New trial (rep=0, index=15): OrderedDict([('stim1', 'stim/bda5.wav'), ('stim2', 'stim/bda6.wav'), ('stim3', 'stim/bda1.wav'), ('trialType', 'bba'), ('diffCategory', 'third'), ('isCorrect', 0.0)])
+64.8470 	DATA 	Keypress: space
+64.8592 	EXP 	text_response_first: autoDraw = False
+64.8592 	EXP 	text_response_third: autoDraw = False
+64.8592 	EXP 	text_response_same: autoDraw = False
+64.8592 	EXP 	text_trial_cross: autoDraw = False
+64.8592 	EXP 	text_trial_cross: autoDraw = True
+65.0588 	EXP 	text_trial_cross: autoDraw = False
+66.8427 	EXP 	text_response_first: autoDraw = True
+66.8427 	EXP 	text_response_third: autoDraw = True
+66.8427 	EXP 	text_response_same: autoDraw = True
+67.8943 	EXP 	New trial (rep=0, index=16): OrderedDict([('stim1', 'stim/bda0.wav'), ('stim2', 'stim/bda1.wav'), ('stim3', 'stim/bda5.wav'), ('trialType', 'aab'), ('diffCategory', 'third'), ('isCorrect', 0.0)])
+67.8989 	DATA 	Keypress: 0
+67.9089 	EXP 	text_response_first: autoDraw = False
+67.9089 	EXP 	text_response_third: autoDraw = False
+67.9089 	EXP 	text_response_same: autoDraw = False
+67.9089 	EXP 	text_trial_cross: autoDraw = False
+67.9089 	EXP 	text_trial_cross: autoDraw = True
+68.1089 	EXP 	text_trial_cross: autoDraw = False
+69.8923 	EXP 	text_response_first: autoDraw = True
+69.8923 	EXP 	text_response_third: autoDraw = True
+69.8923 	EXP 	text_response_same: autoDraw = True
+71.4788 	DATA 	Keypress: 0
+71.4949 	EXP 	New trial (rep=0, index=17): OrderedDict([('stim1', 'stim/bda5.wav'), ('stim2', 'stim/bda6.wav'), ('stim3', 'stim/bda0.wav'), ('trialType', 'bba'), ('diffCategory', 'third'), ('isCorrect', 0.0)])
+71.5085 	EXP 	text_response_first: autoDraw = False
+71.5085 	EXP 	text_response_third: autoDraw = False
+71.5085 	EXP 	text_response_same: autoDraw = False
+71.5085 	EXP 	text_trial_cross: autoDraw = False
+71.5085 	EXP 	text_trial_cross: autoDraw = True
+71.7089 	EXP 	text_trial_cross: autoDraw = False
+73.4925 	EXP 	text_response_first: autoDraw = True
+73.4925 	EXP 	text_response_third: autoDraw = True
+73.4925 	EXP 	text_response_same: autoDraw = True
+75.2606 	EXP 	New trial (rep=0, index=18): OrderedDict([('stim1', 'stim/bda2.wav'), ('stim2', 'stim/bda6.wav'), ('stim3', 'stim/bda5.wav'), ('trialType', 'abb'), ('diffCategory', 'first'), ('isCorrect', 1.0)])
+75.2633 	DATA 	Keypress: 0
+75.2753 	EXP 	text_response_first: autoDraw = False
+75.2753 	EXP 	text_response_third: autoDraw = False
+75.2753 	EXP 	text_response_same: autoDraw = False
+75.2753 	EXP 	text_trial_cross: autoDraw = False
+75.2753 	EXP 	text_trial_cross: autoDraw = True
+75.4759 	EXP 	text_trial_cross: autoDraw = False
+77.2591 	EXP 	text_response_first: autoDraw = True
+77.2591 	EXP 	text_response_third: autoDraw = True
+77.2591 	EXP 	text_response_same: autoDraw = True
+78.9609 	EXP 	New trial (rep=0, index=19): OrderedDict([('stim1', 'stim/bda6.wav'), ('stim2', 'stim/bda5.wav'), ('stim3', 'stim/bda0.wav'), ('trialType', 'bba'), ('diffCategory', 'third'), ('isCorrect', 0.0)])
+78.9642 	DATA 	Keypress: 1
+78.9768 	EXP 	text_response_first: autoDraw = False
+78.9768 	EXP 	text_response_third: autoDraw = False
+78.9768 	EXP 	text_response_same: autoDraw = False
+78.9768 	EXP 	text_trial_cross: autoDraw = False
+78.9768 	EXP 	text_trial_cross: autoDraw = True
+79.1759 	EXP 	text_trial_cross: autoDraw = False
+80.9603 	EXP 	text_response_first: autoDraw = True
+80.9603 	EXP 	text_response_third: autoDraw = True
+80.9603 	EXP 	text_response_same: autoDraw = True
+83.1447 	EXP 	New trial (rep=0, index=20): OrderedDict([('stim1', 'stim/bda5.wav'), ('stim2', 'stim/bda4.wav'), ('stim3', 'stim/bda0.wav'), ('trialType', 'bba'), ('diffCategory', 'third'), ('isCorrect', 0.0)])
+83.1480 	DATA 	Keypress: 0
+83.1601 	EXP 	text_response_first: autoDraw = False
+83.1601 	EXP 	text_response_third: autoDraw = False
+83.1601 	EXP 	text_response_same: autoDraw = False
+83.1601 	EXP 	text_trial_cross: autoDraw = False
+83.1601 	EXP 	text_trial_cross: autoDraw = True
+83.3594 	EXP 	text_trial_cross: autoDraw = False
+85.1428 	EXP 	text_response_first: autoDraw = True
+85.1428 	EXP 	text_response_third: autoDraw = True
+85.1428 	EXP 	text_response_same: autoDraw = True
+86.6611 	EXP 	New trial (rep=0, index=21): OrderedDict([('stim1', 'stim/bda2.wav'), ('stim2', 'stim/bda1.wav'), ('stim3', 'stim/bda0.wav'), ('trialType', 'aaa'), ('diffCategory', 'same'), ('isCorrect', 'space')])
+86.6642 	DATA 	Keypress: 1
+86.6759 	EXP 	text_response_first: autoDraw = False
+86.6759 	EXP 	text_response_third: autoDraw = False
+86.6759 	EXP 	text_response_same: autoDraw = False
+86.6759 	EXP 	text_trial_cross: autoDraw = False
+86.6759 	EXP 	text_trial_cross: autoDraw = True
+86.8761 	EXP 	text_trial_cross: autoDraw = False
+88.6601 	EXP 	text_response_first: autoDraw = True
+88.6601 	EXP 	text_response_third: autoDraw = True
+88.6601 	EXP 	text_response_same: autoDraw = True
+89.1773 	EXP 	New trial (rep=0, index=22): OrderedDict([('stim1', 'stim/bda4.wav'), ('stim2', 'stim/bda5.wav'), ('stim3', 'stim/bda5.wav'), ('trialType', 'bbb'), ('diffCategory', 'same'), ('isCorrect', 'space')])
+89.1804 	DATA 	Keypress: space
+89.1937 	EXP 	text_response_first: autoDraw = False
+89.1937 	EXP 	text_response_third: autoDraw = False
+89.1937 	EXP 	text_response_same: autoDraw = False
+89.1937 	EXP 	text_trial_cross: autoDraw = False
+89.1937 	EXP 	text_trial_cross: autoDraw = True
+89.4100 	EXP 	text_trial_cross: autoDraw = False
+91.1763 	EXP 	text_response_first: autoDraw = True
+91.1763 	EXP 	text_response_third: autoDraw = True
+91.1763 	EXP 	text_response_same: autoDraw = True
+92.0113 	EXP 	New trial (rep=0, index=23): OrderedDict([('stim1', 'stim/bda1.wav'), ('stim2', 'stim/bda0.wav'), ('stim3', 'stim/bda1.wav'), ('trialType', 'aaa'), ('diffCategory', 'same'), ('isCorrect', 'space')])
+92.0144 	DATA 	Keypress: space
+92.0272 	EXP 	text_response_first: autoDraw = False
+92.0272 	EXP 	text_response_third: autoDraw = False
+92.0272 	EXP 	text_response_same: autoDraw = False
+92.0272 	EXP 	text_trial_cross: autoDraw = False
+92.0272 	EXP 	text_trial_cross: autoDraw = True
+92.2264 	EXP 	text_trial_cross: autoDraw = False
+94.0105 	EXP 	text_response_first: autoDraw = True
+94.0105 	EXP 	text_response_third: autoDraw = True
+94.0105 	EXP 	text_response_same: autoDraw = True
+94.6282 	EXP 	New trial (rep=0, index=24): OrderedDict([('stim1', 'stim/bda2.wav'), ('stim2', 'stim/bda5.wav'), ('stim3', 'stim/bda6.wav'), ('trialType', 'abb'), ('diffCategory', 'first'), ('isCorrect', 1.0)])
+94.6327 	DATA 	Keypress: space
+94.6439 	EXP 	text_response_first: autoDraw = False
+94.6439 	EXP 	text_response_third: autoDraw = False
+94.6439 	EXP 	text_response_same: autoDraw = False
+94.6439 	EXP 	text_trial_cross: autoDraw = False
+94.6439 	EXP 	text_trial_cross: autoDraw = True
+94.8434 	EXP 	text_trial_cross: autoDraw = False
+96.6270 	EXP 	text_response_first: autoDraw = True
+96.6270 	EXP 	text_response_third: autoDraw = True
+96.6270 	EXP 	text_response_same: autoDraw = True
+99.0452 	EXP 	New trial (rep=0, index=25): OrderedDict([('stim1', 'stim/bda5.wav'), ('stim2', 'stim/bda2.wav'), ('stim3', 'stim/bda1.wav'), ('trialType', 'baa'), ('diffCategory', 'first'), ('isCorrect', 1.0)])
+99.0485 	DATA 	Keypress: 1
+99.0598 	EXP 	text_response_first: autoDraw = False
+99.0598 	EXP 	text_response_third: autoDraw = False
+99.0598 	EXP 	text_response_same: autoDraw = False
+99.0598 	EXP 	text_trial_cross: autoDraw = False
+99.0598 	EXP 	text_trial_cross: autoDraw = True
+99.2597 	EXP 	text_trial_cross: autoDraw = False
+101.0434 	EXP 	text_response_first: autoDraw = True
+101.0434 	EXP 	text_response_third: autoDraw = True
+101.0434 	EXP 	text_response_same: autoDraw = True
+101.7783 	EXP 	New trial (rep=0, index=26): OrderedDict([('stim1', 'stim/bda1.wav'), ('stim2', 'stim/bda0.wav'), ('stim3', 'stim/bda4.wav'), ('trialType', 'aab'), ('diffCategory', 'third'), ('isCorrect', 0.0)])
+101.7827 	DATA 	Keypress: 1
+101.7939 	EXP 	text_response_first: autoDraw = False
+101.7939 	EXP 	text_response_third: autoDraw = False
+101.7939 	EXP 	text_response_same: autoDraw = False
+101.7939 	EXP 	text_trial_cross: autoDraw = False
+101.7939 	EXP 	text_trial_cross: autoDraw = True
+101.9934 	EXP 	text_trial_cross: autoDraw = False
+103.7766 	EXP 	text_response_first: autoDraw = True
+103.7766 	EXP 	text_response_third: autoDraw = True
+103.7766 	EXP 	text_response_same: autoDraw = True
+104.9281 	EXP 	New trial (rep=0, index=27): OrderedDict([('stim1', 'stim/bda6.wav'), ('stim2', 'stim/bda5.wav'), ('stim3', 'stim/bda4.wav'), ('trialType', 'bbb'), ('diffCategory', 'same'), ('isCorrect', 'space')])
+104.9322 	DATA 	Keypress: 0
+104.9428 	EXP 	text_response_first: autoDraw = False
+104.9428 	EXP 	text_response_third: autoDraw = False
+104.9428 	EXP 	text_response_same: autoDraw = False
+104.9428 	EXP 	text_trial_cross: autoDraw = False
+104.9428 	EXP 	text_trial_cross: autoDraw = True
+105.1431 	EXP 	text_trial_cross: autoDraw = False
+106.9267 	EXP 	text_response_first: autoDraw = True
+106.9267 	EXP 	text_response_third: autoDraw = True
+106.9267 	EXP 	text_response_same: autoDraw = True
+107.9294 	EXP 	New trial (rep=0, index=28): OrderedDict([('stim1', 'stim/bda6.wav'), ('stim2', 'stim/bda2.wav'), ('stim3', 'stim/bda1.wav'), ('trialType', 'baa'), ('diffCategory', 'first'), ('isCorrect', 1.0)])
+107.9324 	DATA 	Keypress: space
+107.9443 	EXP 	text_response_first: autoDraw = False
+107.9443 	EXP 	text_response_third: autoDraw = False
+107.9443 	EXP 	text_response_same: autoDraw = False
+107.9443 	EXP 	text_trial_cross: autoDraw = False
+107.9443 	EXP 	text_trial_cross: autoDraw = True
+108.1435 	EXP 	text_trial_cross: autoDraw = False
+109.9271 	EXP 	text_response_first: autoDraw = True
+109.9271 	EXP 	text_response_third: autoDraw = True
+109.9271 	EXP 	text_response_same: autoDraw = True
+110.6291 	EXP 	New trial (rep=0, index=29): OrderedDict([('stim1', 'stim/bda0.wav'), ('stim2', 'stim/bda1.wav'), ('stim3', 'stim/bda1.wav'), ('trialType', 'aaa'), ('diffCategory', 'same'), ('isCorrect', 'space')])
+110.6321 	DATA 	Keypress: 1
+110.6432 	EXP 	text_response_first: autoDraw = False
+110.6432 	EXP 	text_response_third: autoDraw = False
+110.6432 	EXP 	text_response_same: autoDraw = False
+110.6432 	EXP 	text_trial_cross: autoDraw = False
+110.6432 	EXP 	text_trial_cross: autoDraw = True
+110.8434 	EXP 	text_trial_cross: autoDraw = False
+112.6268 	EXP 	text_response_first: autoDraw = True
+112.6268 	EXP 	text_response_third: autoDraw = True
+112.6268 	EXP 	text_response_same: autoDraw = True
+113.4206 	DATA 	Keypress: escape
+113.8120 	EXP 	window1: mouseVisible = True
+113.8121 	DEBUG 	Saving data for discrimination_axb ExperimentHandler
+113.8144 	INFO 	saved data to /Users/kyleparrish/Downloads/discrimination_axb/data/_2021_Oct_23_1802.psydat
+113.8186 	INFO 	saved data to '/Users/kyleparrish/Downloads/discrimination_axb/data/_2021_Oct_23_1802.csv'

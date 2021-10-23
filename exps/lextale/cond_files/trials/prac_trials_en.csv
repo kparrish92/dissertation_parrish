@@ -1,0 +1,13 @@
+stim,word,correct_response,prac_label,prac_button_real,prac_button_false
+0,platery,0,PRACTICE,Real,False
+0,denial,1,PRACTICE,Real,False
+0,generic,1,PRACTICE,Real,False
+0,houses,1,PRACTICE,Real,False
+0,moniter,0,PRACTICE,Real,False
+0,business,1,PRACTICE,Real,False
+0,prowse,0,PRACTICE,Real,False
+0,derogatory,1,PRACTICE,Real,False
+0,treduce,0,PRACTICE,Real,False
+0,vanguard,1,PRACTICE,Real,False
+0,croster,0,PRACTICE,Real,False
+0,credible,1,PRACTICE,Real,False

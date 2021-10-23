@@ -1,0 +1,44 @@
+section,questionNum,questionText,language
+Language history,1a,"At what age did you start learning the following languages?",English
+Language history,1b,"At what age did you start learning the following languages?",Spanish
+Language history,2a,"At what age did you start to feel comfortable using the following languages?",English
+Language history,2b,"At what age did you start to feel comfortable using the following languages?",Spanish
+Language history,3a,"How many years of classes (grammar, history, math, etc.) have you had in the following languages (primary school through university)?",English
+Language history,3b,"How many years of classes (grammar, history, math, etc.) have you had in the following languages (primary school through university)?",Spanish
+Language history,4a,"How many years have you spent in a country/region where the following languages are spoken?",English
+Language history,4b,"How many years have you spent in a country/region where the following languages are spoken?",Spanish
+Language history,5a,"How many years have you spent in a family where the following languages are spoken?",English
+Language history,5b,"How many years have you spent in a family where the following languages are spoken?",Spanish
+Language history,6a,"How many years have you spent in a work environment where the following languages are spoken?",English
+Language history,6b,"How many years have you spent in a work environment where the following languages are spoken?",Spanish
+Language use,7a,"In an average week, what percentage of the time do you use the following languages with friends?",English
+Language use,7b,"In an average week, what percentage of the time do you use the following languages with friends?",Spanish
+Language use,7c,"In an average week, what percentage of the time do you use the following languages with friends?",Other languages
+Language use,8a,"In an average week, what percentage of the time do you use the following languages with family?",English
+Language use,8b,"In an average week, what percentage of the time do you use the following languages with family?",Spanish
+Language use,8c,"In an average week, what percentage of the time do you use the following languages with family?",Other languages
+Language use,9a,"In an average week, what percentage of the time do you use the following languages at school/work?",English
+Language use,9b,"In an average week, what percentage of the time do you use the following languages at school/work?",Spanish
+Language use,9c,"In an average week, what percentage of the time do you use the following languages at school/work?",Other languages
+Language use,10a,"When you talk to yourself, how often do you talk to yourself in the following languages?",English
+Language use,10b,"When you talk to yourself, how often do you talk to yourself in the following languages?",Spanish
+Language use,10c,"When you talk to yourself, how often do you talk to yourself in the following languages?",Other languages
+Language use,11a,"When you count, how often do you count in the following languages?",English
+Language use,11b,"When you count, how often do you count in the following languages?",Spanish
+Language use,11c,"When you count, how often do you count in the following languages?",Other languages
+Language proficiency,12a,"How well do you speak",English
+Language proficiency,12b,"How well do you speak",Spanish
+Language proficiency,13a,"How well do you understand",English
+Language proficiency,13b,"How well do you understand",Spanish
+Language proficiency,14a,"How well do you read",English
+Language proficiency,14b,"How well do you read",Spanish
+Language proficiency,15a,"How well do you write",English
+Language proficiency,15b,"How well do you write",Spanish
+Language attitudes,16a,"I feel like myself when I speak English.",English
+Language attitudes,16b,"I feel like myself when I speak Spanish.",Spanish
+Language attitudes,17a,"I identify with an English-speaking culture.",English
+Language attitudes,17b,"I identify with an Spanish-speaking culture.",Spanish
+Language attitudes,18a,"It is important to me to use (or eventually use) English like a native speaker.",English
+Language attitudes,18b,"It is important to me to use (or eventually use) Spanish like a native speaker.",Spanish
+Language attitudes,19a,"I want others to think I am a native speaker of English.",English
+Language attitudes,19b," I want others to think I am a native speaker of Spanish.",Spanish

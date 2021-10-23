@@ -1,0 +1,720 @@
+<?xml version="1.0" ?>
+<PsychoPy2experiment encoding="utf-8" version="1.85.4">
+  <Settings>
+    <Param name="Monitor" updates="None" val="testMonitor" valType="str"/>
+    <Param name="color" updates="None" val="$[0,0,0]" valType="str"/>
+    <Param name="colorSpace" updates="None" val="rgb" valType="str"/>
+    <Param name="Experiment info" updates="None" val="{u'participant': u'', u'country': u'', u'age': u'', u'highest level of ed': u'', u'gender': u'', u'place of residence': u'city,state'}" valType="code"/>
+    <Param name="JS libs" updates="None" val="packaged" valType="str"/>
+    <Param name="Units" updates="None" val="use prefs" valType="str"/>
+    <Param name="Save excel file" updates="None" val="False" valType="bool"/>
+    <Param name="Enable Escape" updates="None" val="True" valType="bool"/>
+    <Param name="Save psydat file" updates="None" val="True" valType="bool"/>
+    <Param name="Window size (pixels)" updates="None" val="[1680, 1050]" valType="code"/>
+    <Param name="Full-screen window" updates="None" val="True" valType="bool"/>
+    <Param name="blendMode" updates="None" val="avg" valType="str"/>
+    <Param name="Use version" updates="None" val="" valType="str"/>
+    <Param name="HTML path" updates="None" val="html" valType="str"/>
+    <Param name="Save csv file" updates="None" val="False" valType="bool"/>
+    <Param name="OSF Project ID" updates="None" val="" valType="str"/>
+    <Param name="Save log file" updates="None" val="True" valType="bool"/>
+    <Param name="Save wide csv file" updates="None" val="True" valType="bool"/>
+    <Param name="Show mouse" updates="None" val="False" valType="bool"/>
+    <Param name="Data filename" updates="None" val="u'data/%s_%s_%s' % (expInfo['participant'], expName, expInfo['date'])" valType="code"/>
+    <Param name="Show info dlg" updates="None" val="True" valType="bool"/>
+    <Param name="expName" updates="None" val="blp" valType="str"/>
+    <Param name="logging level" updates="None" val="exp" valType="code"/>
+    <Param name="Screen" updates="None" val="1" valType="num"/>
+  </Settings>
+  <Routines>
+    <Routine name="lang_use_ins">
+      <TextComponent name="text_lang_use_ins">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_lang_use_ins" valType="code"/>
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, 0)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="text" updates="constant" val="Language use&amp;#10;&amp;#10;In this section, we would like you to answer some questions about your language use by placing a check in the appropriate box. Total use for all languages in a given question should equal 100%.&amp;#10;&amp;#10;Press the spacebar to begin." valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <KeyboardComponent name="key_resp_lang_use">
+        <Param name="correctAns" updates="constant" val="" valType="str"/>
+        <Param name="storeCorrect" updates="constant" val="False" valType="bool"/>
+        <Param name="name" updates="None" val="key_resp_lang_use" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="discard previous" updates="constant" val="True" valType="bool"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="allowedKeys" updates="constant" val="'space'" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="store" updates="constant" val="nothing" valType="str"/>
+        <Param name="syncScreenRefresh" updates="constant" val="True" valType="bool"/>
+      </KeyboardComponent>
+    </Routine>
+    <Routine name="language_use">
+      <TextComponent name="text_section_lang_use">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_section_lang_use" valType="code"/>
+        <Param name="color" updates="constant" val="black" valType="str"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, 0.75)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="text" updates="set every repeat" val="$section" valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <TextComponent name="text_lang_use_question">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_lang_use_question" valType="code"/>
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, 0)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="text" updates="set every repeat" val="$questionText" valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <TextComponent name="text_lang_use_lang">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_lang_use_lang" valType="code"/>
+        <Param name="color" updates="constant" val="blue" valType="str"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, -0.3)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="text" updates="set every repeat" val="$language" valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <TextComponent name="text_lang_use_qnum">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_lang_use_qnum" valType="code"/>
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(-0.9, 0.9)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="text" updates="set every repeat" val="$questionNum" valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <RatingScaleComponent name="rating_lang_use">
+        <Param name="labels" updates="constant" val="0%, 100%" valType="str"/>
+        <Param name="pos" updates="constant" val="0, -0.5" valType="str"/>
+        <Param name="high" updates="constant" val="100" valType="code"/>
+        <Param name="storeRating" updates="constant" val="True" valType="bool"/>
+        <Param name="marker" updates="constant" val="triangle" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="markerStart" updates="constant" val="" valType="str"/>
+        <Param name="disappear" updates="constant" val="False" valType="bool"/>
+        <Param name="size" updates="constant" val="0.8" valType="code"/>
+        <Param name="tickHeight" updates="constant" val="" valType="str"/>
+        <Param name="showAccept" updates="constant" val="True" valType="bool"/>
+        <Param name="storeRatingTime" updates="constant" val="True" valType="bool"/>
+        <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
+        <Param name="low" updates="constant" val="0" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="visualAnalogScale" updates="constant" val="False" valType="bool"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="stopType" updates="None" val="condition" valType="str"/>
+        <Param name="scaleDescription" updates="constant" val="" valType="str"/>
+        <Param name="storeHistory" updates="constant" val="False" valType="bool"/>
+        <Param name="categoryChoices" updates="constant" val="0, 10, 20, 40, 50, 60, 70, 80, 90, 100" valType="str"/>
+        <Param name="customize_everything" updates="constant" val="" valType="str"/>
+        <Param name="name" updates="None" val="rating_lang_use" valType="code"/>
+        <Param name="singleClick" updates="constant" val="False" valType="bool"/>
+      </RatingScaleComponent>
+    </Routine>
+    <Routine name="language_attitudes">
+      <TextComponent name="text_lang_att_section">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_lang_att_section" valType="code"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="color" updates="constant" val="black" valType="str"/>
+        <Param name="text" updates="set every repeat" val="$section" valType="str"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, 0.75)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <TextComponent name="text_lang_att_ques">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_lang_att_ques" valType="code"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="text" updates="set every repeat" val="$questionText" valType="str"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, 0)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <TextComponent name="text_lang_att_qnum">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_lang_att_qnum" valType="code"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="text" updates="set every repeat" val="$questionNum" valType="str"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(-0.9, 0.9)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <RatingScaleComponent name="rating_lang_att">
+        <Param name="labels" updates="constant" val="disagree, agree" valType="str"/>
+        <Param name="pos" updates="constant" val="0, -0.4" valType="str"/>
+        <Param name="high" updates="constant" val="6" valType="code"/>
+        <Param name="storeRating" updates="constant" val="True" valType="bool"/>
+        <Param name="marker" updates="constant" val="triangle" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="markerStart" updates="constant" val="" valType="str"/>
+        <Param name="disappear" updates="constant" val="False" valType="bool"/>
+        <Param name="size" updates="constant" val="1.0" valType="code"/>
+        <Param name="tickHeight" updates="constant" val="" valType="str"/>
+        <Param name="showAccept" updates="constant" val="True" valType="bool"/>
+        <Param name="storeRatingTime" updates="constant" val="True" valType="bool"/>
+        <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
+        <Param name="low" updates="constant" val="0" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="visualAnalogScale" updates="constant" val="False" valType="bool"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="stopType" updates="None" val="condition" valType="str"/>
+        <Param name="scaleDescription" updates="constant" val="" valType="str"/>
+        <Param name="storeHistory" updates="constant" val="False" valType="bool"/>
+        <Param name="categoryChoices" updates="constant" val="" valType="str"/>
+        <Param name="customize_everything" updates="constant" val="" valType="str"/>
+        <Param name="name" updates="None" val="rating_lang_att" valType="code"/>
+        <Param name="singleClick" updates="constant" val="False" valType="bool"/>
+      </RatingScaleComponent>
+    </Routine>
+    <Routine name="lang_hist_ins">
+      <TextComponent name="text_lang_his_ins">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_lang_his_ins" valType="code"/>
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, 0)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="text" updates="constant" val="Language history&amp;#10;&amp;#10;In this section, we would like you to answer some factual questions about your language history by placing a check in the appropriate box.&amp;#10;&amp;#10;Press the spacebar to begin." valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <KeyboardComponent name="key_resp_lang_hist">
+        <Param name="correctAns" updates="constant" val="" valType="str"/>
+        <Param name="storeCorrect" updates="constant" val="False" valType="bool"/>
+        <Param name="name" updates="None" val="key_resp_lang_hist" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="discard previous" updates="constant" val="True" valType="bool"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="allowedKeys" updates="constant" val="'space'" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="store" updates="constant" val="nothing" valType="str"/>
+        <Param name="syncScreenRefresh" updates="constant" val="True" valType="bool"/>
+      </KeyboardComponent>
+    </Routine>
+    <Routine name="lang_att_ins">
+      <TextComponent name="text_lang_att_ins">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_lang_att_ins" valType="code"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="text" updates="constant" val="Language attitudes&amp;#10;&amp;#10;In this section, we would like you to respond to statements about language attitudes by giving marks from 0-6.&amp;#10;&amp;#10;Press the spacebar to begin." valType="str"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, 0)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <KeyboardComponent name="key_resp_lang_att_ins">
+        <Param name="correctAns" updates="constant" val="" valType="str"/>
+        <Param name="storeCorrect" updates="constant" val="False" valType="bool"/>
+        <Param name="name" updates="None" val="key_resp_lang_att_ins" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="discard previous" updates="constant" val="True" valType="bool"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="allowedKeys" updates="constant" val="'space'" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="store" updates="constant" val="nothing" valType="str"/>
+        <Param name="syncScreenRefresh" updates="constant" val="True" valType="bool"/>
+      </KeyboardComponent>
+    </Routine>
+    <Routine name="language_proficiency">
+      <TextComponent name="text_section_lang_prof">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_section_lang_prof" valType="code"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="color" updates="constant" val="black" valType="str"/>
+        <Param name="text" updates="set every repeat" val="$section" valType="str"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, 0.75)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <TextComponent name="text_lang_prof_question">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_lang_prof_question" valType="code"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="text" updates="set every repeat" val="$questionText" valType="str"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, 0)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <TextComponent name="text_lang_prof_lang">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_lang_prof_lang" valType="code"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="color" updates="constant" val="blue" valType="str"/>
+        <Param name="text" updates="set every repeat" val="$language" valType="str"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(0.0, -0.2)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <TextComponent name="text_lang_prof_qnum">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_lang_prof_qnum" valType="code"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="text" updates="set every repeat" val="$questionNum" valType="str"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(-0.9, 0.9)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <TextComponent name="text_lang_prof_qmark">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_lang_prof_qmark" valType="code"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="text" updates="set every repeat" val="?" valType="str"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(0.17, -0.2)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <RatingScaleComponent name="rating_lang_prof">
+        <Param name="labels" updates="constant" val="Not well at all, Very well" valType="str"/>
+        <Param name="pos" updates="constant" val="0, -0.4" valType="str"/>
+        <Param name="high" updates="constant" val="6" valType="code"/>
+        <Param name="storeRating" updates="constant" val="True" valType="bool"/>
+        <Param name="marker" updates="constant" val="triangle" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="markerStart" updates="constant" val="" valType="str"/>
+        <Param name="disappear" updates="constant" val="False" valType="bool"/>
+        <Param name="size" updates="constant" val="1.0" valType="code"/>
+        <Param name="tickHeight" updates="constant" val="" valType="str"/>
+        <Param name="showAccept" updates="constant" val="True" valType="bool"/>
+        <Param name="storeRatingTime" updates="constant" val="True" valType="bool"/>
+        <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
+        <Param name="low" updates="constant" val="0" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="visualAnalogScale" updates="constant" val="False" valType="bool"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="stopType" updates="None" val="condition" valType="str"/>
+        <Param name="scaleDescription" updates="constant" val="" valType="str"/>
+        <Param name="storeHistory" updates="constant" val="False" valType="bool"/>
+        <Param name="categoryChoices" updates="constant" val="" valType="str"/>
+        <Param name="customize_everything" updates="constant" val="" valType="str"/>
+        <Param name="name" updates="None" val="rating_lang_prof" valType="code"/>
+        <Param name="singleClick" updates="constant" val="False" valType="bool"/>
+      </RatingScaleComponent>
+    </Routine>
+    <Routine name="language_history">
+      <TextComponent name="text_section_lang_hist">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_section_lang_hist" valType="code"/>
+        <Param name="color" updates="constant" val="black" valType="str"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, 0.75)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="text" updates="set every repeat" val="$section" valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <TextComponent name="text_lang_hist_question">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_lang_hist_question" valType="code"/>
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, 0)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="text" updates="set every repeat" val="$questionText" valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <TextComponent name="text_lang_hist_lang">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_lang_hist_lang" valType="code"/>
+        <Param name="color" updates="constant" val="blue" valType="str"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, -0.3)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="text" updates="set every repeat" val="$language" valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <TextComponent name="text_lang_hist_qnum">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_lang_hist_qnum" valType="code"/>
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(-0.9, 0.9)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="text" updates="set every repeat" val="$questionNum" valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <RatingScaleComponent name="rating_lang_hist">
+        <Param name="labels" updates="constant" val="Since birth, 20+" valType="str"/>
+        <Param name="pos" updates="constant" val="0, -0.5" valType="str"/>
+        <Param name="high" updates="constant" val="20" valType="code"/>
+        <Param name="storeRating" updates="constant" val="True" valType="bool"/>
+        <Param name="marker" updates="constant" val="triangle" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="markerStart" updates="constant" val="" valType="str"/>
+        <Param name="disappear" updates="constant" val="False" valType="bool"/>
+        <Param name="size" updates="constant" val="1.0" valType="code"/>
+        <Param name="tickHeight" updates="constant" val="" valType="str"/>
+        <Param name="showAccept" updates="constant" val="True" valType="bool"/>
+        <Param name="storeRatingTime" updates="constant" val="True" valType="bool"/>
+        <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
+        <Param name="low" updates="constant" val="0" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="visualAnalogScale" updates="constant" val="False" valType="bool"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="stopType" updates="None" val="condition" valType="str"/>
+        <Param name="scaleDescription" updates="constant" val="" valType="str"/>
+        <Param name="storeHistory" updates="constant" val="False" valType="bool"/>
+        <Param name="categoryChoices" updates="constant" val="" valType="str"/>
+        <Param name="customize_everything" updates="constant" val="" valType="str"/>
+        <Param name="name" updates="None" val="rating_lang_hist" valType="code"/>
+        <Param name="singleClick" updates="constant" val="False" valType="bool"/>
+      </RatingScaleComponent>
+    </Routine>
+    <Routine name="lang_prof_ins">
+      <TextComponent name="text_lang_prof_ins">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_lang_prof_ins" valType="code"/>
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, 0)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="text" updates="constant" val="Language proficiency&amp;#10;&amp;#10;In this section, we would like you to rate your language proficiency by giving marks from 0 to 6.&amp;#10;&amp;#10;Press the spacebar to begin" valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+      </TextComponent>
+      <KeyboardComponent name="key_resp_lang_prof_ins">
+        <Param name="correctAns" updates="constant" val="" valType="str"/>
+        <Param name="storeCorrect" updates="constant" val="False" valType="bool"/>
+        <Param name="name" updates="None" val="key_resp_lang_prof_ins" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="discard previous" updates="constant" val="True" valType="bool"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="allowedKeys" updates="constant" val="'space'" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="store" updates="constant" val="nothing" valType="str"/>
+        <Param name="syncScreenRefresh" updates="constant" val="True" valType="bool"/>
+      </KeyboardComponent>
+    </Routine>
+    <Routine name="instructions">
+      <TextComponent name="text_instructions">
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="name" updates="None" val="text_instructions" valType="code"/>
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, 0)" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="text" updates="constant" val="We would like to ask you to help us by answering the following questions concerning your language history, use, attitudes, and proficiency. This survey was created with support from the Center for Open Educational Resources and Language Learning at the University of Texas at Austin to better understand the profiles of bilingual speakers in diverse settings with diverse backgrounds. The survey consists of 19 questions and will take less than 10 minutes to complete. This is not a test, so there are no right or wrong answers. Please answer every question and give your answers sincerely. Thank you very much for your help." valType="str"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.07" valType="code"/>
+      </TextComponent>
+      <KeyboardComponent name="key_resp_instructions">
+        <Param name="correctAns" updates="constant" val="" valType="str"/>
+        <Param name="storeCorrect" updates="constant" val="False" valType="bool"/>
+        <Param name="name" updates="None" val="key_resp_instructions" valType="code"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="discard previous" updates="constant" val="True" valType="bool"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="allowedKeys" updates="constant" val="'space'" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="store" updates="constant" val="nothing" valType="str"/>
+        <Param name="syncScreenRefresh" updates="constant" val="True" valType="bool"/>
+      </KeyboardComponent>
+    </Routine>
+  </Routines>
+  <Flow>
+    <Routine name="instructions"/>
+    <Routine name="lang_hist_ins"/>
+    <LoopInitiator loopType="TrialHandler" name="trials_hist">
+      <Param name="conditionsFile" updates="None" val="condition_file/en_trials.csv" valType="str"/>
+      <Param name="name" updates="None" val="trials_hist" valType="code"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+      <Param name="loopType" updates="None" val="sequential" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="code"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="conditions" updates="None" val="[{'section': u'Language history', 'questionText': u'At what age did you start learning the following languages?', 'language': u'English', 'questionNum': u'1a'}, {'section': u'Language history', 'questionText': u'At what age did you start learning the following languages?', 'language': u'Spanish', 'questionNum': u'1b'}, {'section': u'Language history', 'questionText': u'At what age did you start to feel comfortable using the following languages?', 'language': u'English', 'questionNum': u'2a'}, {'section': u'Language history', 'questionText': u'At what age did you start to feel comfortable using the following languages?', 'language': u'Spanish', 'questionNum': u'2b'}, {'section': u'Language history', 'questionText': u'How many years of classes (grammar, history, math, etc.) have you had in the following languages (primary school through university)?', 'language': u'English', 'questionNum': u'3a'}, {'section': u'Language history', 'questionText': u'How many years of classes (grammar, history, math, etc.) have you had in the following languages (primary school through university)?', 'language': u'Spanish', 'questionNum': u'3b'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a country/region where the following languages are spoken?', 'language': u'English', 'questionNum': u'4a'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a country/region where the following languages are spoken?', 'language': u'Spanish', 'questionNum': u'4b'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a family where the following languages are spoken?', 'language': u'English', 'questionNum': u'5a'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a family where the following languages are spoken?', 'language': u'Spanish', 'questionNum': u'5b'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a work environment where the following languages are spoken?', 'language': u'English', 'questionNum': u'6a'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a work environment where the following languages are spoken?', 'language': u'Spanish', 'questionNum': u'6b'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with friends?', 'language': u'English', 'questionNum': u'7a'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with friends?', 'language': u'Spanish', 'questionNum': u'7b'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with friends?', 'language': u'Other languages', 'questionNum': u'7c'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with family?', 'language': u'English', 'questionNum': u'8a'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with family?', 'language': u'Spanish', 'questionNum': u'8b'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with family?', 'language': u'Other languages', 'questionNum': u'8c'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages at school/work?', 'language': u'English', 'questionNum': u'9a'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages at school/work?', 'language': u'Spanish', 'questionNum': u'9b'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages at school/work?', 'language': u'Other languages', 'questionNum': u'9c'}, {'section': u'Language use', 'questionText': u'When you talk to yourself, how often do you talk to yourself in the following languages?', 'language': u'English', 'questionNum': u'10a'}, {'section': u'Language use', 'questionText': u'When you talk to yourself, how often do you talk to yourself in the following languages?', 'language': u'Spanish', 'questionNum': u'10b'}, {'section': u'Language use', 'questionText': u'When you talk to yourself, how often do you talk to yourself in the following languages?', 'language': u'Other languages', 'questionNum': u'10c'}, {'section': u'Language use', 'questionText': u'When you count, how often do you count in the following languages?', 'language': u'English', 'questionNum': u'11a'}, {'section': u'Language use', 'questionText': u'When you count, how often do you count in the following languages?', 'language': u'Spanish', 'questionNum': u'11b'}, {'section': u'Language use', 'questionText': u'When you count, how often do you count in the following languages?', 'language': u'Other languages', 'questionNum': u'11c'}]" valType="str"/>
+      <Param name="Selected rows" updates="None" val="'0:12'" valType="code"/>
+    </LoopInitiator>
+    <Routine name="language_history"/>
+    <LoopTerminator name="trials_hist"/>
+    <Routine name="lang_use_ins"/>
+    <LoopInitiator loopType="TrialHandler" name="trials_use">
+      <Param name="conditionsFile" updates="None" val="condition_file/en_trials.csv" valType="str"/>
+      <Param name="name" updates="None" val="trials_use" valType="code"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+      <Param name="loopType" updates="None" val="sequential" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="code"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="conditions" updates="None" val="[{'section': u'Language history', 'questionText': u'At what age did you start learning the following languages?', 'language': u'English', 'questionNum': u'1a'}, {'section': u'Language history', 'questionText': u'At what age did you start learning the following languages?', 'language': u'Spanish', 'questionNum': u'1b'}, {'section': u'Language history', 'questionText': u'At what age did you start to feel comfortable using the following languages?', 'language': u'English', 'questionNum': u'2a'}, {'section': u'Language history', 'questionText': u'At what age did you start to feel comfortable using the following languages?', 'language': u'Spanish', 'questionNum': u'2b'}, {'section': u'Language history', 'questionText': u'How many years of classes (grammar, history, math, etc.) have you had in the following languages (primary school through university)?', 'language': u'English', 'questionNum': u'3a'}, {'section': u'Language history', 'questionText': u'How many years of classes (grammar, history, math, etc.) have you had in the following languages (primary school through university)?', 'language': u'Spanish', 'questionNum': u'3b'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a country/region where the following languages are spoken?', 'language': u'English', 'questionNum': u'4a'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a country/region where the following languages are spoken?', 'language': u'Spanish', 'questionNum': u'4b'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a family where the following languages are spoken?', 'language': u'English', 'questionNum': u'5a'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a family where the following languages are spoken?', 'language': u'Spanish', 'questionNum': u'5b'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a work environment where the following languages are spoken?', 'language': u'English', 'questionNum': u'6a'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a work environment where the following languages are spoken?', 'language': u'Spanish', 'questionNum': u'6b'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with friends?', 'language': u'English', 'questionNum': u'7a'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with friends?', 'language': u'Spanish', 'questionNum': u'7b'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with friends?', 'language': u'Other languages', 'questionNum': u'7c'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with family?', 'language': u'English', 'questionNum': u'8a'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with family?', 'language': u'Spanish', 'questionNum': u'8b'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with family?', 'language': u'Other languages', 'questionNum': u'8c'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages at school/work?', 'language': u'English', 'questionNum': u'9a'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages at school/work?', 'language': u'Spanish', 'questionNum': u'9b'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages at school/work?', 'language': u'Other languages', 'questionNum': u'9c'}, {'section': u'Language use', 'questionText': u'When you talk to yourself, how often do you talk to yourself in the following languages?', 'language': u'English', 'questionNum': u'10a'}, {'section': u'Language use', 'questionText': u'When you talk to yourself, how often do you talk to yourself in the following languages?', 'language': u'Spanish', 'questionNum': u'10b'}, {'section': u'Language use', 'questionText': u'When you talk to yourself, how often do you talk to yourself in the following languages?', 'language': u'Other languages', 'questionNum': u'10c'}, {'section': u'Language use', 'questionText': u'When you count, how often do you count in the following languages?', 'language': u'English', 'questionNum': u'11a'}, {'section': u'Language use', 'questionText': u'When you count, how often do you count in the following languages?', 'language': u'Spanish', 'questionNum': u'11b'}, {'section': u'Language use', 'questionText': u'When you count, how often do you count in the following languages?', 'language': u'Other languages', 'questionNum': u'11c'}]" valType="str"/>
+      <Param name="Selected rows" updates="None" val="'12:27'" valType="code"/>
+    </LoopInitiator>
+    <Routine name="language_use"/>
+    <LoopTerminator name="trials_use"/>
+    <Routine name="lang_prof_ins"/>
+    <LoopInitiator loopType="TrialHandler" name="trials_prof">
+      <Param name="conditionsFile" updates="None" val="condition_file/en_trials.csv" valType="str"/>
+      <Param name="name" updates="None" val="trials_prof" valType="code"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+      <Param name="loopType" updates="None" val="sequential" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="code"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="conditions" updates="None" val="[{'section': u'Language history', 'questionText': u'At what age did you start learning the following languages?', 'language': u'English', 'questionNum': u'1a'}, {'section': u'Language history', 'questionText': u'At what age did you start learning the following languages?', 'language': u'Spanish', 'questionNum': u'1b'}, {'section': u'Language history', 'questionText': u'At what age did you start to feel comfortable using the following languages?', 'language': u'English', 'questionNum': u'2a'}, {'section': u'Language history', 'questionText': u'At what age did you start to feel comfortable using the following languages?', 'language': u'Spanish', 'questionNum': u'2b'}, {'section': u'Language history', 'questionText': u'How many years of classes (grammar, history, math, etc.) have you had in the following languages (primary school through university)?', 'language': u'English', 'questionNum': u'3a'}, {'section': u'Language history', 'questionText': u'How many years of classes (grammar, history, math, etc.) have you had in the following languages (primary school through university)?', 'language': u'Spanish', 'questionNum': u'3b'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a country/region where the following languages are spoken?', 'language': u'English', 'questionNum': u'4a'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a country/region where the following languages are spoken?', 'language': u'Spanish', 'questionNum': u'4b'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a family where the following languages are spoken?', 'language': u'English', 'questionNum': u'5a'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a family where the following languages are spoken?', 'language': u'Spanish', 'questionNum': u'5b'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a work environment where the following languages are spoken?', 'language': u'English', 'questionNum': u'6a'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a work environment where the following languages are spoken?', 'language': u'Spanish', 'questionNum': u'6b'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with friends?', 'language': u'English', 'questionNum': u'7a'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with friends?', 'language': u'Spanish', 'questionNum': u'7b'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with friends?', 'language': u'Other languages', 'questionNum': u'7c'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with family?', 'language': u'English', 'questionNum': u'8a'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with family?', 'language': u'Spanish', 'questionNum': u'8b'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with family?', 'language': u'Other languages', 'questionNum': u'8c'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages at school/work?', 'language': u'English', 'questionNum': u'9a'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages at school/work?', 'language': u'Spanish', 'questionNum': u'9b'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages at school/work?', 'language': u'Other languages', 'questionNum': u'9c'}, {'section': u'Language use', 'questionText': u'When you talk to yourself, how often do you talk to yourself in the following languages?', 'language': u'English', 'questionNum': u'10a'}, {'section': u'Language use', 'questionText': u'When you talk to yourself, how often do you talk to yourself in the following languages?', 'language': u'Spanish', 'questionNum': u'10b'}, {'section': u'Language use', 'questionText': u'When you talk to yourself, how often do you talk to yourself in the following languages?', 'language': u'Other languages', 'questionNum': u'10c'}, {'section': u'Language use', 'questionText': u'When you count, how often do you count in the following languages?', 'language': u'English', 'questionNum': u'11a'}, {'section': u'Language use', 'questionText': u'When you count, how often do you count in the following languages?', 'language': u'Spanish', 'questionNum': u'11b'}, {'section': u'Language use', 'questionText': u'When you count, how often do you count in the following languages?', 'language': u'Other languages', 'questionNum': u'11c'}, {'section': u'Language proficiency', 'questionText': u'How well do you speak \n\n?', 'language': u'English', 'questionNum': u'12a'}, {'section': u'Language proficiency', 'questionText': u'How well do you speak \n\n?', 'language': u'Spanish', 'questionNum': u'12b'}, {'section': u'Language proficiency', 'questionText': u'How well do you understand \n\n?', 'language': u'English', 'questionNum': u'13a'}, {'section': u'Language proficiency', 'questionText': u'How well do you understand \n\n?', 'language': u'Spanish', 'questionNum': u'13b'}, {'section': u'Language proficiency', 'questionText': u'How well do you read \n\n?', 'language': u'English', 'questionNum': u'14a'}, {'section': u'Language proficiency', 'questionText': u'How well do you read \n\n?', 'language': u'Spanish', 'questionNum': u'14b'}, {'section': u'Language proficiency', 'questionText': u'How well do you write \n\n?', 'language': u'English', 'questionNum': u'15a'}, {'section': u'Language proficiency', 'questionText': u'How well do you write \n\n?', 'language': u'Spanish', 'questionNum': u'15b'}]" valType="str"/>
+      <Param name="Selected rows" updates="None" val="'27:35'" valType="code"/>
+    </LoopInitiator>
+    <Routine name="language_proficiency"/>
+    <LoopTerminator name="trials_prof"/>
+    <Routine name="lang_att_ins"/>
+    <LoopInitiator loopType="TrialHandler" name="trials_att">
+      <Param name="conditionsFile" updates="None" val="condition_file/en_trials.csv" valType="str"/>
+      <Param name="name" updates="None" val="trials_att" valType="code"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+      <Param name="loopType" updates="None" val="sequential" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="code"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="conditions" updates="None" val="[{'section': u'Language history', 'questionText': u'At what age did you start learning the following languages?', 'language': u'English', 'questionNum': u'1a'}, {'section': u'Language history', 'questionText': u'At what age did you start learning the following languages?', 'language': u'Spanish', 'questionNum': u'1b'}, {'section': u'Language history', 'questionText': u'At what age did you start to feel comfortable using the following languages?', 'language': u'English', 'questionNum': u'2a'}, {'section': u'Language history', 'questionText': u'At what age did you start to feel comfortable using the following languages?', 'language': u'Spanish', 'questionNum': u'2b'}, {'section': u'Language history', 'questionText': u'How many years of classes (grammar, history, math, etc.) have you had in the following languages (primary school through university)?', 'language': u'English', 'questionNum': u'3a'}, {'section': u'Language history', 'questionText': u'How many years of classes (grammar, history, math, etc.) have you had in the following languages (primary school through university)?', 'language': u'Spanish', 'questionNum': u'3b'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a country/region where the following languages are spoken?', 'language': u'English', 'questionNum': u'4a'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a country/region where the following languages are spoken?', 'language': u'Spanish', 'questionNum': u'4b'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a family where the following languages are spoken?', 'language': u'English', 'questionNum': u'5a'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a family where the following languages are spoken?', 'language': u'Spanish', 'questionNum': u'5b'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a work environment where the following languages are spoken?', 'language': u'English', 'questionNum': u'6a'}, {'section': u'Language history', 'questionText': u'How many years have you spent in a work environment where the following languages are spoken?', 'language': u'Spanish', 'questionNum': u'6b'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with friends?', 'language': u'English', 'questionNum': u'7a'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with friends?', 'language': u'Spanish', 'questionNum': u'7b'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with friends?', 'language': u'Other languages', 'questionNum': u'7c'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with family?', 'language': u'English', 'questionNum': u'8a'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with family?', 'language': u'Spanish', 'questionNum': u'8b'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages with family?', 'language': u'Other languages', 'questionNum': u'8c'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages at school/work?', 'language': u'English', 'questionNum': u'9a'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages at school/work?', 'language': u'Spanish', 'questionNum': u'9b'}, {'section': u'Language use', 'questionText': u'In an average week, what percentage of the time do you use the following languages at school/work?', 'language': u'Other languages', 'questionNum': u'9c'}, {'section': u'Language use', 'questionText': u'When you talk to yourself, how often do you talk to yourself in the following languages?', 'language': u'English', 'questionNum': u'10a'}, {'section': u'Language use', 'questionText': u'When you talk to yourself, how often do you talk to yourself in the following languages?', 'language': u'Spanish', 'questionNum': u'10b'}, {'section': u'Language use', 'questionText': u'When you talk to yourself, how often do you talk to yourself in the following languages?', 'language': u'Other languages', 'questionNum': u'10c'}, {'section': u'Language use', 'questionText': u'When you count, how often do you count in the following languages?', 'language': u'English', 'questionNum': u'11a'}, {'section': u'Language use', 'questionText': u'When you count, how often do you count in the following languages?', 'language': u'Spanish', 'questionNum': u'11b'}, {'section': u'Language use', 'questionText': u'When you count, how often do you count in the following languages?', 'language': u'Other languages', 'questionNum': u'11c'}, {'section': u'Language proficiency', 'questionText': u'How well do you speak', 'language': u'English', 'questionNum': u'12a'}, {'section': u'Language proficiency', 'questionText': u'How well do you speak', 'language': u'Spanish', 'questionNum': u'12b'}, {'section': u'Language proficiency', 'questionText': u'How well do you understand', 'language': u'English', 'questionNum': u'13a'}, {'section': u'Language proficiency', 'questionText': u'How well do you understand', 'language': u'Spanish', 'questionNum': u'13b'}, {'section': u'Language proficiency', 'questionText': u'How well do you read', 'language': u'English', 'questionNum': u'14a'}, {'section': u'Language proficiency', 'questionText': u'How well do you read', 'language': u'Spanish', 'questionNum': u'14b'}, {'section': u'Language proficiency', 'questionText': u'How well do you write', 'language': u'English', 'questionNum': u'15a'}, {'section': u'Language proficiency', 'questionText': u'How well do you write', 'language': u'Spanish', 'questionNum': u'15b'}, {'section': u'Language attitudes', 'questionText': u'I feel like myself when I speak English.', 'language': u'English', 'questionNum': u'16a'}, {'section': u'Language attitudes', 'questionText': u'I feel like myself when I speak Spanish.', 'language': u'Spanish', 'questionNum': u'16b'}, {'section': u'Language attitudes', 'questionText': u'I identify with an English-speaking culture.', 'language': u'English', 'questionNum': u'17a'}, {'section': u'Language attitudes', 'questionText': u'I identify with an Spanish-speaking culture.', 'language': u'Spanish', 'questionNum': u'17b'}, {'section': u'Language attitudes', 'questionText': u'It is important to me to use (or eventually use) English like a native speaker.', 'language': u'English', 'questionNum': u'18a'}, {'section': u'Language attitudes', 'questionText': u'It is important to me to use (or eventually use) Spanish like a native speaker.', 'language': u'Spanish', 'questionNum': u'18b'}, {'section': u'Language attitudes', 'questionText': u'I want others to think I am a native speaker of English.', 'language': u'English', 'questionNum': u'19a'}, {'section': u'Language attitudes', 'questionText': u' I want others to think I am a native speaker of Spanish.', 'language': u'Spanish', 'questionNum': u'19b'}]" valType="str"/>
+      <Param name="Selected rows" updates="None" val="'35:43'" valType="code"/>
+    </LoopInitiator>
+    <Routine name="language_attitudes"/>
+    <LoopTerminator name="trials_att"/>
+  </Flow>
+</PsychoPy2experiment>
