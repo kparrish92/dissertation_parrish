@@ -1,8 +1,8 @@
-\chapter{VOT production at first exposure to an L3}
+\chapter{Production at first exposure to an L3}
 
 # Overview 
 
-The present study investigates the production of words in a language by bilinguals that they do not yet though. In so doing, the present dissertation aims to investigate the very initial stage of acquisition by providing an overview of the initial relative influence of both L1 and L2. 
+The present study investigates the production of words in a language by bilinguals that they do not yet know. In so doing, the present dissertation aims to investigate the very initial stage of acquisition by providing an overview of the initial relative influence of both L1 and L2. In this study, sequential, late, Spanish-English bilinguals of both order of acquisition will be given an aspirating L3 (German) or a true-voicing L3 (French) to shadow.    
 
 ## Research Questions 
 
@@ -14,7 +14,7 @@ RQ2: Will Spanish-English bilinguals produce vowels with F1 and F2 values more l
 
 ## Participants
 
-4 total groups of participants will take part in the experiment. There will be 2 bilingual groups with opposite orders of acquisition, Spanish L1-English L2, and English L1-Spanish L2, and monolingual English and monolingual Spanish participants. The bilingual groups will contain 75 participants per group, where the monolingual groups will contain 50 participants per group, for a total of 400 participants. These sample sizes were justified by a power analysis, in which a power level of .8 was desired (CITATION). 
+8 total groups of participants will take part in the experiment. There will be 4 bilingual groups with opposite orders of acquisition, Spanish L1-English L2, and English L1-Spanish L2, with each of these groups hearing either L3 German or L3 French, and 4 monolingual English and monolingual Spanish groups, assigned to either French or German. The bilingual groups will contain 75 participants per group, where the monolingual groups will contain 50 participants per group, for a total of 500 participants. 
 
 ## Tasks 
 

@@ -3,19 +3,15 @@
 
 # Introduction
 
-The difficulty of learning a new language adulthood has a well documented history. This is especially true in the case of phonological acquisition.  For example, many studies over the course of the past five decades have demonstrated that adult second language (L2) learners often produce and perceive the sounds of the target language in a non-native manner (cite some flege stuff). 
-
+The difficulty of learning a new language adulthood has a well documented history. This is especially true in the case of phonological acquisition.  For example, many studies over the course of the past five decades have demonstrated that adult second language (L2) learners often produce and perceive the sounds of the target language in a non-native manner (**Flege & Eefting, 1988, Flege (1991)**). 
 This difficulty arises, in part, because bilinguals often navigate complex communicative situations in which they produce and perceive speech from both of their languages in real time. 
-
-Recent studies suggest that bilinguals learn to modify their perceptual categorization routines in accordance with the phonetic realizations of the language they believe they are hearing (cite recent language set studies).
 Much less is known about the acquisition of a third language (L3A), particularly with regard to L3 production, perception, and phonological learning. 
+The present dissertation explores the production patterns and perceptual categorization routines of adult bilinguals during the initial stages of L3 acquisition. 
 
-The present investigation explores the perceptual categorization routines of adult bilinguals during the initial stages of L3 acquisition. 
+Empirical studies in L3 phonological acquisition have found evidence of multi-directional influence in language production (CITE), with the impact of previously learned languages on a third varying. In some cases, L2 influence on L3 production has been found, where in others, L1 influence or simultaneous influence of both languages on L3 production has been reported. It is unclear what factors could be at the root of these varied findings. On one hand, it might be sampling error. 
+At large, empirical studies in L3 acquisition have used low samples to build models. One issue with this approach is related to sampling error. On the other, factors such as L2 and L3 proficiency, language dominance and choices of methods and analysis may play a role in the conclusions drawn by these studies.  
 
-
-Gap in the literature: Much of L3 phonological acquisition is not well known and is still under studied - lack of available resources and participants have lead to low sample sizes 
-
-The present dissertation aims to address the issue of low sample sizes and varied statistical analyses by, firstly, recruiting bilinguals who do not yet know a third language, and, secondly, by using more fitting statistical analyses made more appropriate by a larger sample size. It is likely that the relatively homogenous populations of bilinguals are in greater supply that trilingual populations, particularly when suggested methodological practices are to be used, such as the use of mirror-image groups. With the increase in sample size, more precise observations and conclusions may be drawn about the very starting point of L3 phonological acquisition which are far less likely to be explained by statisistical limitations such as sampling error.   
+The present dissertation aims to address the issue of low sample sizes and varied statistical analyses by, firstly, recruiting bilinguals who do not yet know a third language, and, secondly, by using more fitting statistical analyses made more appropriate by a larger sample size. It is likely that the relatively homogeneous populations of bilinguals are in greater supply that trilingual populations, particularly when suggested methodological practices are to be used, such as the use of mirror-image groups. With the increase in sample size, more precise observations and conclusions may be drawn about the very starting point of L3 phonological acquisition which are far less likely to be explained by statistical limitations such as sampling error. To deal with the potential impact of proficiency and dominance on L3 production and perception, L2 proficiency was measured using the LexTALE in English (citation) and Spanish (citation). The Bilingual Language Profile (BLP) was used to measure language dominance and background (citation).
 
 # Models of L2 phonological acquisition
 
@@ -23,23 +19,54 @@ Many accounts for L2 phonological acquisition exist. In general, these models al
 
 ## The Speech Learning Model
 
-The SLM posits..
+The original SLM **Flege (1995)** focuses on the acquisition of segments in the L2 and emphasizes the importance of cross-linguistic similarity in L2 speech learning. In this view, new segments are predicted to be easier to learn, where segments which have close matches in the L2 will be much harder to acquire at a native-like level. This difficulty is argued to be due to the so-called equivalence classification (cite, p), which suggests that fine phonetic detail is not attended to my the L2 learner when it does not lend itself to a difference in meaning. 
+
+Essentially, the SLM proposes that L1 and L2 sounds are linked through a process that Flege refers to as "interlingual identification", in that the L2 sound encountered as first exposure are seen as either good or bad phonetic variants of a native category (Flege, 1995). In this view, acquisition of L2 segments occurs after increased exposure to these segments, where segmental complexity modulates the rate of learning (Flege, 2021). 
+
+allophonic variation/segment position matters, age of first exposure (the younger the better), L2 experience 
+
+Bohn and Flege (1993)
+
+Mapping of of L2 to L1 sounds - position sensitive allophones, not phonemes
+
+Mitterer, Reinisch, & McQueen, 2018; Mochizuki, 1981; Pisoni, Lively, & Logan, 1994; Rochet, 1995; Strange, 1992; Takagi, 1993). Iverson, Hazan, and Bannister (2005)
+
+" Iverson, Hazan, and Bannister (2005) found that training NJ speakers to identify /r/ and /l/ in initial position increased identification accuracy for liquids in that position but not for medial liquids or liquids in initial clusters. To take another example, the presence of voiced and voiceless consonants in word-initial position in the L1 does not permit learners to produce the “same” consonants in the word-final position of L2 words if such sounds do not also appear in the final position of L1 words (e.g., Flege et al., 1992; Flege & Davidian, 1984; Flege & Wang, 1989)."
+The revised SLM...
+
 
 SLM studies...
+
 
 L3 SLM
 
 ## The Perceptual Assimilation Model
 
-The PAM predicts...
+Relative to the SLM, the Perceptual Assimilation Model (SLM) focuses on the perception of sound contrasts by L2 learners (CITATIONS).
+The PAM involves various scenarios in which the cross-linguistic inventories of specific languages predict how easily L2 sounds will be to acquire. For instance, if a L2 learner's native language contains a contrast that also exist in the L2, then this contrast will be easily perceived in the L2 (two-category assimilation). In the event that two native language categories correspond the a single L2 category (single category assimilation), discrimination is predicted to be intermediate. In the event that a native category must be split into two categories (X assimilation) discrimination is predicted to be poorer. 
+
+Evidence for the predictions of the PAM has been found in studies which involve the presentation of sounds to naive learners of an L2 (first exposure), or to more experiened L2 learners. Experiments typically present the subjects with native-language vowel categories in written form and auditory stimuli of L2 vowel sounds and participants are tasked with choosing the closet mathcing native-language vowel category given the options, and to rate the goodness of fit of this decision. 
+
+This methodological paradigm has found evidence that **two category assimilation** is difficult for L2 learners. For example, 
 
 Evidence for PAM...
 
+**Escudero and Chládková** (2010) found that Spanish L1 speakers assimilated SSBE /ae/ and /a/ to Spanish /a/ (that discrimination of this contrast was difficult). 
+
+**Escudero et al. (2014)** Salento Italian L1 speakers assimilated SSBE /ae/, /a/ and /^/ to Salento Italian /a/.
+
+**Escudero & Vasiliev (2011)** Spanish speakers assimilated Canadian English /ae/ and /e/ to Spanish /a/
+
+**Escudero & Williams (2011)** Spanish listeners categorized Dutch /a/ and /a:/ in terms of their native /a/
+
 The PAM in L3...
+
+The present dissertation tests whether assimilation acquired during second language acquisition apply to third language sound perception. In other words, it tests whether L3 perception mirrors L2 perception in similar ways that has been observed in L3 production. Specifically, it tests whether L3 speakers categorize L3 sounds similary to L2 sounds, and whether phonetic discrimination of sounds that would be phonemic in the L1 is accessible in the perception of L3 words at first exposure, or whether there is an initial blocking or the L1 or L2 bias effect.
+
 
 ## The L2LP
 
-The L2LP is similar to the PAM and predicts...
+The L2LP is a computation model of L2 speech learning and is similar to the PAM in that it focuses on sound contrasts as the basis for L2 speech learning, rather than single segments. 
 
 Evidence for the L2LP comes from...
 
@@ -94,23 +121,30 @@ Evidence for these models.. Westergaard et al. (2017), Mitronova & Westergaard (
 
 Issues come from lack of predictive power of the models. 
 
-## Wrembel's model on L3 phonology
-
 # Previous literature in L3 phonology
 
-The models discussed to this point, with the exception of Wrembel's model, have focused largely on morpho-syntax. The findings in L3 phonology have largely yielded mixed results and do not quite have a comprehensive model. Despite the lack of a model, some patterns emerge from the body of research. The following sections cover the empircal studies that have been done in L3 production studies accross L3 proficiency levels, and the fewer studies doen in L3 perception. 
+The models discussed to this point, with the exception of Wrembel's model, have focused largely on morpho-syntax. The findings in L3 phonology have largely yielded mixed results and do not quite have a comprehensive model. Despite the lack of a model, some patterns emerge from the body of research. The following sections cover the empircal studies that have been done in L3 production studies accross L3 proficiency levels, and the fewer studies done in L3 perception. 
 
 
 ## L3 Production Studies 
 
-*In a case study foundational to L3 phonology, @hammarberg_articulatory_1993 and @hammarberg_processes_2005 examined the productions of a single informant, who spoke L1 British English, L2 German, and L3 Swedish. 
-SW, a near-native German speaker as rated by German natives, was recorded reading a story in Swedish at two different time points, first one month after moving to Sweden, and second after one year having lived there. 
-Those Swedish recordings at both time points were then judged by native speakers of Swedish with regard to the accent of the speaker in the story, unaware that they were hearing the same informant at two different times. 
-Interestingly, the Swedish speakers rated the first telling of the story as heavily German accented (influence from the L2), whereas in recording 2, they rated the accent as coming from an English speaker. 
+The findings in empirical studies of L3 phonological cross-linguistic influence have varied. One of the first studies to examine progressive influence of the L1 or L2 on L3 production was the seminal case study of **Williams and Hammarberg (1993)**. This study elicited the production of an adult L1 British English, L2 German, and L3 Swedish speaker in the L2 and L3 upon her arrival in Sweden. The speech samples were rated for native-likeness by native speakers of German and Swedish respectively, with low ratings (i.e. non-nativeness) being elaborated upon. In the event of non-native speech, the raters guessed where the speaker in the recording might be from. The informant had near native productions in her L2 German, while her L3 Swedish was rated as being non-native like and to be German-accented. The experiment was repeated after 6 months in Sweden, however, and the Swedish raters then judged the informant's Swedish to be British English accented. 
 
-This initial effect has been referred to as a ‘foreign language effect’ [@meisel_transfer_1983] or, more recently, as L2 status [@bardel_role_2007; @hammarberg_processes_2005]. 
-The findings of @hammarberg_processes_2005 suggest that this foreign language effect, or, in other words, the desire to sound less like a speaker of one’s L1, may diminish as proficiency increases and be replaced by L1 effects. 
-Other studies have also found primarily L2 influence in L3 productions in global accent ratings [@wrembel_l2-accented_2010], VOT productions [@llama_influence_2010; @tremblay_l2_2007], vowel production [@kamiyama_acquisition_2007] vowel reduction and speech rhythm [@gut_cross-linguistic_2010].
+This study constituted evidence of an L2 status effect in the initial stages of L3 phonological acquisition, in which the second learned language influence L3 production. This notion has been called the ‘foreign language effect’ [@meisel_transfer_1983], which refers to the idea that speakers who learn a second non-native language are biased to sound unlike a native speaker of their native language. 
+
+The default L2 status effect has received some empirical support in the literature. In a study of global accent production, heavier L2 influence in L3 productions was found by L1 Polish, L2 German and L3 English speakers based on ratings of EFL instructors. Specifically, 53% of L3 productions were identified as having come from a German native speaker [@wrembel_l2-accented_2010]. S vowel production [@kamiyama_acquisition_2007] vowel reduction and speech rhythm [@gut_cross-linguistic_2010].
+
+Similar patterns of L2 influence have been found in VOT productions.  @llama_influence_2010 examined L3 Spanish VOT production by French-English mirror-image bilingual groups and found that both groups had L2-like productions of the L3. 
+
+Williams & Hammarberg 1998
+
+Hammarberg and Hammarberg 1993, 2005,
+Cenoz 2001
+Hammarberg 2001 
+Bannert 2005, 
+Jessner 2006, 
+Fernandes-Boëchat and Siebeneicher Brito 2008, 
+
 
 Other findings in L3 production, however, have yielded mixed results. 
 Several studies have found that acoustic properties of the participants' productions fall between L1 and L3 values, suggesting that both the L1 and the L2 have some influence on L3 productions, rather than solely one language. 
@@ -122,8 +156,8 @@ As in previous studies [@wrembel_vot_2014], combined transfer from the L1 and th
 Findings of combined L1 and L2 influence in VOT productions were also reported by @wunder_phonological_2010 in L3 Spanish speakers, and by @blank_transferencia_2009 in L3 English speakers who spoke L1 Brazilian Portuguese and L2 French. 
 Other studies have found an L1 influence on production despite L3 proficiency [@wrembel_foreign_2012], or in advanced L3 learners [@llama_revisiting_2018].*
 
+Parrish (2021) examined Mexican Spanish-English bilinguals who produced French words in isolation at first exposure to the language. The results found that the relative VOT of the L3 fell between their own L1 and L2 values, in line with previous research (citations). However, a subsequent analysis of the data revealed that wide individual variation existed in the data, in which some participants produced L3 French as L1 Spanish like, and other produced intermediate, L2-like values. 
 
-Kamiyama (2007), Wunder (2010), Tremblay (2007), Llama et al. (2010), Blank and Zimmer (2009), Gut (2010), Llama & Cardoso (2018), Wrembel (2010, 2011, 2012, 2014)
 
 
 ## L3 Perception studies 
@@ -132,7 +166,7 @@ Balas (2019), Liu
 
 *Perception studies in L3 acquisition have been much more scarce than those on production, and primarily in young participants. 
 One of few L3 perception studies in adults is @liu_effects_2019, which examined the perceptual boundary of a VOT continuum in trilinguals. 
-The participants were L3 spanish speakers who spoke L2 English and L1 Chinese. 
+The participants were L3 Spanish speakers who spoke L2 English and L1 Chinese. 
 Though the authors focused their analysis on regressive transfer and comparisons to all speakers, the reported boundaries in the study (n = 10, 28ms for Chinese, 24.6ms for English and 23ms for Spanish) suggest that the participants were using their English boundaries for L3 Spanish categorization. 
 
 Other studies in L3 perception, which have examined young trilinguals, have found a wide range of results. 
@@ -141,29 +175,28 @@ Finally, another study on L3 perception in young learners (Polish L1, English L2
 
 # Methods and anylsis in previous work 
 
-Organization paragraph
+The widely varied findings in previous work do not have a clear cause, but may be related to issues related to sampling issues combined with methodological choices. In this subsection, an overview of sample sizes in previous work will be given, followed by potential issues related to small samples. Subsequently, common methods in the body of research used to analyze L3 data will be discussed, followed by their potential shortcomings.
 
-## Sample sizes 
+Overall, the sample sizes in the body of research across domains have been quite small. An analysis of the sample used in the empircal studies in the systematic review of Puig-Mayenco et al. (2019) revealed that the average sample size per group was **X**, (sd = **Y**). In the empirical studies in L3 phonology cited in the body of this dissertation, the average sample size per group was **X** (sd = **Y**). For a full list of studies included in L3 group calculation, see **list**, and for a full list of studies in the Puig-Mayenco et al. systematic review see Puig-Mayenco et al. (2019). **figure** shows the distribution of sample sizes in L3 research by domain. As the figure suggests, the majority of L3 research has been constrained by relatively small sample sizes. 
 
-Sample sizes have been quite small. Describe the sample sizes of the body of research.
+Unfortunately, the tradition in L3 research has involved model building with small samples. The use of small samples are associated with higher sampling error, and, as a result, a higher risk of type 1 error. In other words, a single study with a small sample cannot rule out the possibility that their results are due to sampling error, or a non-representative pool of participants from an assumed population distribution. As **brysbeart** argues, low samples lead to low statistical power, and in turn provide a metaphorical blurred picture of our desired outcome.
 
-Small samples are associted with higher sampling error. Discuss the issues with modeling based on small sample sizes
+In addition to issues associated with low sample size, L3 research to date has used statistical methods which provide dubious evidence for their claims. Among these issues is the use of an Analysis of Variance (ANOVA) as a basis for determining whether groups or individuals perform experiment tasks in a practically equivalent manner rather than a statistical Test of Equivalence (**Lakens**). At the heart of this issue is a criticism which may apply to frequentist methods of statistical analysis in general; testing against the null hypothesis. If the null hypothesis is rejected, evidence is provided that the difference between or within groups is non-zero. On the other hand, if a non-zero difference is not found, there is not evidence for practical equivalence. Such as assumption has been made in the L3 literature, and in particular in L3 model building. 
 
-## Choices of analyses 
+For example, in his seminal article introducing the Typological Primacy Model, Rothman (2011) concluded that mirror-image groups of Spanish-English bilinguals did not perform differently on the L3 Brazilian Portuguese acceptability judgment task and took this as evidence for similar performance between the groups, and evidence of typological similarity effects in L3 judgments. There are two possible issues with this conclusion. First, sampling error, it can't be said that the low samples did not draw primarily from participants who were influenced by their Spanish, second a wide confidence interval from the low sample size would make providing evidence for statistical equivalence in a test of equivalence likely impossible. A power analysis of the descriptive data in Rothman (2011) reveals that the statistical power in a test of equivalence with the report sample sizes (12 and 15) is zero. This suggests that, given the means and standard deviations reported in this study and equivalence bounds of -.4 and .4 standard deviations from the mean, 100 simulations (random sampling from distributions with those means and standard deviations) of the repeated experiment yield a statistically equivalent result **0** percent of the time. On the other hand, non-zero differences are found **X** percent of the time. These post-hoc analyses of the data from Rothman (2011) suggest that sufficient evidence was not provided for practical equivalence between groups. **brysbeart** argues that, for between group comparisons, samples of at least 80 per group are necessary. 
 
-Lack of main effects in ANOVA
+It seems that large sample sizes are quite difficult to find in L3 research. Plonsky (2015) suggests that combating issues associated with low sample size is possible in ways other than simply increasing sample size. For instance, he suggests that the use of descriptive statistics, including effect sizes and confidence intervals, would be an improvement in L2 research in general. This advice is in line with the idea that frequentist analysis, and linguistic research, has relied on p-values to determine the presence of a so-called statistical difference. Plonsky, along with others, have argued that the use of p-value alone to make real-world inferences in problematic due to issues associated with sampling error and the presence of the magnitude of an effect. 
 
-How I combine better analyses with higher sample sizes to better the very beginning of L3A.
+In order to address these potential issues, the present dissertation recruited bilinguals, rather than trilinguals, at first exposure to a third language in order to pull from a likely higher and more homogeneous population of participants. This higher sample, coupled with the use of frequentist tests of equivalence and Bayesian inference allow for both a categorical and gradient interpreation of the data. In doing so, less reliance is put on a narrative interpretation of the results, and the results lend themselves to a more objective outcome. 
 
 # Cross-lingusitic language features 
 
-Organization paragraph. 
+In order to gain insights into the relative influence of a first and second language the present dissertation examines (relative) voice-onset time (VOT) in L3 production, the formant values of vowels in perception and production. In the following sections, the vocalic systems of Spanish, English and French, as well as their respective uses of voice-onset time, are overviewed. 
 
 ## Vocalic systems
 
-The Spanish vowel space is the smallest of the present study and consists of 5 distinct vowel categorizations and 3? dipthongs.
-
-The vowel inventories of all three languages, relative to one another. 
+The Spanish vowel space is the smallest of the present study and consists of 5 distinct vowel monopthings (**LIST THEM**) categorizations. English and French have a larger relative vowel space.  
+ 
 
 ## Use of Voice-Onset Time
 
