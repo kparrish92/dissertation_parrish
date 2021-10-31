@@ -3,7 +3,7 @@
 
 # Introduction
 
-The difficulty of learning a new language adulthood has a well documented history. This is especially true in the case of phonological acquisition.  For example, many studies over the course of the past five decades have demonstrated that adult second language (L2) learners often produce and perceive the sounds of the target language in a non-native manner (**Flege & Eefting, 1988, Flege (1991)**). 
+The difficulty of learning a new language in adulthood has a well documented history. This is especially true in the case of phonological acquisition.  For example, many studies over the course of the past five decades have demonstrated that adult second language (L2) learners often produce and perceive the sounds of the target language in a non-native manner (**Flege & Eefting, 1988, Flege (1991)**). 
 This difficulty arises, in part, because bilinguals often navigate complex communicative situations in which they produce and perceive speech from both of their languages in real time. 
 Much less is known about the acquisition of a third language (L3A), particularly with regard to L3 production, perception, and phonological learning. 
 The present dissertation explores the production patterns and perceptual categorization routines of adult bilinguals during the initial stages of L3 acquisition. 
@@ -12,65 +12,6 @@ Empirical studies in L3 phonological acquisition have found evidence of multi-di
 At large, empirical studies in L3 acquisition have used low samples to build models. One issue with this approach is related to sampling error. On the other, factors such as L2 and L3 proficiency, language dominance and choices of methods and analysis may play a role in the conclusions drawn by these studies.  
 
 The present dissertation aims to address the issue of low sample sizes and varied statistical analyses by, firstly, recruiting bilinguals who do not yet know a third language, and, secondly, by using more fitting statistical analyses made more appropriate by a larger sample size. It is likely that the relatively homogeneous populations of bilinguals are in greater supply that trilingual populations, particularly when suggested methodological practices are to be used, such as the use of mirror-image groups. With the increase in sample size, more precise observations and conclusions may be drawn about the very starting point of L3 phonological acquisition which are far less likely to be explained by statistical limitations such as sampling error. To deal with the potential impact of proficiency and dominance on L3 production and perception, L2 proficiency was measured using the LexTALE in English (citation) and Spanish (citation). The Bilingual Language Profile (BLP) was used to measure language dominance and background (citation).
-
-# Models of L2 phonological acquisition
-
-Many accounts for L2 phonological acquisition exist. In general, these models all have in common that language-specific L1 categories drive L2 speech development. In the section that follows, a brief overview of each model, along with its evidence, will be covered. 
-
-## The Speech Learning Model
-
-The original SLM **Flege (1995)** focuses on the acquisition of segments in the L2 and emphasizes the importance of cross-linguistic similarity in L2 speech learning. In this view, new segments are predicted to be easier to learn, where segments which have close matches in the L2 will be much harder to acquire at a native-like level. This difficulty is argued to be due to the so-called equivalence classification (cite, p), which suggests that fine phonetic detail is not attended to my the L2 learner when it does not lend itself to a difference in meaning. 
-
-Essentially, the SLM proposes that L1 and L2 sounds are linked through a process that Flege refers to as "interlingual identification", in that the L2 sound encountered as first exposure are seen as either good or bad phonetic variants of a native category (Flege, 1995). In this view, acquisition of L2 segments occurs after increased exposure to these segments, where segmental complexity modulates the rate of learning (Flege, 2021). 
-
-allophonic variation/segment position matters, age of first exposure (the younger the better), L2 experience 
-
-Bohn and Flege (1993)
-
-Mapping of of L2 to L1 sounds - position sensitive allophones, not phonemes
-
-Mitterer, Reinisch, & McQueen, 2018; Mochizuki, 1981; Pisoni, Lively, & Logan, 1994; Rochet, 1995; Strange, 1992; Takagi, 1993). Iverson, Hazan, and Bannister (2005)
-
-" Iverson, Hazan, and Bannister (2005) found that training NJ speakers to identify /r/ and /l/ in initial position increased identification accuracy for liquids in that position but not for medial liquids or liquids in initial clusters. To take another example, the presence of voiced and voiceless consonants in word-initial position in the L1 does not permit learners to produce the “same” consonants in the word-final position of L2 words if such sounds do not also appear in the final position of L1 words (e.g., Flege et al., 1992; Flege & Davidian, 1984; Flege & Wang, 1989)."
-The revised SLM...
-
-
-SLM studies...
-
-
-L3 SLM
-
-## The Perceptual Assimilation Model
-
-Relative to the SLM, the Perceptual Assimilation Model (SLM) focuses on the perception of sound contrasts by L2 learners (CITATIONS).
-The PAM involves various scenarios in which the cross-linguistic inventories of specific languages predict how easily L2 sounds will be to acquire. For instance, if a L2 learner's native language contains a contrast that also exist in the L2, then this contrast will be easily perceived in the L2 (two-category assimilation). In the event that two native language categories correspond the a single L2 category (single category assimilation), discrimination is predicted to be intermediate. In the event that a native category must be split into two categories (X assimilation) discrimination is predicted to be poorer. 
-
-Evidence for the predictions of the PAM has been found in studies which involve the presentation of sounds to naive learners of an L2 (first exposure), or to more experiened L2 learners. Experiments typically present the subjects with native-language vowel categories in written form and auditory stimuli of L2 vowel sounds and participants are tasked with choosing the closet mathcing native-language vowel category given the options, and to rate the goodness of fit of this decision. 
-
-This methodological paradigm has found evidence that **two category assimilation** is difficult for L2 learners. For example, 
-
-Evidence for PAM...
-
-**Escudero and Chládková** (2010) found that Spanish L1 speakers assimilated SSBE /ae/ and /a/ to Spanish /a/ (that discrimination of this contrast was difficult). 
-
-**Escudero et al. (2014)** Salento Italian L1 speakers assimilated SSBE /ae/, /a/ and /^/ to Salento Italian /a/.
-
-**Escudero & Vasiliev (2011)** Spanish speakers assimilated Canadian English /ae/ and /e/ to Spanish /a/
-
-**Escudero & Williams (2011)** Spanish listeners categorized Dutch /a/ and /a:/ in terms of their native /a/
-
-The PAM in L3...
-
-The present dissertation tests whether assimilation acquired during second language acquisition apply to third language sound perception. In other words, it tests whether L3 perception mirrors L2 perception in similar ways that has been observed in L3 production. Specifically, it tests whether L3 speakers categorize L3 sounds similary to L2 sounds, and whether phonetic discrimination of sounds that would be phonemic in the L1 is accessible in the perception of L3 words at first exposure, or whether there is an initial blocking or the L1 or L2 bias effect.
-
-
-## The L2LP
-
-The L2LP is a computation model of L2 speech learning and is similar to the PAM in that it focuses on sound contrasts as the basis for L2 speech learning, rather than single segments. 
-
-Evidence for the L2LP comes from...
-
-The L2LP in L3...
 
 # Models of third language acquisition
 
@@ -120,6 +61,85 @@ Given the lack of predictive power of the LPM, it may only receive post-hoc supp
 Evidence for these models.. Westergaard et al. (2017), Mitronova & Westergaard (2018)
 
 Issues come from lack of predictive power of the models. 
+
+
+# Models of L2 phonological acquisition
+
+Many accounts for L2 phonological acquisition exist. In general, these models all have in common that language-specific L1 categories drive L2 speech development. In the section that follows, a brief overview of each model, along with its evidence, will be covered. 
+
+## The Speech Learning Model
+
+The original SLM **Flege (1995)** focuses on the acquisition of segments in the L2 and emphasizes the importance of cross-linguistic similarity in L2 speech learning. In this view, new segments are predicted to be easier to learn, where segments which have close matches in the L2 will be much harder to acquire at a native-like level. 
+Essentially, the SLM proposes that L1 and L2 sounds are linked through a process referred to as "interlingual identification", in that the L2 sound encountered as first exposure are seen as either good or bad phonetic variants of a native category **(Flege, 1995)**. 
+In this view, acquisition of L2 segments occurs after increased exposure to these segments, where segmental complexity modulates the rate of learning **(Flege, 2021)**. 
+Additionally, the SLM posits that allophonic variation and segment position matter, as opposed to the learning of a phoneme generalizing across positions.   
+For instance, **Iverson, Hazan, and Bannister (2005)** conducted a study in which they succesfully trained Japanese speakers to better identify /r/ and /l/ in word initial position, but that this training was not effective for word-medial or word-initial clusters containing liquids.
+
+The original SLM also suggested that the age of first exposure (the younger the better), and L2 experience were important predictors to L2 learning success. **add studies of this**
+
+
+The SLM makes a distinction between identification as opposed to categorization.
+The importance of this distinction involves the learning of phonetic variants during the learning process, which lead to new L2 phonetic category formations. 
+For example, using a two-alternative forced choice task, **Bohn and Flege (1993)** asked Spanish monolinguals to identify English stops and provided them with pre-voiced, short lag and long lag stops as tokens. 
+Importantly, Spanish monolinguals identified english stops identified long lag /t/ as /t/, despite the lack of a long-lag category in their native inventory. 
+
+### The revised SLM
+
+The SLM was recently revised, and has updated some assumptions and predictions. The revised model maintained many of the same assumptions as the original, and importantly focuses on sequential bilinugals, where speech learning begins when the phonetic categories of the L1 have been established. According to **Flege (2021)**, the updated tenets of the Revised Speech Learning Model (SLM-r) are that, first, phonetic categories are formed based on their statistical regularities in the input, such that greater exposure to a particular phonetic cue should be correlated with the re-tuning of that cue towards the input. Second, all learners make use of the same learning mechanisms in L2 learning that they do in native language learning. That is, the SLM-r refutes the idea of a critical period (**CITE**) for speech learning, and suggests that non-native production in perception is due to differences the quality and quantity of input between native speakers and L2 learners and L1 effects. Another important update to the SLM-r is the idea that perception and production co-evolve. In other words, the SLM-r does not predict that perception will precede production. 
+
+The revised model has not yet received empirical support, due to its recent revision. 
+It is outside the scope of the present dissertation to evaluate the predictions of the SLM-r when it comes to statistically driven re-tuning of phonetic categories. 
+However, the phonetic categories that are in place in a bilingual at the first exposure to L3 learning could be treated as an integrated inventory when it comes to L3 learning. 
+Based on the idea that the same mechanisms are in place in L1 and L2 phonetic category formation, the same mechanisms should be in place for L3 phonetic category formation. 
+In this view, the acoustic similarity of an L3 segment to an L1 or L2 segment should predict how difficult learning an L3 segment will be.
+In this view, there is not reason to predict a blocking of one language system (L1 or L2) provided that these systems have well-established phonetic categories.   
+
+## The Perceptual Assimilation Model
+
+Relative to the SLM, the Perceptual Assimilation Model (SLM) focuses on the perception of sound contrasts by L2 learners (CITATIONS).
+The PAM involves various scenarios in which the cross-linguistic inventories of specific languages predict how easily L2 sounds will be to acquire. For instance, if a L2 learner's native language contains a contrast that also exist in the L2, then this contrast will be easily perceived in the L2 (two-category assimilation). In the event that two native language categories correspond the a single L2 category (single category assimilation), discrimination is predicted to be intermediate. In the event that a native category must be split into two categories (X assimilation) discrimination is predicted to be poorer. 
+
+Evidence for the predictions of the PAM has been found in studies which involve the presentation of sounds to naive learners of an L2 (first exposure), or to more experiened L2 learners. Experiments typically present the subjects with native-language vowel categories in written form and auditory stimuli of L2 vowel sounds and participants are tasked with choosing the closet mathcing native-language vowel category given the options, and to rate the goodness of fit of this decision. 
+
+This methodological paradigm has found evidence that **two category assimilation** is difficult for L2 learners. For example, 
+
+Evidence for PAM...
+
+**Escudero and Chládková** (2010) found that Spanish L1 speakers assimilated SSBE /ae/ and /a/ to Spanish /a/ (that discrimination of this contrast was difficult). 
+
+**Escudero et al. (2014)** Salento Italian L1 speakers assimilated SSBE /ae/, /a/ and /^/ to Salento Italian /a/.
+
+**Escudero & Vasiliev (2011)** Spanish speakers assimilated Canadian English /ae/ and /e/ to Spanish /a/
+
+**Escudero & Williams (2011)** Spanish listeners categorized Dutch /a/ and /a:/ in terms of their native /a/
+
+The PAM in L3...
+
+The present dissertation tests whether assimilation acquired during second language acquisition apply to third language sound perception. In other words, it tests whether L3 perception mirrors L2 perception in similar ways that has been observed in L3 production. Specifically, it tests whether L3 speakers categorize L3 sounds similary to L2 sounds, and whether phonetic discrimination of sounds that would be phonemic in the L1 is accessible in the perception of L3 words at first exposure, or whether there is an initial blocking or the L1 or L2 bias effect.
+
+
+## The Second Language Linguistic Perception Model
+
+The Second Language Linguistic Perception Model (L2LP_ is a computational model of L2 speech learning and is similar to the PAM in that it focuses on sound contrasts as the basis for L2 speech learning, rather than single segments (**van Leussen & Escudero, 2015**, Escudero, 2005, 2009).
+In this view, it is difficult for L2 learners to make contrasts which are not present in their L1.
+In their revision of the L2LP, van Leussen & Escudero support this claim with several empircal studies. Namely, that these studies have provided evidence that L2 learners experience difficult with the contrasts of /r/ and /l/ in Japanese, (**Aoyama et al., 2004**) “beat” and “bit” in Spanish and Portuguese (**Flege et al., 1997; Rauber et al., 2005**)
+"bet” and “bat” in Dutch  (**Broersma, 2005**). 
+The authors argue that these results suggest that linguistic experience is at the heart of L2 learning. 
+Specifically, cross-linguistic comparisons of L1 categories and L2 categories are thought to predict the ease of L2 category learning. 
+The L2LP, unlike the PAM and the SLM, also aims to model the entire learning process, rather than the beginning stages of L2 speech learning. This entire learning process is predicted computationally and is baed on Stochastic Optimality Theory (Boersma, 1998).
+
+An important tenet of the postulate of the L2LP is the optimal perception hypothesis. Essentially, this proposal suggests that the initial perception of L2 sounds is the result of L1 acquisition. The developmental of L2 learners is predicted similarly to PAM, where a single category assimulation from PAM, in which a native category must be split, is called a new category scenario in the L2LP. This scenario is predicted by both models to be difficult for the L2 learner. On the other hand, the PAM and the L2LP predict that the case when two L1 sounds correspond well to two L2 sounds that discrimination of these sounds will be relavitely easier. This is referred to as a single category assimilation in PAM and a similar scenario in the L2LP. The final scenario of the L2LP is the subset scenario. In this case, a single L2 phoneme is perceived as two L1 categories. The same case is referred to as uncategorized or categorized-uncategorized in the PAM, and both models predict that discrimination of these sounds will be better than the case of new scenarios, but not as good as discrimination of subset scenarios. 
+
+Empirical support has been found for these predictions. In two-category assimilation/similar scenario, **Escudero and Boersma (2002)**, native Dutch speakers assimilated the Spanish /i/ to their native Dutch /i/, and the Spanish /e/ to their Dutch /I/. 
+
+
+However, the L2LP predicts that the similar (two-category assimilation) scenario may lead to inappropriate lexical contrasts, and argues that pre-lexical and lexical contrasts should be taken into account when it comes to sound discrimination. Evidence for this claim stems from studies which found that L2 learners could not perceive a contrast in lexical items that they could disriminate outside of lexical items (**Curtin et al., 1998**). Other studies show that some lexical items can also be relaibly distinguished by L2 learners that could not be told apart pre-lexically **(Weber and Cutler, 2004; Cutler et al., 2006; Escudero et al., 2008)**
+
+As a result, an important tenet of the revised L2LP (**cite**) is that meaning-driven learning predicts the developmental path of L2 phoneme perception. The L2LP simulates the entire trajectory of L2 learning based on the various learning scenarios. In the revised L2LP, **van Leussen & Escudero, 2015** suggest that, despite past null results (**Weiand, 2007**), category reduction is possible when it is driven by meaning based learning. 
+
+The predictions of the L2LP which are important for the present dissertation are the Full Copying hypothesis (**Escudero, 2005**). If L3 phonological learning is another instance of L2 learning, then the L2LP and the TPM should share the prediction that the initial state of L3 learning is the end state of either L1 or L2 learning, but not both. In this view, bilingual participants who are first exposed to an L3 should produce and categorize L3 sounds as similarly to a single language, rather than producing or perceiving some sounds as L1-like and others as L2-like. Additionally, these participants' behavior on the experimental tasks should a) resemble either their own L2 behavior or L1 behavior or b) in the case of L1 influence, resemble a monolingual comparison group who is first exposed to an L2 (e.g. Spanish L1, English L2, exposed to German, and Spanish L1 exposed to German should behave similarly if Spanish is language which is "fully copied" at first exposure.)
+
+
 
 # Previous literature in L3 phonology
 
@@ -210,4 +230,21 @@ Languages which contain this distinction, in which the realizations of /p/ and /
 Relevant to the present study, Spanish, French, and Hungarian fall under this category. 
 English, on the other hand, contrasts stop consonants with only positive VOT via a long versus short lag distinction. 
 That is to say, both /p/ and /b/ are phonetically voiceless, but /p/ is realized as a long lag stop and is aspirated, and /b/ is a short-lag stop that is not aspirated [@lisker_cross-language_1964].* 
+
+
+# Bringing L2 speech models and L3 models together and evaluating predictions 
+
+By using the methods used to test the prediction of models of L2 phonological acquisition (The SLM, the PAM, and the L2LP), more nuanced evidence may be obtained to evaluate the predictive power of L3 models. 
+With the revision of the SLM, at least three L2 speech models advocate for the study of naive or beginning learners in L2 speech learning research. The present dissertation adopts this point of view and applies it in a third-language context in perception and production. By measuring the perception and production patterns of the first (or, at least, very early)
+exposure to a third language, coupled with measurements in each language, an the variation of cross-linguistic influence can be observed/studied in L3 perception and production. If, as the SLM-r predicts, category formation is driven by input and retuning of L1 categories in L2 acquisition, and the same mechanisms that are used in L1 phonetic category formation in L2 phonetic category formation, then it is likely that the SLM would predict that those same mechanisms are at play in L3 phonetic category formation, and that this process is guided by L3 input. 
+
+# Perception 
+Following this logic, the question becomes whether L1 or L2 categories are retuned to L3 categories, and what conditions determine which language category is initially chosen and its rate of retuning. The present dissertation focuses on which category is chosen as the initial L3 category, while the rate of change in these categories is left for future research. 
+One possibility which may influence whether an L1 or L2 category influences an L3 is the acoustic similarity of the L3 segment relative to an individuals' L1 and L2 phonetic categories.
+The TPM predicts that phonetic cues do play a role in L3 input parsing, in that they are parsed and used in order to make a decision of which language system to holistically transfer. 
+However, the TPM would (likely) not predict that two segments would be assimilated to two distinct languages, and it would not predict that the same segment would be categorized as different sounds. 
+Additionally, if one language holistically impacts the acquisition of a third at first exposure, then the behavior of L3 learners should resemble L2 learners, provided the L1 is the source of influence in L3 acquisition, or should be practically equivalent in a within-subject comparison. 
+In the case of the predicted behavior of L2 influence on L3 productions, L2 production and perception should be practically equivalent in a within-subject comparison. 
+
+The predictions of the Linguistic Proximity Model lack predictive power, but would be able to account for the same L3 sound being categorized differently by the same subject, and by different subjects, and for two different L3 sounds being categorized as an L1 and L2 category respectively.  
 

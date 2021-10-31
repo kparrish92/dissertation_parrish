@@ -60,7 +60,7 @@ desc_df %>%
 p1 <- desc_df %>% 
   filter(stim == "stim/sis.wav") %>%
   ggplot(aes(x = resp, y = response)) + 
-  geom_bar(stat = "identity", aes(fill = rating)) + ylim(0, 100) +
+  geom_bar(stat = "identity", aes(fill = rating)) + ylim(0, 200) +
   ggtitle("responses to /i/")
 
 
@@ -78,7 +78,7 @@ desc_df %>%
 p2 <- desc_df %>% 
   filter(stim == "stim/sos.wav") %>%
   ggplot(aes(x = resp, y = response)) + 
-  geom_bar(stat = "identity", aes(fill = rating)) + ylim(0, 100) +
+  geom_bar(stat = "identity", aes(fill = rating)) + ylim(0, 200) +
   ggtitle("responses to /o/")
 
 # Neither language /y/
@@ -93,7 +93,7 @@ desc_df %>%
 p3 <- desc_df %>% 
   filter(stim == "stim/sys.wav") %>%
   ggplot(aes(x = resp, y = response)) + 
-  geom_bar(stat = "identity", aes(fill = rating)) + ylim(0, 100) +
+  geom_bar(stat = "identity", aes(fill = rating)) + ylim(0, 200) +
   ggtitle("responses to /y/")
 
 # English condition /^/
@@ -109,7 +109,7 @@ desc_df %>%
 p4 <- desc_df %>% 
   filter(stim == "stim/sus.wav") %>% 
   ggplot(aes(x = resp, y = response)) + 
-  geom_bar(stat = "identity", aes(fill = rating)) + ylim(0, 100) +
+  geom_bar(stat = "identity", aes(fill = rating)) + ylim(0, 200) +
   ggtitle("responses to /^/")
 
 # did the same participants stick to one language?
@@ -117,22 +117,29 @@ p4 <- desc_df %>%
 eng_percent <- pct %>% 
   group_by(participant) %>% 
   summarise(pct_eng = sum(eng)/20) %>% 
-  mutate(number = 1:20) %>% 
   mutate(pct_eng = pct_eng*100)
 
 # plot - looks like there is variation 
-eng_percent %>% 
-  ggplot(aes(x = pct_eng, y = reorder(number, +pct_eng))) + 
+eng_plot <- eng_percent %>% 
+  ggplot(aes(x = pct_eng, y = reorder(participant, +pct_eng))) + 
   geom_bar(stat = "identity", aes(fill = pct_eng)) +
   theme(axis.text.y=element_blank()) +
   geom_vline(xintercept = 50, linetype = "dashed") + xlim(0, 100) +
-  ylab("Participants") + xlab("Percentage English category")
+  ylab("Participants") + xlab("Percentage English category") + 
+  ggsave(here("docs", "abstracts", "new_sounds", 
+              "figs", "eng_percent.png"), dpi = 1200)
 
 
-ggarrange(p1, p2, p3, p4, 
+pct_plot <- ggarrange(p1, p2, p3, p4, 
           labels = c("A", "B", "C", "D"),
-          ncol = 2, nrow = 2)
+          ncol = 2, nrow = 2) + 
+  ggtitle("Figure 1: Word categories chosen per auditory stimlus") +
+  ggsave(here("docs", "abstracts", "new_sounds", 
+              "figs", "pct_results.png"), dpi = 1200)
 
+ggarrange(pct_plot, eng_plot, ncol = 1) +
+  ggsave(here("docs", "abstracts", "new_sounds", 
+              "figs", "comb_results.png"), dpi = 1200)
 
 # plot to check individual responses 
 
@@ -143,7 +150,7 @@ pct %>%
   filter(stim == "stim/sis.wav") %>% 
   filter(participant == "noid6") %>% 
   ggplot(aes(x = word, y = stim)) + 
-  geom_bar(stat = "identity") + ylim(0, 100) +
+  geom_bar(stat = "identity") + ylim(0, 200) +
   ggtitle("responses to /^/")
 
 
