@@ -46,6 +46,14 @@ The results provided evidence that that the group with the V2 L2 outperformed th
 The authors took this result as evidence for a privileged status of the L2 in L3 production, despite its lack of facilitation. 
 These results also contradict the predictions of the CEM **cite**, which suggested that L3 learning is a cumulative process that takes advantage both L1 and L2 grammars in L3 learning. 
 
+The L2 Status Factor model has seen some empirical support in L3 syntax.
+**Bayona (2009)** examined the acquisition of middle and impersonal passive constructions in L2 and L3 Spanish. 
+The L2 group consisted on mostly English L1 speakers, and the L3 group consisted of English L1 and French L2 speakers. 
+The author found that the L3 Spanish group was more accurate in rejection or acceptance of target-like use of middle and passive constructions in L3 Spanish than the L2 group. 
+These results suggest that the L2 influenced that L3, and provided evidence for both the L2 Status Factor and the Cumulative Enhancement Model. 
+
+
+
 Further L2 status studies 
 
 proposed flaws & counterevidence 
