@@ -1,0 +1,47 @@
+1.1624 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+7.2947 	INFO 	Loaded monitor calibration from ['2021_05_25 17:40']
+7.3085 	WARNING 	User requested fullscreen with size [1680 1050], but screen is actually [1440, 900]. Using actual size
+8.0445 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fd29062da90>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fd2900a1780>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, units='norm', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.0446 	EXP 	window1: mouseVisible = True
+8.0447 	EXP 	window1: recordFrameIntervals = False
+8.2108 	EXP 	window1: recordFrameIntervals = True
+8.3952 	DEBUG 	Screen (0) actual frame rate measured at 59.82
+8.3952 	EXP 	window1: recordFrameIntervals = False
+9.1472 	INFO 	keyboard.Keyboard is using ptb backend.
+9.2015 	EXP 	Created insructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='insructions', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+9.4034 	INFO 	keyboard.Keyboard is using ptb backend.
+9.4672 	EXP 	Sound sound_stim1 set volume 1.000
+9.4673 	EXP 	Sound sound_stim2 set volume 1.000
+9.4674 	EXP 	Sound sound_stim3 set volume 1.000
+9.4724 	EXP 	Created text_response_first = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_response_first', opacity=1, ori=0, pos=array([-0.5,  0. ]), rgb=UNKNOWN, text='First is different', units='norm', win=Window(...), wrapWidth=1)
+9.4756 	EXP 	Created text_response_third = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_response_third', opacity=1, ori=0, pos=array([0.5, 0. ]), rgb=UNKNOWN, text='Third is different', units='norm', win=Window(...), wrapWidth=1)
+9.4782 	EXP 	Created text_response_same = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_response_same', opacity=1, ori=0, pos=array([ 0. , -0.5]), rgb=UNKNOWN, text='They are the same', units='norm', win=Window(...), wrapWidth=1)
+9.6810 	INFO 	keyboard.Keyboard is using ptb backend.
+9.6849 	EXP 	Created text_trial_cross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-7.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.2, italic=False, languageStyle='LTR', name='text_trial_cross', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='norm', win=Window(...), wrapWidth=1)
+9.6874 	EXP 	Created text_end = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_end', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thank you.', units='norm', win=Window(...), wrapWidth=1)
+9.8852 	INFO 	keyboard.Keyboard is using ptb backend.
+9.9041 	EXP 	insructions: autoDraw = True
+12.0952 	DEBUG 	Read csv file with pandas: condition_file/trials.csv
+12.0999 	DEBUG 	Clearing unnamed columns from condition_file/trials.csv
+12.1019 	EXP 	Imported condition_file/trials.csv as conditions, 54 conditions, 6 params
+12.1044 	EXP 	Created sequence: random, trialTypes=54, nReps=3, seed=None
+12.1047 	EXP 	New trial (rep=0, index=0): OrderedDict([('stim1', 'stim/bda4.wav'), ('stim2', 'stim/bda2.wav'), ('stim3', 'stim/bda1.wav'), ('trialType', 'baa'), ('diffCategory', 'first'), ('isCorrect', 1.0)])
+12.1310 	DATA 	Keypress: space
+12.1353 	EXP 	insructions: autoDraw = False
+12.1353 	EXP 	text_trial_cross: autoDraw = True
+12.3446 	EXP 	text_trial_cross: autoDraw = False
+14.1115 	EXP 	text_response_first: autoDraw = True
+14.1115 	EXP 	text_response_third: autoDraw = True
+14.1115 	EXP 	text_response_same: autoDraw = True
+16.8469 	EXP 	New trial (rep=0, index=1): OrderedDict([('stim1', 'stim/bda0.wav'), ('stim2', 'stim/bda1.wav'), ('stim3', 'stim/bda4.wav'), ('trialType', 'aab'), ('diffCategory', 'third'), ('isCorrect', 0.0)])
+16.8611 	EXP 	text_response_first: autoDraw = False
+16.8611 	EXP 	text_response_third: autoDraw = False
+16.8611 	EXP 	text_response_same: autoDraw = False
+16.8611 	EXP 	text_trial_cross: autoDraw = False
+16.8611 	EXP 	text_trial_cross: autoDraw = True
+17.0608 	EXP 	text_trial_cross: autoDraw = False
+17.0989 	DATA 	Keypress: escape
+17.4594 	EXP 	window1: mouseVisible = True
+17.4595 	DEBUG 	Saving data for discrimination_axb ExperimentHandler
+17.4617 	INFO 	saved data to /Users/kyleparrish/Documents/GitHub/dissertation_parrish/exps/axb_disc_task/data/_2021_Nov_03_1447.psydat
+17.4625 	INFO 	saved data to '/Users/kyleparrish/Documents/GitHub/dissertation_parrish/exps/axb_disc_task/data/_2021_Nov_03_1447.csv'
