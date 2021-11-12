@@ -1,0 +1,14 @@
+\chapter{Introduction}
+
+# Introduction
+
+The difficulty of learning a new language in adulthood has a well documented history. This is especially true in the case of phonological acquisition.  For example, many studies over the course of the past five decades have demonstrated that adult second language (L2) learners often produce and perceive the sounds of the target language in a non-native manner (**Flege & Eefting, 1988, Flege (1991)**). 
+This difficulty arises, in part, because bilinguals often navigate complex communicative situations in which they produce and perceive speech from both of their languages in real time. 
+Much less is known about the acquisition of a third language (L3A), particularly with regard to L3 production, perception, and phonological learning. 
+The present dissertation explores the production patterns and perceptual categorization routines of adult bilinguals during the initial stages of L3 acquisition. 
+
+Empirical studies in L3 phonological acquisition have found evidence of multi-directional influence in language production (CITE), with the impact of previously learned languages on a third varying. In some cases, L2 influence on L3 production has been found, where in others, L1 influence or simultaneous influence of both languages on L3 production has been reported. It is unclear what factors could be at the root of these varied findings. On one hand, it might be sampling error. 
+At large, empirical studies in L3 acquisition have used low samples to build models. One issue with this approach is related to sampling error. On the other, factors such as L2 and L3 proficiency, language dominance and choices of methods and analysis may play a role in the conclusions drawn by these studies.  
+
+The present dissertation aims to address the issue of low sample sizes and varied statistical analyses by, firstly, recruiting bilinguals who do not yet know a third language, and, secondly, by using more fitting statistical analyses made more appropriate by a larger sample size. It is likely that the relatively homogeneous populations of bilinguals are in greater supply that trilingual populations, particularly when suggested methodological practices are to be used, such as the use of mirror-image groups. With the increase in sample size, more precise observations and conclusions may be drawn about the very starting point of L3 phonological acquisition which are far less likely to be explained by statistical limitations such as sampling error. To deal with the potential impact of proficiency and dominance on L3 production and perception, L2 proficiency was measured using the LexTALE in English (citation) and Spanish (citation). The Bilingual Language Profile (BLP) was used to measure language dominance and background (citation).
+

@@ -1,0 +1,67 @@
+\chapter{Previous literature in L3 phonology}
+
+# Previous literature in L3 phonology
+
+The models discussed to this point, with the exception of Wrembel's model, have focused largely on morpho-syntax. The findings in L3 phonology have largely yielded mixed results and do not quite have a comprehensive model. Despite the lack of a model, some patterns emerge from the body of research. The following sections cover the empirical studies that have been done in L3 production studies across L3 proficiency levels, and the fewer studies done in L3 perception. 
+
+
+## L3 Production Studies 
+
+The findings in empirical studies of L3 phonological cross-linguistic influence have varied. One of the first studies to examine progressive influence of the L1 or L2 on L3 production was the seminal case study of **Williams and Hammarberg (1993)**. 
+This study elicited the production of an adult L1 British English, L2 German, and L3 Swedish speaker in the L2 and L3 upon her arrival in Sweden. The speech samples were rated for native-likeness by native speakers of German and Swedish respectively, with low ratings (i.e. non-nativeness) being elaborated upon. In the event of non-native speech, the raters guessed where the speaker in the recording might be from. The informant had near native productions in her L2 German, while her L3 Swedish was rated as being non-native like and to be German-accented. The experiment was repeated after 6 months in Sweden, however, and the Swedish raters then judged the informant's Swedish to be British English accented. 
+
+This study constituted evidence of an L2 status effect in the initial stages of L3 phonological acquisition, in which the second learned language influence L3 production. This notion has been called the ‘foreign language effect’ [@meisel_transfer_1983], which refers to the idea that speakers who learn a second non-native language are biased to sound unlike a native speaker of their native language. 
+
+The default L2 status effect has received some empirical support in the literature. In a study of global accent production, heavier L2 influence in L3 productions was found by L1 Polish, L2 German and L3 English speakers based on ratings of EFL instructors. Specifically, 53% of L3 productions were identified as having come from a German native speaker [@wrembel_l2-accented_2010]. S vowel production [@kamiyama_acquisition_2007] vowel reduction and speech rhythm [@gut_cross-linguistic_2010].
+
+Similar patterns of L2 influence have been found in VOT productions.  @llama_influence_2010 examined L3 Spanish VOT production by French-English mirror-image bilingual groups and found that both groups had L2-like productions of the L3. 
+
+Williams & Hammarberg 1998
+
+Hammarberg and Hammarberg 1993, 2005,
+Cenoz 2001
+Hammarberg 2001 
+Bannert 2005, 
+Jessner 2006, 
+Fernandes-Boëchat and Siebeneicher Brito 2008, 
+
+LPM support 
+Wrembel 2015, Jabbari and Pourmajnoun 2016, Lloyd-Smith, Gyllstad and Kupisch 2017
+
+
+Other findings in L3 production, however, have yielded mixed results. 
+Several studies have found that acoustic properties of the participants' productions fall between L1 and L3 values, suggesting that both the L1 and the L2 have some influence on L3 productions, rather than solely one language. 
+For instance, [@wrembel_vot_2014] measured VOT and aspiration in all languages of participants with two different language combinations: L1 Polish, L2 English, and L3 French; (2) L1 Polish, L2 English, and L3 German. 
+The results showed that each language had a specific stop-value, and that the L3 VOT productions were intermediate, falling between the L1 and L2 values. 
+Similarly, [@wrembel_cross-linguistic_2011] examined thirty-two learners of L3 French with L1 Polish and L2 English who were recorded reading lists of words in carrier phrases. 
+As in previous studies [@wrembel_vot_2014], combined transfer from the L1 and the L2 in VOT productions was found. 
+
+Findings of combined L1 and L2 influence in VOT productions were also reported by @wunder_phonological_2010 in L3 Spanish speakers, and by @blank_transferencia_2009 in L3 English speakers who spoke L1 Brazilian Portuguese and L2 French. 
+Other studies have found an L1 influence on production despite L3 proficiency [@wrembel_foreign_2012], or in advanced L3 learners [@llama_revisiting_2018].*
+
+Parrish (2021) examined Mexican Spanish-English bilinguals who produced French words in isolation at first exposure to the language. 
+The results found that the relative VOT of the L3 fell between their own L1 and L2 values, in line with previous research (citations). 
+However, a subsequent analysis of the data suggested that wide individual variation existed in the data, in which some participants produced L3 French as L1 Spanish like, and other produced intermediate, L2-like values. 
+
+
+## L3 Perception studies 
+
+To date, few studies in L3 phonology has incorporated the predictions of the perceptual assimilation model
+
+**Wrembel et al. (2019)** examined the categorization and discrimination of 10 young trilinguals who spoke L1 German-L2 English-L3 Polish.
+The results showed evidence that participants assimilated L3 sounds to both L1 and L2 categories, but preferred the L2. 
+Additionally, language specific phonetic discrimination were attended to by even L3 beginners. 
+**Balas (2019)**
+
+Balas (2019), Liu 
+
+Werker (1986), Patihis, Oh and Mogilner (2015), Kopečková (2015), Cabrelli Amaro (2016), Onishi (2016), and Wrembel, Marecka and Kopečková (under review).
+
+*Perception studies in L3 acquisition have been much more scarce than those on production, and primarily in young participants. 
+One of few L3 perception studies in adults is @liu_effects_2019, which examined the perceptual boundary of a VOT continuum in trilinguals. 
+The participants were L3 Spanish speakers who spoke L2 English and L1 Chinese. 
+Though the authors focused their analysis on regressive transfer and comparisons to all speakers, the reported boundaries in the study (n = 10, 28ms for Chinese, 24.6ms for English and 23ms for Spanish) suggest that the participants were using their English boundaries for L3 Spanish categorization. 
+
+Other studies in L3 perception, which have examined young trilinguals, have found a wide range of results. 
+For instance, @wrembel_cross-linguistic_2020 found that cross-linguistic influence is structure dependent and varies among individuals, while @balas_perception_2019 found CLI to be modulated by a complex combination of factors such as markedness of the segment under examination, proficiency in the L2 and the L3, and L1 typology. 
+Finally, another study on L3 perception in young learners (Polish L1, English L2, German, L3) revealed that the L2 predominantly influences L3 perception in both rhotic sounds and devoicing of word final stops [@wrembel_cross-linguistic_2020]. These variable findings of the source of influence in L3 perception and production, including single language influence, combined languages influence, or structure-dependent influence, point to a lack of homogeneity in multilinguals.* 
