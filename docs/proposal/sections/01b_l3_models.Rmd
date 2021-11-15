@@ -46,7 +46,7 @@ The authors took this result as evidence for a privileged status of the L2 in L3
 These results contradict the predictions of the CEM, which suggested that L3 learning is a cumulative process that takes advantage both L1 and L2 grammars in L3 learning. 
 
 The L2 Status Factor model has seen further empirical support in studies examining L3 syntax.
-**Bayona (2009)** examined the acquisition of middle and impersonal passive constructions in L2 and L3 Spanish. 
+@bayona_acquisition_2009 examined the acquisition of middle and impersonal passive constructions in L2 and L3 Spanish. 
 The L2 group consisted on mostly English L1 speakers, and the L3 group consisted of English L1 and French L2 speakers. 
 The author found that the L3 Spanish group was more accurate in rejection or acceptance of target-like use of middle and passive constructions in L3 Spanish than the L2 group. 
 These results suggest that the L2 influenced that L3, and provided evidence for both the L2 Status Factor and the Cumulative Enhancement Model.
@@ -56,11 +56,11 @@ In this case, the results could arguably be accounted for by the L2 Status Facto
 However, the author's narrative conclusion of these results did not claim that there was sole access to the L2, or that the L1 was blocked. 
 Rather, they suggest that L3 learning is not simply another case of L2 learning, in which the L1 is the sole influence.
 This result was replicated in other studies. 
-For instance, **Bohnacker(2006)** Found that L1 Swedish-L2 English-L3 German speakers showed evidence of English like word order in L3 German V2 contructions, rather than facilitative L1 Swedish,
-Additionally, *falk and bardel 2011** found that 44 L3 German learners with L1 English-L2 French or L1 French-L2 English behaved differently in tasks involving object pronoun placement.
+For instance, @bohnacker_when_2006 found that L1 Swedish-L2 English-L3 German speakers showed evidence of English like word order in L3 German V2 contructions, rather than facilitative L1 Swedish,
+Additionally, @falk_object_2011 found that 44 L3 German learners with L1 English-L2 French or L1 French-L2 English behaved differently in tasks involving object pronoun placement.
 This distinct behavior was likened to L2 influence and suggested that order of acquisition was more deterministic in predicting CLI than typology. 
 Interestingly, later studies found that L1 access was possible when learners had higher metalinguistic awareness of cross-linguistic similarity between the L1 and the L3. 
-In a study of L3 learners of a V2 language who spoke a V2 L1 and non-V2 L2, *Falk Lind Bardel*, participants were given a survey which measured their awareness of cross-linguistic features in their known languages. 
+In a study of L3 learners of a V2 language who spoke a V2 L1 and non-V2 L2, @falk_role_2015, participants were given a survey which measured their awareness of cross-linguistic features in their known languages. 
 The results revealed that participants who scored higher on the metalinguistic survey also showed evidence of facilitative influence of their L1. 
 This outcome led the authors to revise the predictions of the L2SF to include the potential for L1 influence when metalinguistic awareness is high.
 
@@ -73,7 +73,7 @@ The study included two groups of Spanish-English bilinguals who were learning ei
 Importantly, all participants spoke L2 Spanish, which allows for null subjects, and spoke either L3 French (obligatory overt subjects) or L3 Italian (optional null subjects). 
 As a result, dropping a subject in L3 French would result in non-target like production, where the opposite would be true in L3 Italian.
 The authors found that the data from this study provided evidence that the L2 was the influence on L3 production in both L3 groups, and provided evidence against the CEM, since the French group experimented non-facilitative effects from a previously learned languages, and the L2 Status Factor, since neither group showed evidence of L1 influence. 
-Despite these results, the authors posited that it was possible that the perception of cross-linguistic structural similarity (or so called phycho-typology **Kellerman, 1983**) could also be a potential explanation for the results obtained in [@rothman_what_2010].
+Despite these results, the authors posited that it was possible that the perception of cross-linguistic structural similarity [@kellerman_now_1983] could also be a potential explanation for the results obtained in [@rothman_what_2010].
 
 Eventually, this perspective was formalized as The Typological Primacy Model [@baauw_cognitive_2013; @rothman_l3_2011; @rothman_linguistic_2015; @rothman_typological_2010] (TPM). 
 TPM, like the L2SF, predicts that a single language will influence the L3, but differs in that this language may be either the L1 or the L2, and that which language transfers to the L3 is determined by psychotypology after exposure to input. 
@@ -132,7 +132,7 @@ Telling this would require much larger samples and clear criteria for interpreti
 
 The prediction that a sole language will influence L3 production and perception is not shared by all models. 
 More recent models of L3 acquisition, like the CEM, predict that both the L1 and the L2 are available to influence an L3. 
-For example, the Linguistic Proximity Model (LPM) predicts that there is full transfer potential (FTP) of either linguistic system, but that this occurs in a gradient fashion and on a property-by-property basis **cite**.
+For example, the Linguistic Proximity Model (LPM) predicts that there is full transfer potential (FTP) of either linguistic system, but that this occurs in a gradient fashion and on a property-by-property basis [@westergaard_crosslinguistic_2017; @westergaard_microvariation_2021].
 In the founding article of the LPM, @westergaard_crosslinguistic_2017 posed several research questions. 
 In addition to investigating whether a sole language influences an L3, they also examined whether CLI comes from the more typologically similar language, and whether this influence is facilitative. 
 To provide evidence that could aid in answering these questions, the authors recruited 22 Norwegian-Russian simultaneous bilinguals who spoke English as an L3. 
@@ -153,16 +153,16 @@ That is, intermediate values in L3 performance on experimental tasks relative to
 On the other hand, if no difference could be found between L2 and L3 learners of the same language, the LPM would consider this evidence for the influence of a single language on the L3. 
 
 Following the introduction of the model, several studies have tested the predictions of the LPM.
-In order to test whether bilinguals have access to two languages during L3 learning, *Mitronova & Westergaard (2018)* conducted a study Norwegian-Russian bilinguals and Norwegian monolinguals in which they taught them some of an aritificial language which was designed to contain Norwegian-like lexical items, but also Russian like case marking to distinguish subjects from objects.
+In order to test whether bilinguals have access to two languages during L3 learning, @mitrofanova_wholesale_2018 conducted a study Norwegian-Russian bilinguals and Norwegian monolinguals in which they taught them some of an artificial language which was designed to contain Norwegian-like lexical items, but also Russian like case marking to distinguish subjects from objects.
 The results revealed that the bilingual group performed better than the monolingual group on a sentence/picture matching task, in which the monolinguals relied solely on word order when making decisions.  
-In a series of studies, **Stadt 2016** examined L1 Dutch - L2 English - L3 French speakers in both English immersion and general Dutch-dominant educational settings. 
+In a series of studies, @stadt_influence_2016 examined L1 Dutch - L2 English - L3 French speakers in both English immersion and general Dutch-dominant educational settings. 
 In the first study, the results of a Grammaticality Judgement Task indicated that third year the immersion group showed signs of heavy L2 influence in the L3, where the regular group showed evidence of CLI from both the L1 and the L2. 
-In a follow up study **stadt 2018**, the authors recruited 4th year students from the same educational background to investigate whether L2 influence would differ between 3rd and 4th year students. 
+In a follow up study, the authors recruited 4th year students from the same educational background to investigate whether L2 influence would differ between 3rd and 4th year students [@berns_role_2018]. 
 The results revealed that both 3rd and 4th year immersion groups behaved similarly and showed evidence of primarily English influence on their L3 judgments, though evidence for L1 influence was also found.  
-In a second follow up study **2020**, the authors gave similar materials to the an L3 German group.
+In a second follow up study, the authors gave similar materials to the an L3 German group [@trotzke_l2_2020].
 In this case, L3 German judgments were concluded to have been influenced by the more typologically similar L1 Dutch, rather than L2 English as found in the previous cases.
 Taken together, the results of these studies suggest that both typology and L2 Status may play a role in modeling the patterns of cross linguistic influence in an L3.
-Interstingly, these authors also conducted longitudinal study (**Stadt long 2018**), again with L1 Dutch-L2 English-L3 French speakers.
+Interstingly, these authors also conducted longitudinal study [@stadt_influence_2018], again with L1 Dutch-L2 English-L3 French speakers.
 In this study, they found that the L1 was more influential in the beginning stages of L3 development, but that the L1 also maintained influence as L3 proficiency increased. 
 @jensen_crosslinguistic_2021 investigated similar groups to Westergaard et al. (2017), in which simultaneous Russian-Norwegian bilinguals were compared to subtractive L1 Russian-L2 English and L1 Norwegian-L2 English groups, but included seven total linguistic properties. 
 The results indicated that the L3 group experienced facilitative influence in some cases, but non-facilatative influence in others. 
@@ -170,10 +170,10 @@ Additionally, the sources of this influence could be likened to either Russian o
 
 Scholars have argued that the LPM makes vague predictions creates a problem in modeling L3 transfer acquisition [@bardel_l1_2020; @wrembel_multilingual_2020], since it is unclear when transfer of a particular structure occurs and when it does not. 
 Likewise researchers have argued that, unlike the TPM and the L2SF, the LPM is not easily falsifiable [@bardel_l1_2020]. 
-However, **Westergaard et al. (submitted)** argue that the LPM does make specific predictions, since it is predicted that accuracy should fall between L1 and L2 values on experimental tasks. 
+However, @westergaard_microvariation_2021 argue that the LPM does make specific predictions, since it is predicted that accuracy should fall between L1 and L2 values on experimental tasks. 
 The authors state that, when using subtractive groups, if the L3 group performance falls above or below the one of the two L2 groups, then then model would be falsified. 
 
-Additionally, it is notable that the empirical studies that serve as the basis of the LPM **westergaard studies** utilize groups of simultaneous bilinguals, which do not allow for the examination of potential L2 status effects. 
+Additionally, it is notable that the empirical studies that serve as the basis of the LPM [@westergaard_crosslinguistic_2017; @westergaard_microvariation_2021] utilize groups of simultaneous bilinguals, which do not allow for the examination of potential L2 status effects. 
 Following this idea, @westergaard_crosslinguistic_2017 suggest that an optimal design to examine both the individual contributions of languages, as well as potential language status effects, would be the so-called fully combined design. 
 This suggestion entails the use of both mirror-image groups, as seen in the TPM studies (e.g. L1 Spanish-L2 English-L3 BP and L1 English-L2 Spanish-L3 BP), and subtractive groups (e.g. L1 Spanish-L2 English-L3 BP, L1 Spanish-L2 BP and L1 English-L2 BP) used in the LPM studies.
 As a result, a fully combined design would result in the use of 6 total groups, in which a mirror image design contains L1 speakers of both background languages who learn the L3 as an L2. 
