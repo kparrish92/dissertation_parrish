@@ -80,55 +80,56 @@ TPM, like the L2SF, predicts that a single language will influence the L3, but d
 @rothman_linguistic_2015 explains that L3 input is parsed in a hierarchical manners in which the lexicon is the primary cue parsed to determine cross-linguistic similarity between the L3 and the languages known by the L3 learner, followed by phonological or phonotactic cues, functional morphology and finally by syntactic structure. 
 Importantly, the transfer of one grammar holistically is predicted to occur during the initial stages of acquisition. 
 This idea of initial stages is described by Rothman as "very early in the L3 process" Rothman (2015, p. 180). 
-At what the TPM refers to the "absolute initial state", it suggests that both languages are in principle available to the L3 learner, but does not elaborate or make predictions as to how features of the L1 and L2 will affect absolute initial state. 
+At what the TPM refers to the "absolute initial state", which the present dissertation calls "first exposure", it suggests that both languages are in principle available to the L3 learner, but does not elaborate or make predictions as to how features of the L1 and L2 will affect absolute initial state perception and production. 
 As a result, the TPM does not make clear predictions in the context of the present dissertation, since the learners examined here are intended to perceive and produce the L3 at their very first exposure. 
 Nonetheless, the TPM would best be able to account for results in which L3 speakers produce and perceive the L3 in a practically equivalent manner to their L1 or L2 in a cross-sectional design, rather than solely the L2.
 
 Several published studies include conclusions in which the TPM is supported. 
-In the discussion of @rothman_what_2010, the authors suggested that it could not be determined whether L3 performance was due to L2 effects or psychotypology.., As a result, the authors suggested the use of language combinations in which the order of acquisition of L1 and L2 are reversed.
+In the discussion of @rothman_what_2010, the authors suggested that it could not be determined whether L3 performance was due to L2 effects or psychotypology. 
+As a result, the authors suggested the use of language combinations in which the order of acquisition of L1 and L2 are reversed.
 These groups, sometimes referred to as mirror-image groups, would include groups such as L1 Spanish-L2 English and L1 English-L2 Spanish speakers who learned the same L3. 
-In this view, between-group performance should be similar if transfer is driven by psychotypology, and groups should behave differently if L2 status is 
-deterministic. 
+In this view, between-group performance should be similar if transfer is driven by psychotypology, and groups should behave differently if L2 status is deterministic. 
 For example, if mirror-image groups had been used in @rothman_what_2010 with L1 Spanish-L2 English and L1 English-L2 Spanish groups, 
-the acceptance or rejection of L3 null subjects would allow for the examination of the predictive power of L2 status and psychotypology 
-Using this methodology, @rothman_l3_2011 aimed to investigate whether L3 Brazilian Portuguese would be influenced by Spanish both when it was and was not the L2. 
-The first group consisted of L1 English-L2 Spanish speakers, while the second group spoke L1 Spanish and L2 English. 
+the acceptance or rejection of L3 null subjects would allow for the examination of the predictive power of L2 status and psychotypology relative to one another.
+In a future study using this methodology, @rothman_l3_2011 aimed to investigate whether L3 Brazilian Portuguese would be influenced by Spanish both when it was and was not the L2. 
+The study examined adjective placement and meaning in the L3.
+The first group consisted of L1 Italian-L2 English speakers learning L3 Spanish, while the second group spoke L1 English and L2 Spanish and was learning L3 Brazilian Portuguese (BP).
 Based on the absence of a main effect for group in a one-way ANOVA, Rothman (2011) concluded that there was similar performance between groups and used this as evidence for the basis of the TPM.
+These results suggested that both groups performed in a target-like manner on the experimental task and also supported the Cumulative Enhancement Model. 
 
 Following the formal introduction of the TPM, further studies included mirror-image groups in their design and aimed to test the predictions of the model relative to the L2 Status Factor. 
 Several of these studies involve the acquisition of L3 Brazilian Portuguese (BP) by Spanish-English bilinguals in both orders of acquisition.
 @montrul_clitics_2011 examined the production of clitic and object expressions in L3 BP by mirror-image groups of Spanish-English bilinguals. 
-Using an oral production task and a written acceptability judgment task, (AJT), it was found that L3 BP was influenced by Spanish whether it was the L1 or the L2 of the participants. 
+Using an oral production task and a written Acceptability Judgment Task, (AJT), it was found that L3 BP was influenced by Spanish whether it was the L1 or the L2 of the participants. 
 Examining the same language combination and using similar mirror-image groups, @giancaspro_transfer_2015 also found investigated the use of differential object marking (DOM) in L3 BP. 
 The results suggested that Spanish influenced L3 BP whether it was the L1 or the L2. 
 Like @montrul_clitics_2011, @parma_cross-linguistic_2017 also investigated L3 BP clitic development and expanded upon previous studies by including both a perception and production task.
 Another novelty of @parma_cross-linguistic_2017 was the inclusion of an online measure, a self-paced reading task, to measure comprehension, while the study also included a story-telling task to measure production. 
-The results of the comprehension task were inconclusive, and it could not be conlcuded that the experimental conditions were being processed at meaningfully difference speeds by any group.
+The results of the comprehension task were inconclusive, and it could not be concluded that the experimental conditions were being processed at meaningfully difference speeds by any group.
 The production task, on the other hand, found evidence of errors in clitic production in L3 BP by both L1 and L2 Spanish speakers that could be likened to Spanish influence. 
 The results of these studies provided evidence contrary to the predictions of the L2 Status Factor and suggest that Spanish influences L3 BP. 
 Following these initial results in the language combination of L3 BP with English and Spanish, other studies aimed to test whether either the L1 or the L2 could influence performance on L3 tasks. 
 The evidence outside of the BP/Spanish/English triad has been more limited and controversial. 
-Some accounts in favor of the TPM's predicitve power have aimed to accumulate evidence in its favor.
+Some accounts in favor of the TPM's predicitive power have aimed to accumulate evidence in its favor.
 For instance, in a recent systematic review of 92 studies in L3 acquisition, @puig-mayenco_systematic_2020 concluded that, in support of the TPM, that either the L1 or L2 influenced L3 performance in 59 out of 92 studies. 
 On the other hand, 29 of the studies out of 92 found that the L2 influenced the L3. 
-Importantly, the findings were not coded in a mutually exclusive manner, since the authors coded 25 total studies as being explained both by L2 status and typology, meaning that the results of these studies reported that the L2 transferred to the L3, but could not rule out the possibility that psycho-typological transfer could also explain the results, since the studies did not use mirror image groups (i.e. L3 groups with the same languages, but the opposite order of acquisition). 
+Importantly, the findings were not coded in a mutually exclusive manner, since the authors coded 25 total studies as being explained both by L2 status and typology, meaning that the results of these studies reported that the L2 transferred to the L3, but could not rule out the possibility that psycho-typological transfer could also explain the results, since the studies did not use mirror image groups (i.e., L3 groups with the same languages, but the opposite order of acquisition). 
 A closer examination of this systematic review reveals, however, that the coding procedure did not follow a clear objective criterion.
-That is, there are instances in which the coding provided by the authors in the appendix contradicts the narrative conclusions of the cited studies. 
-In other words, the cumulative evidence for L1 or L2 influence on L3 behavior as predicted by the TPM is unclear outside of 2 Romance Language and English triads. 
+That is, there are instances in which the coding provided by the authors in the appendix contradicts the narrative conclusions of the cited studies, and it is unclear how the authors of the systematic review determined when to depart from the conclusions of authors of studies and when they decided not to. 
 
-Limitations of the TPM in addition to the lack of robust and cross-linguistic include overstated predictive power and over interpretation of results.
-The  potential problem when it comes to the predictive power of the TPM is the vagueness associated with the term "initial stages" of L3 acquisition. 
+Limitations of the TPM in addition to the lack of robust and cross-linguistic support include overstated predictive power and over-interpretation of results.
+The potential problem when it comes to the predictive power of the TPM is the vagueness associated with the term "initial stages" of L3 acquisition. 
 @puig-mayenco_systematic_2020 describes this time as some 20-25 hours of instruction, before which time access to either language is possible.
 This vague criterion makes it quite difficult to derive the predictions of the TPM in the case of learners who first encounter an L3. 
-The problem of overinterpretation can be seen in the use of single language properties and inappropriate statistical tests to justify narritive conclusions.
+The problem of over-interpretation can be seen in the use of single language properties and inappropriate statistical tests to justify narrative conclusions.
 For example, the TPM is rather explicit in its prediction that languages transfer holistically to the L3, rather than on a property-by-property basis that the CEM would suggest. 
-While, the evidence gathered to date provides counterevidence to sole L2 influence on the L3, it is unclear how these studies support holistic transfer. 
-In other words, it does not seem that the body of evidence in L3 BP can rule out the influence of English within the property examined, since small samples which provide inconclusive results (non-signigicant p-values) do not entail equivalence within or between subjects. 
-Such small samples and choices of methods do not allow for potential gradient and small effects of co-activation to be observed, since, on one hand, it is not possible to determine whether group results have to do with sampling issues, and, on the other, clear critria for co-activation of both languages known by a bilingual was not explicitly included in predictions and design of these studies. 
+While, some of the evidence gathered to date provides counterevidence to sole L2 influence on the L3, it is unclear how these studies support holistic transfer. 
+In other words, it does not seem that the body of evidence can rule out the influence of both languages within the property examined, since small samples which provide inconclusive results (non-significant p-values) do not entail equivalence within or between subjects. 
+Such small samples and choices of methods do not allow for potential gradient and small effects of co-activation to be observed, since, on one hand, it is not possible to determine whether group results have to do with sampling issues, and, on the other, clear criteria for co-activation of both languages known by a bilingual was not explicitly included in predictions and design of these studies. 
 As a result, it cannot be determined based on the results of studies to date that, in the case of the L3 BP studies, Spanish is solely activated and that English is not activated.
 Telling this would require much larger samples and clear criteria for interpreting how results support models prior to data collection, which could include potential for non-binary interpretation of data. 
 
-## The Linguistic Proximity Model and the Scalpel Model
+## The Linguistic Proximity Model
 
 The prediction that a sole language will influence L3 production and perception is not shared by all models. 
 More recent models of L3 acquisition, like the CEM, predict that both the L1 and the L2 are available to influence an L3. 
@@ -140,10 +141,10 @@ The participants completed a binary Grammaticality Judgment Task related to verb
 The results of the tasks indicated that, compared to L1 Norwegian speaking children, bilingual children were able to benefit from their knowledge of Russian when learning L3 English. 
 At the same time, the bilingual participants did not perform as well as L1 Russian children learning English. 
 The authors interpreted these results, taken together, as influence from both the L1 and the L2 in the L3 English of the Russian-Norwegian bilingual children. 
-That is, the intermediate score of the Russian-Norwegian simultaneous bilingual children learning L3 English relative to the comparison groups was taken as evidence of facilitative influence from their Russian and non-facilitative influence from their Norwegian.
+That is, the intermediate score of the Russian-Norwegian simultaneous bilingual children learning L3 English relative to the comparison groups was taken as evidence of the co-occurence of facilitative influence from their Russian and non-facilitative influence from their Norwegian.
 
 The LPM, like the TPM and CEM, predicts that similarities between languages plays a major role in L3 acquisition, rather than order of acquisition, as the L2 Status Factor predicts. 
-The LPM departs from the TPM in that it predicts that abstract structural properties causes CLI, rather than general typological proximity. 
+The LPM departs from the TPM in that it predicts that abstract structural properties causes CLI, rather than the general perceived typological proximity. 
 In other words, it suggests that cross-linguistic influence is decided on a feature-by-feature basis, rather than generalizing whole language predictions. 
 Additionally, the LPM predicts that all languages are available to the L3 learner throughout the learning process, unlike the TPM. 
 
@@ -155,6 +156,7 @@ On the other hand, if no difference could be found between L2 and L3 learners of
 Following the introduction of the model, several studies have tested the predictions of the LPM.
 In order to test whether bilinguals have access to two languages during L3 learning, @mitrofanova_wholesale_2018 conducted a study Norwegian-Russian bilinguals and Norwegian monolinguals in which they taught them some of an artificial language which was designed to contain Norwegian-like lexical items, but also Russian like case marking to distinguish subjects from objects.
 The results revealed that the bilingual group performed better than the monolingual group on a sentence/picture matching task, in which the monolinguals relied solely on word order when making decisions.  
+These results suggested that the bilingual group was able to make use of both of their languages at first exposure. 
 In a series of studies, @stadt_influence_2016 examined L1 Dutch - L2 English - L3 French speakers in both English immersion and general Dutch-dominant educational settings. 
 In the first study, the results of a Grammaticality Judgement Task indicated that third year the immersion group showed signs of heavy L2 influence in the L3, where the regular group showed evidence of CLI from both the L1 and the L2. 
 In a follow up study, the authors recruited 4th year students from the same educational background to investigate whether L2 influence would differ between 3rd and 4th year students [@berns_role_2018]. 
@@ -162,13 +164,14 @@ The results revealed that both 3rd and 4th year immersion groups behaved similar
 In a second follow up study, the authors gave similar materials to the an L3 German group [@trotzke_l2_2020].
 In this case, L3 German judgments were concluded to have been influenced by the more typologically similar L1 Dutch, rather than L2 English as found in the previous cases.
 Taken together, the results of these studies suggest that both typology and L2 Status may play a role in modeling the patterns of cross linguistic influence in an L3.
-Interstingly, these authors also conducted longitudinal study [@stadt_influence_2018], again with L1 Dutch-L2 English-L3 French speakers.
+Finally, these authors also conducted longitudinal study [@stadt_influence_2018], again with L1 Dutch-L2 English-L3 French speakers.
 In this study, they found that the L1 was more influential in the beginning stages of L3 development, but that the L1 also maintained influence as L3 proficiency increased. 
-@jensen_crosslinguistic_2021 investigated similar groups to Westergaard et al. (2017), in which simultaneous Russian-Norwegian bilinguals were compared to subtractive L1 Russian-L2 English and L1 Norwegian-L2 English groups, but included seven total linguistic properties. 
+In a more recent study, @jensen_crosslinguistic_2021 investigated similar groups to Westergaard et al. (2017), in which simultaneous Russian-Norwegian bilinguals were compared to subtractive L1 Russian-L2 English and L1 Norwegian-L2 English groups, but included seven total linguistic properties. 
 The results indicated that the L3 group experienced facilitative influence in some cases, but non-facilatative influence in others. 
 Additionally, the sources of this influence could be likened to either Russian or Norwegian. 
+The results of studies, taken together, suggest that both languages are active in L3 learning, and it also appears that they remain active throughout L3 development. 
 
-Scholars have argued that the LPM makes vague predictions creates a problem in modeling L3 transfer acquisition [@bardel_l1_2020; @wrembel_multilingual_2020], since it is unclear when transfer of a particular structure occurs and when it does not. 
+Like other L3 models, the LPM has received critisism. Scholars have argued that the LPM makes vague predictions creates a problem in modeling L3 transfer acquisition [@bardel_l1_2020; @wrembel_multilingual_2020], since it is unclear when transfer of a particular structure occurs and when it does not. 
 Likewise researchers have argued that, unlike the TPM and the L2SF, the LPM is not easily falsifiable [@bardel_l1_2020]. 
 However, @westergaard_microvariation_2021 argue that the LPM does make specific predictions, since it is predicted that accuracy should fall between L1 and L2 values on experimental tasks. 
 The authors state that, when using subtractive groups, if the L3 group performance falls above or below the one of the two L2 groups, then then model would be falsified. 
@@ -177,3 +180,24 @@ Additionally, it is notable that the empirical studies that serve as the basis o
 Following this idea, @westergaard_crosslinguistic_2017 suggest that an optimal design to examine both the individual contributions of languages, as well as potential language status effects, would be the so-called fully combined design. 
 This suggestion entails the use of both mirror-image groups, as seen in the TPM studies (e.g. L1 Spanish-L2 English-L3 BP and L1 English-L2 Spanish-L3 BP), and subtractive groups (e.g. L1 Spanish-L2 English-L3 BP, L1 Spanish-L2 BP and L1 English-L2 BP) used in the LPM studies.
 As a result, a fully combined design would result in the use of 6 total groups, in which a mirror image design contains L1 speakers of both background languages who learn the L3 as an L2. 
+
+# The Scalpel Model 
+
+The Scalpel Model [@slabakova_scalpel_2017] is an additional model of L3A which overlaps in many of its predictions with the LPM.
+Like the LPM, the Scalpel Model rejects the idea of wholesale transfer of either L1 or L2 proposed by the TPM. 
+Rather, it suggests that, given L3 input, the L1 and L2 combined grammar should successfully extract facilitative features from the input. 
+In this view, non-facilitation is driven by misleading, processing complexity, and frequency of a construction.
+That is, more complex constructions and less frequent constructions are predicted to be associated with non-facilitative CLI.  
+
+The major divergence of the Scalpel Model from other L3 modles lies in its focus on the role of input in driving non-facilitation. 
+Evidence for this claim comes from 2 empirical studies.
+Both studies examined three groups of participants L1 Basque-L2 Spanish-L3 English, L1 Spanish-L2 Basque-L3 English, and L1 Spanish-L2 English  [@garcia_mayo_object_2015; @slabakova_l3_2015]
+@garcia_mayo_object_2015 tested the use of null objects, which are not allowed in English, they are in Basque and sometimes in Spanish. 
+Using speaker judgments, the results showed that null objects were often correctly rejected in L3 English. 
+The second study, examining the same groups, focused on topicalization [@slabakova_l3_2015].
+In this case, L3 English speakers did not show evidence of target like behavior on grammaticality judgment tasks.
+The results of these studies suggest that one feature, topicalization, is difficult to acquire, where null objects was easier to acquire in L3 English. 
+The author suggests that this difficulty could be explained the likely lower frequency of topicalization in L3 English input relative to the lack of null objects. 
+Overall, the predictions of the Scalpel Model at first exposure might suggest that facilitation would occur in the event that the L3 stimulus has a clear bias to the L1 or the L2.
+That is, the Scalpel Model and the CEM should share similar predictions for the behavior of L3 learners at first exposure, but differ as the L3 develops. 
+The Scalpel Model does not seem to predict or concur with the prediction of the LPM that L3 performance on experimental task should fall between L1 and L2 performance. 

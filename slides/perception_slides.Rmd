@@ -1,34 +1,138 @@
 ---
-title: "Presentation Ninja"
-subtitle: "⚔<br/>with xaringan"
-author: "Yihui Xie"
-institute: "RStudio, PBC"
-date: "2016/12/12 (updated: `r Sys.Date()`)"
+title: "L3 Perception at first exposure"
+subtitle: 'L3 Perception at first exposure'
+author  : "Kyle Parrish"
 output:
   xaringan::moon_reader:
+    chakra: "https://cdnjs.cloudflare.com/ajax/libs/remark/0.14.0/remark.min.js"
     lib_dir: libs
+    css: [default, hygge, rutgers, rutgers-fonts]
     nature:
+      beforeInit: ["https://www.jvcasillas.com/ru_xaringan/js/ru_xaringan.js"]
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      ratio: 16:9
+---
+
+```{r, include=FALSE}
+library(tidyverse)
+knitr::opts_chunk$set(message = FALSE, warning = FALSE, echo = FALSE, fig.height = 8, fig.width = 14)
+```
+
+# Overview
+
+- Quick background 
+
+--
+
+- Method 
+
+--
+
+- Results 
+
+--
+
+- Why do I care? 
+
+---
+
+# Quick background
+
+## PAM 
+
+.big[
+- The **Perceptual Assimilation Model** (PAM) models the acquisiton of L2 sound contrasts.
+]
+
+--
+
+.big[
+- In L2 acquisition, sounds are assimilated to L1 categories.
+]
+
+--
+
+.big[
+- Difficulty in the acquisiton of a new language contrast is based on how sounds are contrasted in the L1.
+]
+
 ---
 
 ```{r}
-library(here)
-```
 
-The present study investigates bilinguals' categorization of L3 sounds at first exposure in order to inform debates in L3 phonological acquisition. Broadly, models of third language acquisition debate the role of previously known languages in the acquisition of a third. In particular, the starting point of third language acquisition has been debated, in which some models suggest that one language holistically influences the L3 (The Typological Primacy Model; Rothman, 2015, the L2 Status Factor, Bardel & Falk, 2007), while others suggest that property-by-property or gradient influence is possible (The Linguistic Priximity Model; Westergaard et al., 2017, the Scalpel Model, 2017). 
+data.frame("Assimilation_type" = c("Single Category", "Two Category"),
+"Definition" = c("Two native categories correspond to two L2 categories", "Two native categories correspond to one L2 category"),
+"Example" = c("/p/ and /b/ in Spanish and English", "Sheep-ship in L2 English by Spanish speakers")
+) %>% 
+  knitr::kable()
 
----
-
- In the present study, participants who speak L1 American English and L2 Spanish heard a total of 20 French vowel sounds in 4 conditions (L1 bias, L2 bias, new sound, both languages) and chose the closest matching L1 or L2 vowel sound given orthographically in language-specific carrier words. This experimental paradigm has been used in previous studies investigating the Perceptual Assimilation Model (Best & Tyler, 2007), and provides insight into how L2 sounds are categorized by naive learners in order to evaluate the predictions of L2 models of speech learning. Using and adapting this methodology to L3 acquisition, the present study provides evidence that L3 sounds are categorized using both L1 and L2 categories (top figure). Additionally, the same L3 sounds were not always categorized the identically by the within subjects, nor were all selections typically in one language (lower figure). These results suggest that both languages of a bilingual are active during L3 perceptual routines and has implications for L3 models. The data best support the Linguistic Proximity Model (Westergaard et al., 2017), while providing counter-evidence for full transfer models of L3 acquisition such as the L2 Status Factor and the Typological Primacy Model. 
- 
----
-
-\newpage
-```{r}
-knitr::include_graphics(here("docs", "abstracts", "new_sounds", 
-              "figs", "comb_results.png"))
 ```
 
 ---
+
+background-image: url(https://media.giphy.com/media/868ED0fFNYqXxZWeon/giphy.gif)
+background-size: 1000px
+background-position: 50% 50%
+
+---
+
+# Quick background
+
+## L3 models 
+
+.big[
+- How do the L1 and L2 affect L3 acquisition?
+
+- Just one language:
+ - Typological Primacy Model 
+ - L2 Status Factor 
+]
+
+.big[
+- Both L1 and L2 
+ - Linguistic Proximity Model 
+ - Scalpel Model
+]
+
+---
+
+# Method
+
+## Participants
+
+- English L1 - Spanish L2
+
+---
+
+# Method
+
+## Materials 
+
+.big[
+- 4 Conditions
+
+ - /o/ Spanish bias condition
+ - /^/ English bias condition
+ - /i/ Both language condition 
+ - /y/ Neither language
+]
+
+---
+
+# Results 
+
+<img src="./libs/img/pct_results.png" alt="drawing" width="800"/>
+
+---
+
+# Results 
+
+<img src="./libs/img/eng_percent.png" alt="drawing" width="800"/>
+
+---
+
+# Why do I care? 
+
+- 
