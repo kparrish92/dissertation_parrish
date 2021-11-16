@@ -4,14 +4,14 @@
 
 Notably, much of the evidence for the L3 models to date come from studies which examine the acquisition  (morpho)syntactic features. 
 The models do not always spell out specific predictions when it comes to L3 phonology. 
-In the case of the TPM, full transfer could be taken to mean the transfer of an entire language system to the L3, including phonology, but this stipulation is not explicitly spelled out in the recent articles articulating the predictions and motivations of the TPM (**cite**). 
+In the case of the TPM, full transfer could be taken to mean the transfer of an entire language system to the L3, including phonology, but this stipulation is not explicitly spelled out in the recent articles articulating the predictions and motivations of the TPM [@baauw_cognitive_2013; @rothman_l3_2011; @rothman_linguistic_2015; @rothman_typological_2010].
 In the LPM, phonology is also not directly addressed, but there does not seem to be any reason why the same predictions should not apply to phonology as syntax.
 Specifically, the LPM should predict that L3 performance should be intermediate and fall between L1 and L2 performance on experimental tasks.
-If predictions of L3 models are analogous in phonology and syntax, then the predictions and expansion of models of speech learning  
+Though a model of L3 phonological acquisition has yet to be proposed, the expansion of L2 models of phonological acquisition has been proposed [@wrembel_extending_2019].
 
 Many accounts for L2 phonological acquisition exist. 
 In general, these models all have in common that language-specific L1 categories drive L2 speech development. 
-It is still not well known how the predictions of the predictions of these models apply to L3 speech development when L2 categories are also theoretically avialable to the L3.
+It is still not well known how the predictions of the predictions of these models apply to L3 speech development when L2 categories are also theoretically available to the L3.
 In the section that follows, a brief overview of each model, along with its evidence, will be covered. 
 Following the model introductions, its relationship and proposed expansion to L3 phonology will be discussed. 
 
@@ -58,13 +58,17 @@ The present dissertation tests whether assimilation acquired during second langu
 
 The Second Language Linguistic Perception Model (L2LP_ is a computational model of L2 speech learning and is similar to the PAM in that it focuses on sound contrasts as the basis for L2 speech learning, rather than single segments (**van Leussen & Escudero, 2015**, Escudero, 2005, 2009).
 In this view, it is difficult for L2 learners to make contrasts which are not present in their L1.
-In their revision of the L2LP, van Leussen & Escudero support this claim with several empircal studies. Namely, that these studies have provided evidence that L2 learners experience difficult with the contrasts of /r/ and /l/ in Japanese, (**Aoyama et al., 2004**) “beat” and “bit” in Spanish and Portuguese (**Flege et al., 1997; Rauber et al., 2005**)
-"bet” and “bat” in Dutch  (**Broersma, 2005**). 
+In their revision of the L2LP, van Leussen & Escudero support this claim with several empircal studies. Namely, that these studies have provided evidence that L2 learners experience difficult with the contrasts of /r/ and /l/ in Japanese, (**Aoyama et al., 2004**) “beat” and “bit” in Spanish and Portuguese (**Flege et al., 1997; Rauber et al., 2005**) "bet” and “bat” in Dutch  (**Broersma, 2005**). 
 The authors argue that these results suggest that linguistic experience is at the heart of L2 learning. 
 Specifically, cross-linguistic comparisons of L1 categories and L2 categories are thought to predict the ease of L2 category learning. 
 The L2LP, unlike the PAM and the SLM, also aims to model the entire learning process, rather than the beginning stages of L2 speech learning. This entire learning process is predicted computationally and is baed on Stochastic Optimality Theory (Boersma, 1998).
 
-An important tenet of the postulate of the L2LP is the optimal perception hypothesis. Essentially, this proposal suggests that the initial perception of L2 sounds is the result of L1 acquisition. The developmental of L2 learners is predicted similarly to PAM, where a single category assimulation from PAM, in which a native category must be split, is called a new category scenario in the L2LP. This scenario is predicted by both models to be difficult for the L2 learner. On the other hand, the PAM and the L2LP predict that the case when two L1 sounds correspond well to two L2 sounds that discrimination of these sounds will be relavitely easier. This is referred to as a single category assimilation in PAM and a similar scenario in the L2LP. The final scenario of the L2LP is the subset scenario. In this case, a single L2 phoneme is perceived as two L1 categories. The same case is referred to as uncategorized or categorized-uncategorized in the PAM, and both models predict that discrimination of these sounds will be better than the case of new scenarios, but not as good as discrimination of subset scenarios. 
+An important tenet of the postulate of the L2LP is the optimal perception hypothesis. Essentially, this proposal suggests that the initial perception of L2 sounds is the result of L1 acquisition. 
+The developmental of L2 learners is predicted similarly to PAM, where a single category assimulation from PAM, in which a native category must be split, is called a new category scenario in the L2LP. 
+This scenario is predicted by both models to be difficult for the L2 learner. 
+On the other hand, the PAM and the L2LP predict that the case when two L1 sounds correspond well to two L2 sounds that discrimination of these sounds will be relavitely easier. This is referred to as a single category assimilation in PAM and a similar scenario in the L2LP. 
+The final scenario of the L2LP is the subset scenario. In this case, a single L2 phoneme is perceived as two L1 categories. 
+The same case is referred to as uncategorized or categorized-uncategorized in the PAM, and both models predict that discrimination of these sounds will be better than the case of new scenarios, but not as good as discrimination of subset scenarios. 
 
 Empirical support has been found for these predictions. In two-category assimilation/similar scenario, **Escudero and Boersma (2002)**, native Dutch speakers assimilated the Spanish /i/ to their native Dutch /i/, and the Spanish /e/ to their Dutch /I/. 
 

@@ -181,7 +181,7 @@ Following this idea, @westergaard_crosslinguistic_2017 suggest that an optimal d
 This suggestion entails the use of both mirror-image groups, as seen in the TPM studies (e.g. L1 Spanish-L2 English-L3 BP and L1 English-L2 Spanish-L3 BP), and subtractive groups (e.g. L1 Spanish-L2 English-L3 BP, L1 Spanish-L2 BP and L1 English-L2 BP) used in the LPM studies.
 As a result, a fully combined design would result in the use of 6 total groups, in which a mirror image design contains L1 speakers of both background languages who learn the L3 as an L2. 
 
-# The Scalpel Model 
+## The Scalpel Model 
 
 The Scalpel Model [@slabakova_scalpel_2017] is an additional model of L3A which overlaps in many of its predictions with the LPM.
 Like the LPM, the Scalpel Model rejects the idea of wholesale transfer of either L1 or L2 proposed by the TPM. 
