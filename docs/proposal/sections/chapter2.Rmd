@@ -10,15 +10,24 @@ RQ1: Will Spanish-English bilinguals produce L3 words with Spanish or English li
 
 RQ2: Will Spanish-English bilinguals produce vowels with F1 and F2 values more like English or Spanish? 
 
+RQ3: Will the same CLI trends be observed in L3 German as L3 French? 
+
+RQ4: Will primary influence of the L1 or L2 remain consistent in vowels and stops?
+
 # Methods
 
 ## Participants
 
-8 total groups of participants will take part in the experiment. There will be 4 bilingual groups with opposite orders of acquisition, Spanish L1-English L2, and English L1-Spanish L2, with each of these groups hearing either L3 German or L3 French, and 4 monolingual English and monolingual Spanish groups, assigned to either French or German. The bilingual groups will contain 75 participants per group, where the monolingual groups will contain 50 participants per group, for a total of 500 participants. 
+8 total groups of participants will take part in the experiment, in what *Westergaard* refers to as a fully combined design.
+There will be 4 bilingual groups with opposite orders of acquisition, Spanish L1-English L2, and English L1-Spanish L2, with each of these groups hearing either L3 German or L3 French, and 4 monolingual English and monolingual Spanish groups, assigned to either French or German. 
+The bilingual groups will contain 75 participants per group, where the monolingual groups will contain 50 participants per group, for a total of 500 participants. 
+
 
 ## Tasks 
 
-Oragnization paragraph: An elicted production task & A shadowing task in the L3. 
+Each participant will produce stop-initial tokens in each language that they speak, and shadow tokens in their assigned language group (French or German). 
+In the case of the bilingual group, this involves both a Spanish and English word reading task, where the monolingual groups will only complete the word reading task in their L1. 
+Additionally, bilinguals participants will complete the LexTale proficiency test in their L2 **cite**, and the Bilingual Language Profile to gather biographical information. 
 
 ### Bilingual Language Profile 
 
@@ -26,19 +35,26 @@ To measure language use and language dominance, the Bilingual Language Profile (
 
 ### LexTALE 
 
-The LexTALE will be used to measure English and Spanish proficiency. The LexTALE is a lexical decision task, in which participants see either words or pseudowords on a screen one at a time. Participants are supposed to then decide whether the word presented is a real word in the language or a pseudoword. The task is intended to be a measure of vocabulary size and thus a proxy of proficiency. ADD SENTENCE JUSTIFYING THE LINK BETWEEN VOCAB AND PROF. Either the English and Spanish versions of the task will be used in the study, depending upon the L2 of participant.
+The LexTALE will be used to measure English and Spanish proficiency. The LexTALE is a lexical decision task, in which participants see either words or pseudowords on a screen one at a time. 
+Participants are supposed to then decide whether the word presented is a real word in the language or a pseudoword. 
+The task is intended to be a measure of vocabulary size, which has been argued to correlate to language proficiency. 
+Either the English and Spanish versions of the task will be used in the study, depending upon the L2 of participant.
 
-### Elicited Production Tasks 
+### Word Reading Tasks 
 
-In the elicited production task, the participants read words which appeared on the screen one at a time and submitted their recording of the read words by clicking on a record button to begin the recording, a stop button to end the recording, and an upload button upon completion of the recording. Participants were able to listen to their recording after completing a trial and were able to re-record in the event of an error.
+In the word reading task, the participants read words which appeared on the screen one at a time and submitted their recording of the read words by clicking on a record button to begin the recording, a stop button to end the recording, and an upload button upon completion of the recording. 
+Participants were able to listen to their recording after completing a trial and were able to re-record in the event of an error.
 
 ### Shadowing Task  
 
-For the shadowing task, participants were given a French word on screen and were able to play a recording of that word up to three times. The participant would then record themselves repeating the word that was uttered one at a time in a procedure identical to the elicited production task. 
-The experiment was programmed and given in the online platform Labvanced. In order to control for language mode, the language specific word lists were presented in separate sessions, and the order of the languages (Spanish first or English first) was counter-balanced across participants. All participants ended the experiment with the L3 shadowing task.
+For the shadowing task, participants were given a French word on screen and were able to play a recording of that word up to three times. 
+The participant would then record themselves repeating the word that was uttered one at a time in a procedure identical to the elicited production task. 
+The experiment was programmed and given in the online platform Labvanced. 
+In order to control for language mode, the language specific word lists were presented in separate sessions, and the order of the languages (Spanish first or English first) was counter-balanced across participants. 
+All participants ended the experiment with the L3 shadowing task.
 
 ## Analysis plan 
 
-The results will be analyzed using a Bayesian Multilevel Regression where the outcome will by VOT and the fixed effect, categorical predictor will be language, and the fixed effect continous predictor variables LexTALE scores, and a dominance metric. 
+The results will be analyzed using a Bayesian Multilevel Regression where Voice Onset Time is modeled as a function of language, LexTALE score, and a continuous dominance measure obtained from the BLP. 
 
 # Simulated Results

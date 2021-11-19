@@ -12,7 +12,7 @@ The present dissertation explores the production patterns and perceptual categor
 Empirical studies in L3 phonological acquisition have found evidence of multi-directional influence in language production [@llama_influence_2010; @llama_revisiting_2018], with the impact of previously learned languages on a third varying. 
 In some cases, L2 influence on L3 production has been found, where in others, L1 influence or simultaneous influence of both languages on L3 production has been reported. 
 It is unclear what factors could be at the root of these varied findings. On one hand, it might be sampling error. 
-At large, empirical studies in L3 acquisition have used low samples to build models. 
+At large, empirical studies in L3 acquisition have used low samples to build models.
 One issue with this approach is related to sampling error. 
 On the other, factors such as L2 and L3 proficiency, language dominance and choices of methods and analysis may play a role in the conclusions drawn by these studies.  
 
@@ -21,4 +21,45 @@ It is likely that the relatively homogeneous populations of bilinguals are in gr
 With the increase in sample size, more precise observations and conclusions may be drawn about the very starting point of L3 phonological acquisition which are far less likely to be explained by statistical limitations such as sampling error. 
 To deal with the potential impact of proficiency and dominance on L3 production and perception, L2 proficiency was measured using the LexTALE in English [@izura_lexical_2016; @lemhofer_lexical_2016] and Spanish (citation). 
 The Bilingual Language Profile (BLP) was used to measure language dominance and background (Birdsong et al., 2012).
+Finally, participant groups will be exposed to either German or French, to examine how phonetic similarity across languages may play a role in the first exposure to an L3.
+
+# Cross-lingusitic language features 
+
+In order to gain insights into the relative influence of a first and second language the present dissertation makes use of both (relative) voice-onset time (VOT) in stop production and perception and spectral qualities of vowels in vowel perception in production. 
+In the following sections, the vocalic systems of Spanish, English, French, and German, as well as their respective uses of voice-onset time, are overviewed. 
+
+
+## Voice-Onset Time
+
+Voice-onset time (VOT) is a phonetic measure in milliseconds of the release of the closure and its relationship with the onset of the vibration of the vocal folds [@lisker_cross-language_1964]. 
+In particular, when the vocal folds begin to vibrate prior to the release, this is described as pre-voicing and is characterized by a negative VOT value. 
+On the other hand, when the release occurs prior to the onset of voicing, a positive VOT is measured.
+Stops with a positive VOT are considered phonetically voiceless. 
+VOT has been found to be a primary acoustic cue in the distinction of stop consonants in many of the world's languages. 
+However, language specific use of VOT to make distinctions between sounds is language specific. 
+For example, Spanish and French belong to a classification of languages referred to as true-voicing languages [@lisker_cross-language_1964] .
+This label suggests that the difference between a stop consonant that is phonemically voiced, such as /b/ is also phonetically voiced (negative VOT) and its counterpart that is phonemically voiceless, such as /p/ is also phonetically voiceless. 
+True voicing languages stand in contrast to aspirating languages, such as German and English, in which the phonemic categories /p/ and /b/ exist within these languages, but are distinct in the way that they make use of VOT.
+That is, in aspirating languages, /p/ typically has a long-lag VOT (a longer duration in milliseconds) than the true-voicing languages' /p/.
+In the latter case, /p/ also has positive VOT, but typically with a much shorter duration.
+The phoneme /b/, on the other hand, is often realized with a short-lag positive VOT in aspirating languages, in which it likely has acoustic/phonetic overlap with the true-voicing language /p/.
+Overall, these cross-linguistic differences in VOT provide a useful continuous measure that can provide insights into cross-linguistic influence. 
+
+## Vocalic systems
+
+Another useful object to examine cross-linguistic influence is the vowel inventory of each language. 
+Studies examining the articulatory space of vowels typically involve spectral measurements such as formant frequencies. 
+In these studies, the frequency in Hertz of the at least first and second formants are measured and plotted for each vowel. 
+The first formant (F1) is an acoustic correlate for vowel height, with higher values corresponding to lower vowels.
+The second formant (F2) represents vowel frontness, with higher values corresponding to a more fronted vowel. 
+
+The chosen languages also vary in the size of their vowel inventory.
+The Spanish vowel space is the smallest of the present study and consists of 5 distinct vowel monopthongs categorizations (**Bradlow**). 
+English, French and German have a larger relative vowel spaces, where has English 11 monopthongs, and German has 14 *Jongman et al. (1989); bradlow 1995*.
+French has as many as 16 phonemic vowel sounds (*cite*).
+
+Cross-linguistic differences in vowel spaces are important in part due to evidence that language specific L1 categories seem to matter during L2 learning. 
+That is, previous research has identified patterns in learning novel bowel contrasts in a new language, where some are easier than others.
+This ease is driven by cross-linguistic similarity, or lackthereof. 
+A main question of the present dissertation is whether this cross-linguistic similarity affects the learning of L3 sounds, and whether the L1 and L2 vowel proportionally affect this process, or if the L1 or L2 has privileged status.
 
