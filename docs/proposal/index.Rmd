@@ -13,23 +13,21 @@ output:
 bibliography: includes/bib/bib.bib
 csl: includes/bib/apa.csl
 ---
-```{r}
+
+
+```{r, include = FALSE}
 library(ggplot2)
 library(tidyverse)
 ```
 <!-- Indent from second paragraph on --> 
 \setlength{\parindent}{0.2in} 
 
+
+
 <!-- Include chapters -->
 ```{r, child='./sections/01a_intro.Rmd'}
 ```
 ```{r, child='./sections/01b_l3_models.Rmd'}
-```
-```{r, child='./sections/01c_l2_speech_models.Rmd'}
-```
-```{r, child='./sections/01d_l3_phon.Rmd'}
-```
-```{r, child='./sections/01e_methods.Rmd'}
 ```
 ```{r, child='./sections/chapter2.rmd'}
 ```

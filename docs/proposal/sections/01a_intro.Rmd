@@ -22,7 +22,6 @@ Often, the lack of a so-called "significant" p-value in frequentist analysis is 
 This conclusion is not well justified, since it is unclear if null results are due to low samples with wide confidence intervals and how much noise is expected in the data.
 Without this information, it is difficult to establish objective and precise critria for evidence for practical equivalence. 
 
-
 Additionally, factors such as L2 and L3 proficiency, language dominance and choices of methods and analysis may play a role in the conclusions drawn by these studies.
 These L3 proficiency has varied in the body of literature, with some studies examining beginners, while others study intermediate and advanced learners. 
 Language dominance and use has not always been considered in L3 studies.
@@ -94,13 +93,6 @@ Variable findings in L3 phon studies
 I address low samples and influence of other effects by:
  - Recruiting bilinguals at first exposure to an L3
  - This way, the role of a) cross linguistic phonetic similarity/phonemic inventory and b) language status effects can be better studied.
->
-
- 
- 
- 
- 
-
 
 
 ------>

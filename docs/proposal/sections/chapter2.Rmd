@@ -1,8 +1,8 @@
 \chapter{The Present Study}
 
-The present study investigates the production and perception of words in a language by bilinguals that they do not yet know. 
+The present study investigates the production and perception of words in a language by bilinguals that they do not yet know, specifically, French or German.
 In so doing, the present dissertation aims to investigate the very initial stage of acquisition by providing an overview of the initial relative influence of both L1 and L2. 
-In this study, sequential, late, Spanish-English bilinguals of both order of acquisition will be given an aspirating L3 (German) or a true-voicing L3 (French) to shadow.
+In this study, late Spanish-English bilinguals of both order of acquisition will be given an aspirating L3 (German) or a true-voicing L3 (French) to shadow.
 In perception, the participants will match L3 vowel sounds to L1 and L2 categories, and complete an AX discrimination task.
 Following these tasks, the link between perception and production will be discussed.
 
@@ -11,16 +11,18 @@ Following these tasks, the link between perception and production will be discus
 The present dissertation is guided by the following research questions. 
 Broadly, this project focuses on progressive influence of L1 and L2 system of L3 perception and production, as well as the cross-linguistic similarity of the languages involved. 
 By taking these factors into account, more precise evidence can be provided to evaluate the predictions of L3 models. 
+The following section introduces a total of 7 research questions that will be covered over three total chapters. 
+In each subsection, a research question will be introduced, followed by hypothesis and predictions, as well as additional possible outcomes and their interpretations.  
 
 ## Chapter 2: Production
 
 RQ1: Will Spanish-English bilinguals produce L3 words with Spanish or English like VOT?
 
-Based on the results of [@parrish_relative_2021], it is predicted that L3 VOT will fall between L1 and L2 values, in both L3 German and L3 French.
-This result would support the Linguistic Proximity Model, which suggests that all languages are always active. 
+Based on the results of [@parrish_relative_2021], in which L3 VOT was found to fall between L1 and L2, it is predicted that these participants' L3 VOT will also fall between L1 and L2 values in both L3 German and L3 French.
+This result would support the Linguistic Proximity Model, which suggests that L3 learning is a case of co-activation of the L1 and the L2. 
 However, there are several other possible scenarios that would support other L3 models. 
 If L3 VOT values are practically equivalent to L1 or L2 values, the Typological Primacy Model would be supported, since single language influence would be a plausible explanation of this result. 
-If L3 VOT is also target like, and comes from L1 or L2, then the Cumulative Enhancement Model and Scalpel Model could also explain the results. 
+If L3 VOT is also target like, and it practically equivalent to L1 or L2 VOT, then the Cumulative Enhancement Model and Scalpel Model could also explain the results. 
 On the other hand, if L3 VOT is practically equivalent to L2 VOT, this result is not (always) facilitative, and mirror image groups with distinct L2s both show L2-like L3 VOT, the L2 Status Factor would be the only model capable of explaining the data. 
 
 Additionally, there are no specific predictions about whether each L3 segment will be influenced to a similar degree, or whether some segments will be more influenced by the L1 or L2 than others. 
@@ -34,13 +36,13 @@ The predictions in vowel production are analogous to those in stop production.
 It is predicted that L3 vowel production will be intermediate between L1 and L2 values. 
 The evidence in support of L3 models and their predictions is also identical in the case of vowels. 
 
-RQ3: Will the same CLI trends be observed in L3 German as L3 French? 
+RQ3: Will the same CLI trends be observed in L3 German as L3 French in production? 
 
 It is predicted that the phonetic differences in the input will affect the performance of the shadowing task, at least at the group level. 
-In @parrish_relative_2021, L1 Spanish L2 English bilinguals shadowed French, which is phonetically similar to Spanish in its use of voiceless 
+In @parrish_relative_2021, L1 Spanish-L2 English bilinguals shadowed French, which is phonetically similar to Spanish in its use of VOT to distinguish stop consonants.
 As a result, the French stimuli were unaspirated short lag stops.
-The group results, however, revealed that many participants aspirated word initial stops, presumably due to the influence of English. 
-This result suggested that L2 influence is frequent and pronounced.
+The group results, however, revealed that many participants aspirated word initial stops, presumably due to the influence of L2 English. 
+This result suggested that L2 influence is frequent and pronounced in some participants .
 However, other participants produced target-like L3 French tokens. 
 In this latter case, it was unclear whether L3 productions were target-like due to effective mimicry or language influence. 
 By including a German L3 group, both explanations can be tested.
@@ -73,10 +75,10 @@ That is, if the participants categorize L3 sounds to L2 sounds when an L1 sound 
 
 ## Chapter 4: Production and Perception
 
-RQ7: Will the relative influence of a particular language perception match production?
+RQ8: Will the relative influence of a particular language perception match production?
 
 It is unclear whether L3 models would predict that L3 perception and production develop in tandem, or whether perception should develop prior to production.
-Similarly to generalization, the link between perception and production can give information about how third language phonological acquistion may begin in terms of previous language influence. 
+Similarly to generalization, the link between perception and production can give information about how third language phonological acquisition may begin in terms of previous language influence. 
 That is, the present dissertation will gather data that will shed light on not only whether single language influence affects all segments, but also whether this influence is distinct in perception and production. 
 Currently, the predictions of L3 models are not well equipped to handle potential differences in perception and production.
 As a result, the outcome of the relationship between L3 perception and production will can only be evaluated by these models post-hoc. 
@@ -128,8 +130,6 @@ The stop consonants will be paired with high, low and mid vowels in order to exa
 The fricative initial words will be included to provide a closed syllable for shadowing the L3 vowel sounds. 
 The shadowing task will be programmed in Labvanced [@finger_labvanced_2016]. 
 
-*stimuli*
-
 ### Chapter 2: Word Reading Tasks 
 
 Together with the shadowing task, the word reading tasks will be used to elicit L1 and L2 productions in order to make within-speaker comparisons between L1, L2 and L3.
@@ -145,6 +145,7 @@ The word reading tasks will be programmed in Labvanced [@finger_labvanced_2016].
 ### Chapter 3: Phoneme Categorization Task
 
 In order to determine how bilinguals categorize L3 sounds, a phoneme categorization task will be used. 
+Notably, the auditory stimuli in L3 French and L3 German will be the same.
 In the task, the participants will hear sounds one at a time and choose which L1 or L2 sound best matches the sound they heard.
 The participants will see these L1 and L2 sounds orthographically in a carrier word, while the L3 sounds will only be presented auditorily. 
 The auditory stimuli were presented in closed sVs syllables in 4 total conditions and for 5 repetitions each.
@@ -156,7 +157,7 @@ Condition 3 varies per groups. In the French group it is a close front rounded v
 Finally, condition 4 is a close front unrounded vowel /i/, as in the English word *free* and the Spanish word *sin*. 
 Following their categorization, participants will rate their choice for goodness of fit. 
 They will see a continuous slider scale on the screen and click a point in the scale to submit their rating. 
-Ratings will range from 1-7, but allow for non-discrete ratings (points between integers). 
+Ratings will range from 1-7, but allow for non-discrete ratings (points between integers).
 The experiment will be programmed in Psychopy [@peirce_psychopy2_2019] and a pilot version of the experiment can be accessed here: https://pavlovia.org/run/kparrish92/phoneme_categorization. 
 
 ### Chapter 3: AX Discimination Task
