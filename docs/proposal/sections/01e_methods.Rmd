@@ -12,10 +12,10 @@ Of the empirical studies reported in the present dissertation, none used a power
 Unfortunately, the tradition in L3 research has involved model building with small samples. 
 The use of small samples are associated with higher sampling error, and, as a result, a higher risk of type 1 error.
 In other words, a single study with a small sample cannot rule out the possibility that their results are due to sampling error, or a non-representative pool of participants from an assumed population distribution. 
-As **brysbeart** argues, low samples lead to low statistical power, and in turn provide a metaphorical blurred picture of our desired outcome.
+As @brysbaert_power_2020 argues, low samples lead to low statistical power, and in turn provide a metaphorical blurred picture of our desired outcome.
 
 In addition to issues associated with low sample size, L3 research to date has used statistical methods which provide dubious evidence for their claims. 
-Among these issues is the use of an Analysis of Variance (ANOVA) as a basis for determining whether groups or individuals perform experiment tasks in a practically equivalent manner rather than a statistical Test of Equivalence (**Lakens**). 
+Among these issues is the use of an Analysis of Variance (ANOVA) as a basis for determining whether groups or individuals perform experiment tasks in a practically equivalent manner rather than a statistical Test of Equivalence [@lakens_equivalence_2017]. 
 At the heart of this issue is a criticism which may apply to frequentist methods of statistical analysis in general; testing against the null hypothesis. 
 If the null hypothesis is rejected, evidence is provided that the difference between or within groups is non-zero. 
 On the other hand, if a non-zero difference is not found, there is not evidence for practical equivalence. Such as assumption has been made in the L3 literature, and in particular in L3 model building. 
@@ -25,46 +25,35 @@ There are two possible issues with this conclusion.
 Firstly, the lack of a power analysis does not rule out sampling error.
 It cannot be argued that the sample used in this study was high enough to reliably detect an effect (or lacktherof). 
 Secondly, a wide confidence interval from the low sample size would make providing evidence for statistical equivalence in a test of equivalence likely impossible.
-A power analysis of the descriptive data in Rothman (2011) reveals that the statistical power in a test of equivalence with the report sample sizes (12 and 15) is zero. 
-This suggests that, given the means and standard deviations reported in this study and equivalence bounds of -.4 and .4 standard deviations from the mean, 100 simulations (random sampling from distributions with those means and standard deviations) of the repeated experiment yield a statistically equivalent result **0** percent of the time. 
-On the other hand, non-zero differences are found **X** percent of the time. 
-These post-hoc analyses of the data from Rothman (2011) suggest that sufficient evidence was not provided for practical equivalence between groups. 
-**brysbeart** argues that, for between group comparisons, samples of at least 80 per group are often necessary, but a power analysis should be carried out to justify sample size. 
+Unfortunately, the reporting of results in many L3 studies to date do not allow for post-hoc power analyses to be run, since means and standard deviations are not reported. 
+It remains unclear whether sample sizes in L3 research are sufficiently powered to be able to generalize, and, by extension, to build models. 
 
-It seems that large sample sizes are quite difficult to find in L3 research. 
-*Plonsky (2015)* suggests that combating issues associated with low sample size is possible in ways other than simply increasing sample size. 
+Despite the lack of empirical data available to evaluate the statistical power of L3 studies to date, it is probable that the sample sizes used are not statistically powered.
+@brysbaert_power_2020 argues that, for between group comparisons, samples of at least 80 per group are often necessary, but a power analysis should be carried out to justify sample size. 
+To the author's knowledge, no L3 study has been able to recruit this many participants per group. 
+For instance, Rothman (2011) recruited just 11 and 15 in two groups.
+@plonsky_advancing_2015 suggests that combating issues associated with low sample size is possible in ways other than simply increasing sample size. 
 For instance, he suggests that the use of descriptive statistics, including effect sizes and confidence intervals, would be an improvement in L2 research in general. 
-This advice is in line with the idea that frequentist analysis, and linguistic research, has relied on p-values to determine the presence of a so-called statistical difference. 
-Plonsky, along with others, have argued that the use of p-value alone to make real-world inferences in problematic due to issues associated with sampling error and the presence of the magnitude of an effect. 
+This advice is in line with the idea that frequentist analysis, and linguistic research, has relied on p-values to determine the presence of a so-called significant statistical difference. 
+@plonsky_advancing_2015, along with others, have argued that the use of p-value alone to make real-world inferences in problematic due to issues associated with sampling error and the presence of the magnitude of an effect. 
 
 In order to address these potential issues, the present dissertation recruited bilinguals, rather than trilinguals, at first exposure to a third language in order to pull from a likely higher and more homogeneous population of participants. 
 This higher sample, coupled with the use of frequentist tests of equivalence and Bayesian inference allow for both a categorical and gradient interpretation of the data. 
 In doing so, less reliance is put on a narrative interpretation of the results, and the results lend themselves to a more objective outcome. 
 
-Examples of non-main effects as equivalence: 
-
-with ancova 
-"The non-significant value for the 2-way language group*level interaction (p = .410) suggests that the proficiency effect was statistically equivalent for the two language groups, 
-
-Moreover, the 3-way language group*level*type of relative interaction (p = .088) gave a non-significant value, which suggests that the effect of proficiency is not significantly different across levels of the two studies and sentence type.
-" Berkes and Flynn (2010, p. 153)
-
-L3 Study: HungarianL1/GermanL2/EnglishL3: Berkes and Flynn (2010, p. 156)
-As evidence for similar performace on all 3 types of relative clause production: lack of sig. p-value, no main effect or sig. pariwise comparison
-
 
 # Bringing L2 speech models and L3 models together and evaluating predictions 
 
 By using the methods used to test the prediction of models of L2 phonological acquisition (The SLM, the PAM, and the L2LP), more nuanced evidence may be obtained to evaluate the predictive power of L3 models. 
-With the revision of the SLM, at least three L2 speech models advocate for the study of naive or beginning learners in L2 speech learning research. The present dissertation adopts this point of view and applies it in a third-language context in perception and production. By measuring the perception and production patterns of the first (or, at least, very early)
-exposure to a third language, coupled with measurements in each language, an the variation of cross-linguistic influence can be observed/studied in L3 perception and production. If, as the SLM-r predicts, category formation is driven by input and retuning of L1 categories in L2 acquisition, and the same mechanisms that are used in L1 phonetic category formation in L2 phonetic category formation, then it is likely that the SLM would predict that those same mechanisms are at play in L3 phonetic category formation, and that this process is guided by L3 input. 
+With the revision of the SLM, at least three L2 speech models advocate for the study of naive or beginning learners in L2 speech learning research. 
+The present dissertation adopts this point of view and applies it in a third-language context in perception and production. By measuring the perception and production patterns of the first (or, at least, very early) exposure to a third language, coupled with measurements in each language, and the variation of cross-linguistic influence can be observed/studied in L3 perception and production.
+If, as the SLM-r predicts, category formation is driven by input and retuning of L1 categories in L2 acquisition, and the same mechanisms that are used in L1 phonetic category formation in L2 phonetic category formation, then it is likely that the SLM would predict that those same mechanisms are at play in L3 phonetic category formation, and that this process is guided by L3 input. 
 
-# Perception 
-Following this logic, the question becomes whether L1 or L2 categories are retuned to L3 categories, and what conditions determine which language category is initially chosen and its rate of retuning. The present dissertation focuses on which category is chosen as the initial L3 category, while the rate of change in these categories is left for future research. 
+Following this logic, the question becomes whether L1 or L2 categories are retuned to L3 categories, and what conditions determine which language category is initially chosen and its rate of retuning. 
+The present dissertation focuses on which category is chosen as the initial L3 category, while the rate of change in these categories is left for future research. 
 One possibility which may influence whether an L1 or L2 category influences an L3 is the acoustic similarity of the L3 segment relative to an individuals' L1 and L2 phonetic categories.
 The TPM predicts that phonetic cues do play a role in L3 input parsing, in that they are parsed and used in order to make a decision of which language system to holistically transfer. 
-However, the TPM would (likely) not predict that two segments would be assimilated to two distinct languages, and it would not predict that the same segment would be categorized as different sounds. 
+However, the TPM would (likely) not predict that two segments would be assimilated to two distinct language categories.
 Additionally, if one language holistically impacts the acquisition of a third at first exposure, then the behavior of L3 learners should resemble L2 learners, provided the L1 is the source of influence in L3 acquisition, or should be practically equivalent in a within-subject comparison. 
 In the case of the predicted behavior of L2 influence on L3 productions, L2 production and perception should be practically equivalent in a within-subject comparison. 
-
-The predictions of the Linguistic Proximity Model lack predictive power, but would be able to account for the same L3 sound being categorized differently by the same subject, and by different subjects, and for two different L3 sounds being categorized as an L1 and L2 category respectively.  
+The predictions of the Linguistic Proximity Model would be able to account for the same L3 sound being categorized differently by the same subject, and by different subjects, and for two different L3 sounds being categorized as an L1 and L2 category respectively.  

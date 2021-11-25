@@ -2,7 +2,11 @@
 
 # Models of third language acquisition
 
-Research in third language acquisition has attempted to model the interplay between L1 and L2 language systems and their cumulative influence in the process of the acquisition of a third. Among questions asked by third language models is whether the L1 or L2, or a combination of both languages, serves as the basis in L3 acquisition. This question is complicated in the context of multilingualism due to the widespread diversity in bilingual populations that include wide variation in ultimate attainment in adult L2 learners, and, in the case of phonological acquisition, wide variation in the production patterns of L2 segments. To date, the models of L3 acquisition of largely focused on morphosyntax. The predictions and theoretical underpinnings of models of L3 acquisition are covered in the following section, as well as the empirical evidence for each model. 
+Research in third language acquisition has attempted to model the interplay between L1 and L2 language systems and their cumulative influence in the process of the acquisition of a third. 
+Among questions asked by third language models is whether the L1 or L2, or a combination of both languages, serves as the basis in L3 acquisition. 
+This question is complicated in the context of multilingualism due to the widespread diversity in bilingual populations that include wide variation in ultimate attainment in adult L2 learners, and, in the case of phonological acquisition, wide variation in the production patterns of L2 segments. 
+To date, the models of L3 acquisition of largely focused on morphosyntax. 
+The predictions and theoretical underpinnings of models of L3 acquisition are covered in the following section, as well as the empirical evidence for each model. 
 
 ## The Cumulative Enhancement Model 
 
@@ -171,8 +175,8 @@ The results indicated that the L3 group experienced facilitative influence in so
 Additionally, the sources of this influence could be likened to either Russian or Norwegian. 
 The results of studies, taken together, suggest that both languages are active in L3 learning, and it also appears that they remain active throughout L3 development. 
 
-Like other L3 models, the LPM has received critisism. Scholars have argued that the LPM makes vague predictions creates a problem in modeling L3 transfer acquisition [@bardel_l1_2020; @wrembel_multilingual_2020], since it is unclear when transfer of a particular structure occurs and when it does not. 
-Likewise researchers have argued that, unlike the TPM and the L2SF, the LPM is not easily falsifiable [@bardel_l1_2020]. 
+Like other L3 models, the LPM has received criticism. Scholars have argued that the LPM makes vague predictions creates a problem in modeling L3 transfer acquisition [@bardel_l1_2021; wrembel_multilingual_2021], since it is unclear when transfer of a particular structure occurs and when it does not. 
+Likewise researchers have argued that, unlike the TPM and the L2SF, the LPM is not easily falsifiable [@bardel_l1_2021]. 
 However, @westergaard_microvariation_2021 argue that the LPM does make specific predictions, since it is predicted that accuracy should fall between L1 and L2 values on experimental tasks. 
 The authors state that, when using subtractive groups, if the L3 group performance falls above or below the one of the two L2 groups, then then model would be falsified. 
 
