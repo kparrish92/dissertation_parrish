@@ -22,8 +22,6 @@ library(tidyverse)
 <!-- Indent from second paragraph on --> 
 \setlength{\parindent}{0.2in} 
 
-
-
 <!-- Include chapters -->
 ```{r, child='./sections/01a_intro.Rmd'}
 ```

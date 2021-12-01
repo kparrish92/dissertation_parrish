@@ -2,17 +2,17 @@
 
 The present study investigates the production and perception of words in a language by bilinguals that they do not yet know, specifically, French or German.
 In so doing, the present dissertation aims to investigate the very initial stage of acquisition by providing an overview of the initial relative influence of both L1 and L2. 
-In this study, late Spanish-English bilinguals of both order of acquisition will be given an aspirating L3 (German) or a true-voicing L3 (French) to shadow.
+In this study, late Spanish-English bilinguals of both order of acquisition will be given an aspirating L3 (German) and a true-voicing L3 (French) to shadow.
 In perception, the participants will match L3 vowel sounds to L1 and L2 categories, and complete an AX discrimination task.
 Following these tasks, the link between perception and production will be discussed.
 
 # Research Questions 
 
 The present dissertation is guided by the following research questions. 
-Broadly, this project focuses on progressive influence of L1 and L2 system of L3 perception and production, as well as the cross-linguistic similarity of the languages involved. 
+Broadly, this project focuses on the influence of L1 and L2 system on L3 perception and production, and how cross-linguistic similarity might predict this influence. 
 By taking these factors into account, more precise evidence can be provided to evaluate the predictions of L3 models. 
 The following section introduces a total of 7 research questions that will be covered over three total chapters. 
-In each subsection, a research question will be introduced, followed by hypothesis and predictions, as well as additional possible outcomes and their interpretations.  
+In each subsection, a research question will be introduced, followed by hypotheses and predictions, as well as additional possible outcomes and their interpretations.  
 
 ## Chapter 2: Production
 
@@ -30,7 +30,7 @@ The results of [@parrish_relative_2021] suggest that each segment was similarly 
 In terms of L3 models, again the LPM would be the only model that could account for variation in the activation of both languages across segments in which both L1 and L2 influence can be seen. 
 If some segments were L1 like and others were L2 like, then the CEM, Scalpel Model, and LPM could account for this, where TPM the L2SF could not.
 
-RQ2: Will Spanish-English bilinguals produce vowels with F1 and F2 values more like English or Spanish? 
+RQ2: Will Spanish-English bilinguals produce vowels more like English or Spanish? 
 
 The predictions in vowel production are analogous to those in stop production. 
 It is predicted that L3 vowel production will be intermediate between L1 and L2 values. 
@@ -38,11 +38,11 @@ The evidence in support of L3 models and their predictions is also identical in 
 
 RQ3: Will the same CLI trends be observed in L3 German as L3 French in production? 
 
-It is predicted that the phonetic differences in the input will affect the performance of the shadowing task, at least at the group level. 
+It is predicted that the phonetic differences in the input will affect the performance in the shadowing task, at least at the group level. 
 In @parrish_relative_2021, L1 Spanish-L2 English bilinguals shadowed French, which is phonetically similar to Spanish in its use of VOT to distinguish stop consonants.
 As a result, the French stimuli were unaspirated short lag stops.
 The group results, however, revealed that many participants aspirated word initial stops, presumably due to the influence of L2 English. 
-This result suggested that L2 influence is frequent and pronounced in some participants .
+This result suggested that L2 influence is frequent and pronounced in some participants.
 However, other participants produced target-like L3 French tokens. 
 In this latter case, it was unclear whether L3 productions were target-like due to effective mimicry or language influence. 
 By including a German L3 group, both explanations can be tested.
@@ -87,19 +87,19 @@ As a result, the outcome of the relationship between L3 perception and productio
 
 ## Participants 
 
-8 total groups of participants will take part in each experiment, in what @westergaard_crosslinguistic_2017 refers to as a fully combined design.
-There will be 4 bilingual groups with opposite orders of acquisition, Spanish L1-English L2, and English L1-Spanish L2, with each of these groups hearing either L3 German or L3 French, and 4 monolingual English and monolingual Spanish groups, assigned to either French or German. 
+4 total groups of participants will take part in each experiment, in what @westergaard_crosslinguistic_2017 refers to as a fully combined design.
+There will be 2 bilingual groups with opposite orders of acquisition, Spanish L1-English L2, and English L1-Spanish L2, with each of these groups hearing either L3 German and L3 French, and 2 monolingual English and monolingual Spanish groups, who also both shadow French or German. 
 German and French were chosen as the third languages primarily due to the phonetic differences in voice-onset time, where French is a true-voicing language (like Spanish) and German is an aspirating language (like English).
 Additionally, German and English and French and Spanish are typologically related in a global sense. 
 As a result, the present design will allow for the examination of language status effects, global typology effects, and structure by structure similarity effects.
 By doing so, the relative influence of each of these factors can be determined in these populations, and the evaluation of L3 model predictions can be carried out.
-Based on a power analysis carried out in [@parrish_relative_2021], the bilingual groups will contain 75 participants per group, where the monolingual groups will contain 50 participants per group, for a total of 500 participants. 
+Based on a power analysis carried out in [@parrish_relative_2021], the bilingual groups will contain 75 participants per group, where the monolingual groups will contain 50 participants per group, for a total of 250 participants. 
 
 ## Materials
 
-Each participant will produce stop-initial tokens in each language that they speak, and shadow tokens in their assigned language group (French or German). 
-In the case of the bilingual group, this involves both a Spanish and English word reading task, where the monolingual groups will only complete the word reading task in their L1. 
-Additionally, bilinguals participants will complete the LexTale proficiency test in their L2 [@izura_lexical_2016; @lemhofer_introducing_2012], and the Bilingual Language Profile to gather biographical information. 
+Each participant will produce stop-initial tokens in each language that they speak, and shadow tokens in both L3s (French and German). 
+In the case of the bilingual groups, this involves both a Spanish and English word reading task, where the monolingual groups will only complete the word reading task in their L1. 
+Additionally, bilinguals participants will complete the LexTALE proficiency test in their L2 [@izura_lexical_2016; @lemhofer_introducing_2012], and the Bilingual Language Profile to gather biographical information. 
 
 ### Bilingual Language Profile 
 
@@ -117,7 +117,31 @@ Participants are supposed to then decide whether the word presented is a real wo
 The task is intended to be a measure of vocabulary size, which has been argued to correlate to language proficiency. 
 Either the English and Spanish versions of the task will be used in the study, depending upon the L2 of participant.
 
-### Chapter 2: Shadowing Task  
+### Stimuli 
+
+The following conditions will be tested in the body of the present dissertation in both perception and production. 
+The predictions in Table 1 are those that would support the idea that cross linguistic acoustic similarity drives CLI patterns in L3A.
+Additionally, these broad predictions serve for both perception and production, since there is little evidence that suggests that these L3A CLI patterns are distinct. 
+In Chapter 2, these L3 conditions will be produced in shadowing tasks, where the chosen words for each condition will be recorded by native speakers and embedded in an online experiment for participants to listen to and repeat. 
+In Chapter 3, the perception, involving both categorization and discrimination, of these conditions will be examined. 
+As a result, the predictions here will be evaluated separately for production (chapter 2) and perception (chapter 3), while evaluating the link between perception and production will be covered in Chapter 4.
+
+The conditions were designed to examine the relative impact of cross-linguistic acoustic similarity of stops and vowels on the production and perception of stops and vowels.
+Condition 1 aims to avoid acoustic bias and uses a vowel sound, /i/, which is present in both English and Spanish, together with a fricative word onset /f/. 
+In contrast, condition 2 uses a voiceless stop initial /p/, together with /i/, to investigate whether L3 French tokens and L3 German tokens are produced as similarly to their respective references. 
+Condition 3 introduces a conflict, in which the Spanish vowel /o/ is paired with an aspirated /p/ in L3 German.
+In theory, these bilinguals have access to language specific phonemes which include the Spanish-like /o/, aspirated /p/ and unaspirated /p/, but it is unclear whether access to Spanish and English phonemes is possible within the same L3 word. 
+By examining and comparing L3 productions in condition 3, insight can be gained as to whether two language specific acoustic cues can be produced as target-like in the event that they are distinct and when they are the same. 
+Condition 5 investigates an analogous circumstance, but uses an English-like vowel.  
+
+
+
+```{r, echo=FALSE, out.width="70%", fig.cap="Figure 1"}
+knitr::include_graphics(here::here("includes", "figures", "conditions.png"))
+```
+
+
+### Chapter 2: Shadowing Task
 
 The shadowing task is designed to elicit productions of L3 words at first exposure. 
 This task is the same as the shadowing task in @parrish_relative_2021, but the word list has been updated and an L3 German group will be recruited.
@@ -144,20 +168,18 @@ The word reading tasks will be programmed in Labvanced [@finger_labvanced_2016].
 
 ### Chapter 3: Phoneme Categorization Task
 
-In order to determine how bilinguals categorize L3 sounds, a phoneme categorization task will be used. 
-Notably, the auditory stimuli in L3 French and L3 German will be the same.
-In the task, the participants will hear sounds one at a time and choose which L1 or L2 sound best matches the sound they heard.
-The participants will see these L1 and L2 sounds orthographically in a carrier word, while the L3 sounds will only be presented auditorily. 
-The auditory stimuli were presented in closed sVs syllables in 4 total conditions and for 5 repetitions each.
-As a result, 20 categorizations will be gathered from each participant. 
-Each condition represents a vowel sound belonging to one language (conditions 1 and 2), neither language (condition 3) or both languages (condition 4). 
-In particular, condition 1 was a mid back rounded vowel /o/, and was intended to bias the selection of the Spanish same Spanish category (in the carrier word *son*).
-Condition 2 is a near-open central vowel, as in the English word *such*. 
-Condition 3 varies per groups. In the French group it is a close front rounded vowel as in the French word *su* or the German word *über*, and is not present in either English or Spanish. 
-Finally, condition 4 is a close front unrounded vowel /i/, as in the English word *free* and the Spanish word *sin*. 
-Following their categorization, participants will rate their choice for goodness of fit. 
-They will see a continuous slider scale on the screen and click a point in the scale to submit their rating. 
-Ratings will range from 1-7, but allow for non-discrete ratings (points between integers).
+In order to examine perception of vowels, a phoneme categorization task will be carried out in both German and French in separate sessions, carried out on different days.
+During this task, participants will hear tokens produced by L1 German or French speakers, in which a particular vowel sound is embedded in a particular consonant frame, which will vary by condition. 
+After each sound, the participants will see both English and French carrier words on the screen.
+They will be instructed to select the word that contains a vowel sound that most closely matches the stimulus that they heard per trial. 
+Then, participants will then rate their selection for goodness of fit on a slider scale by clicking. 
+The scale is continuous and ranges from 1-7, but allows for any point on the scale to be clicked, producing a rating that is not necessarily discrete.  
+In the VOT bias conditions, the vowel will be uttered in combination with either an aspirated (German) or unaspirated (French) syllable-initial stop. 
+In the conditions in which VOT bias is not present, a fricative-vowel-fricative frame will be used. 
+Participants will categorize 5 repetitions of each condition, resulting in 40 total categorizations per language. 
+
+In terms of discrimination, the present dissertation will focus on English vowel contrasts and VOT stop contrasts in two separate continua embedded in L3 words. 
+In particular, the discrimination task is designed to determine whether L3 learners have access to perceptual discrimination present in either their L1 or L2, or whether order of acquisition of languages may impact phonetic discrimination ability. .
 The experiment will be programmed in Psychopy [@peirce_psychopy2_2019] and a pilot version of the experiment can be accessed here: https://pavlovia.org/run/kparrish92/phoneme_categorization. 
 
 ### Chapter 3: AX Discimination Task
