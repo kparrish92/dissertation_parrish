@@ -1,4 +1,4 @@
-\chapter{Models of third language acquisition}
+\chapter{Literature Review}
 
 # Models of third language acquisition
 
@@ -12,12 +12,13 @@ The predictions and theoretical underpinnings of models of L3 acquisition are co
 
 The Cumulative Enhancement Model (CEM) [@flynn_cumulative-enhancement_2004] was one of the first formal models of L3 acquisition in adulthood. 
 The authors argued that L3 acquisition can provide unique insights about language learning that is not possible in L1 or L2 research alone.
-The key question in this article was whether the properties of the L1 maintain a privileged status in L3 acquisition, or if L3 acquisition is cumulative process, in which all grammatical properties of previously known languages impact subsequent language acquisition, and, importantly, are helpful.   
+The key question in this article was whether the properties of the L1 maintain a privileged status in L3 acquisition, or if L3 acquisition is cumulative process, in which all grammatical properties of previously known languages impact subsequent language acquisition, and, importantly, are helpful.  
 Within this article, the authors conducted a study to provide evidence for the newly proposed CEM.
 The study examined the production of restrictive relative clauses in adults and children who spoke L3 English (L1 Kazakh-L2 Russian).
 The results revealed similar performance on the experimental task by adults and children, and that the production of relative clauses was influenced by the participants' L2 Russian. 
 This influence was facilitative, since this syntactic structure is common in Russian and English, but not Kazakh.
 The authors note, however, that the results of this study could also be explained by a special status for the L2, rather than the L1. 
+
 @berkes_further_2012 conducted a further study to empirically test the predictions of the CEM. 
 German L1 and Hungarian L1-German L2 speakers were tested in English (their L2 and L3). 
 The authors found evidence that the L3 group performed better than the L2 group, when the syntactic structure in question was L1-like, oppositely from @flynn_cumulative-enhancement_2004, which found facilitation when L2 and L3 elements were similar. 
@@ -33,7 +34,7 @@ These proposed cognitive similarities stem from the Declarative-Procedural model
 Procedural and declarative memory are long term memory systems which serve distinct general cognitive functions.
 The declarative memory is largely used to store explicitly known knowledge, such as factual information. 
 The procedural memory, on the other hand, subserves implicit knowledge and procedures, such as riding a bike.
-During first language acquisition, learning is argued to be largely implicit and is seen as a procedure in this view.  
+During first language acquisition, learning is argued to be largely implicit and is seen as a procedure in this view.
 Alternatively, L2 learning is associated with declarative memory and explicit learning of a grammar, at least to a larger extent than L1 learning [@paradis_declarative_2009]
 As a result, the L2 Status Factor does not make predictions in L3 learning for simultaneous bilinguals, since it is argued that both of their languages are procedural. 
 In summary, the L2 Status Factor predicts that, due to the cognitive similarity between a late-learned L2 and L3, the L2 will influence the L3 by default. 
@@ -59,6 +60,7 @@ Using a battery of tests, the authors concluded that the L3 group experienced in
 In this case, the results could arguably be accounted for by the L2 Status Factor, while the CEM cannot explain non-facilitation. 
 However, the author's narrative conclusion of these results did not claim that there was sole access to the L2, or that the L1 was blocked. 
 Rather, they suggest that L3 learning is not simply another case of L2 learning, in which the L1 is the sole influence.
+
 This result was replicated in other studies. 
 For instance, @bohnacker_when_2006 found that L1 Swedish-L2 English-L3 German speakers showed evidence of English like word order in L3 German V2 contructions, rather than facilitative L1 Swedish,
 Additionally, @falk_object_2011 found that 44 L3 German learners with L1 English-L2 French or L1 French-L2 English behaved differently in tasks involving object pronoun placement.
@@ -159,10 +161,11 @@ On the other hand, if no difference could be found between L2 and L3 learners of
 
 Following the introduction of the model, several studies have tested the predictions of the LPM.
 In order to test whether bilinguals have access to two languages during L3 learning, @mitrofanova_wholesale_2018 conducted a study Norwegian-Russian bilinguals and Norwegian monolinguals in which they taught them some of an artificial language which was designed to contain Norwegian-like lexical items, but also Russian like case marking to distinguish subjects from objects.
-The results revealed that the bilingual group performed better than the monolingual group on a sentence/picture matching task, in which the monolinguals relied solely on word order when making decisions.  
+The results revealed that the bilingual group performed better than the monolingual group on a sentence/picture matching task, in which the monolinguals relied solely on word order when making decisions.
 These results suggested that the bilingual group was able to make use of both of their languages at first exposure. 
 In a series of studies, @stadt_influence_2016 examined L1 Dutch - L2 English - L3 French speakers in both English immersion and general Dutch-dominant educational settings. 
 In the first study, the results of a Grammaticality Judgement Task indicated that third year the immersion group showed signs of heavy L2 influence in the L3, where the regular group showed evidence of CLI from both the L1 and the L2. 
+
 In a follow up study, the authors recruited 4th year students from the same educational background to investigate whether L2 influence would differ between 3rd and 4th year students [@berns_role_2018]. 
 The results revealed that both 3rd and 4th year immersion groups behaved similarly and showed evidence of primarily English influence on their L3 judgments, though evidence for L1 influence was also found.  
 In a second follow up study, the authors gave similar materials to the an L3 German group [@trotzke_l2_2020].
@@ -176,7 +179,7 @@ Additionally, the sources of this influence could be likened to either Russian o
 The results of studies, taken together, suggest that both languages are active in L3 learning, and it also appears that they remain active throughout L3 development. 
 
 Like other L3 models, the LPM has received criticism. Scholars have argued that the LPM makes vague predictions creates a problem in modeling L3 transfer acquisition [@bardel_l1_2021; wrembel_multilingual_2021], since it is unclear when transfer of a particular structure occurs and when it does not. 
-Likewise researchers have argued that, unlike the TPM and the L2SF, the LPM is not easily falsifiable [@bardel_l1 _2021]. 
+Likewise researchers have argued that, unlike the TPM and the L2SF, the LPM is not easily falsifiable [@bardel_l1_2021]. 
 However, @westergaard_microvariation_2021 argue that the LPM does make specific predictions, since it is predicted that accuracy should fall between L1 and L2 values on experimental tasks. 
 The authors state that, when using subtractive groups, if the L3 group performance falls above or below the one of the two L2 groups, then then model would be falsified. 
 

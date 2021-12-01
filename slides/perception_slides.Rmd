@@ -62,7 +62,7 @@ Two major questions:
 
 --
 
-1. What determines how bilinguals approach a third language? 
+**Q1: What determines how bilinguals approach a third language?**
 
 --
 
@@ -78,11 +78,13 @@ Two major questions:
 
 --
 
-2. How is the sound system of a new language learned?
+**Q2: How is the sound system of a new language learned?**
 
 ---
 
-<img align="left" width="400" src="./libs/img/stick.png">
+# Question
+
+<img align="left" width="380" src="./libs/img/stick.png">
 
 --
 
@@ -95,6 +97,8 @@ How would they pronounce *patte*?
 Why?
 
 ---
+
+# Models
 
 Both L3 models and L2 phonology model make predictions in regard to this question.
 
@@ -142,17 +146,24 @@ How does crosslinguistic similarity of phonological systems interact with langua
 
 ---
 
+# Tasks 
+
 .big[
 - To test category assimilation, **phoneme categorization tasks** have been carried out. 
 ]
 
-- in the task, sounds are played for a naive speaker of a language where the speaker is given categories to choose from 
+--
 
-- The speaker chooses which category best corresponds to the sound heard 
+- Participants **hear** an L2 sound 
 
-- They then rate their choice for goodness of fit. 
+--
 
-**add screenshot of task with only english**
+- Participants **pick an L1 category** that best fits the sound
+
+--
+
+- Participants **rate their selection**
+
 
 ---
 
@@ -162,8 +173,6 @@ How does crosslinguistic similarity of phonological systems interact with langua
 
 - RQ: Do bilinguals have access to both L1 and L2 phonemes (categories) when they perceive L3 sounds? 
 ]
-
-**add whole task screenshot**
 
 ---
 

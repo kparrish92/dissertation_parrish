@@ -75,7 +75,7 @@ That is, if the participants categorize L3 sounds to L2 sounds when an L1 sound 
 
 ## Chapter 4: Production and Perception
 
-RQ8: Will the relative influence of a particular language perception match production?
+RQ7: Will the relative influence of a particular language perception match production?
 
 It is unclear whether L3 models would predict that L3 perception and production develop in tandem, or whether perception should develop prior to production.
 Similarly to generalization, the link between perception and production can give information about how third language phonological acquisition may begin in terms of previous language influence. 
@@ -132,26 +132,21 @@ In contrast, condition 2 uses a voiceless stop initial /p/, together with /i/, t
 Condition 3 introduces a conflict, in which the Spanish vowel /o/ is paired with an aspirated /p/ in L3 German.
 In theory, these bilinguals have access to language specific phonemes which include the Spanish-like /o/, aspirated /p/ and unaspirated /p/, but it is unclear whether access to Spanish and English phonemes is possible within the same L3 word. 
 By examining and comparing L3 productions in condition 3, insight can be gained as to whether two language specific acoustic cues can be produced as target-like in the event that they are distinct and when they are the same. 
-Condition 5 investigates an analogous circumstance, but uses an English-like vowel.  
-
-
+Condition 5 investigates an analogous circumstance, but uses an English-like vowel. 
+Conditions 7 and 8 use a vowel not found in either English or Spanish, with a VOT bias (condition 7), and with a fricative (condition 8). 
+If within-word acoustics influence the categorization of sounds within that word, then the vowel in these conditions should be produced distinctly in condition 7, but similarly in condition 8. 
 
 ```{r, echo=FALSE, out.width="70%", fig.cap="Figure 1"}
-knitr::include_graphics(here::here("includes", "figures", "conditions.png"))
+knitr::include_graphics(here::here("includes", "figures", "figure1.png"))
 ```
-
 
 ### Chapter 2: Shadowing Task
 
 The shadowing task is designed to elicit productions of L3 words at first exposure. 
-This task is the same as the shadowing task in @parrish_relative_2021, but the word list has been updated and an L3 German group will be recruited.
+This task is the same as the shadowing task in @parrish_relative_2021, but the word list has been updated and an L3 German block will be included
 During the task, the participants will see an orthographic representation of a word that they will shadow and they will play a recording of that word produced by a native speaker.
 Then, on the same screen, the participant will record themselves repeating the word they just listened to by clicking a button to record, and the same button to stop recording.
 The participants will be able to listen to their recording, and then will click a separate button to submit their recording. 
-
-The stimuli will be one or two syllable words which are stop or fricative initial words. 
-The stop consonants will be paired with high, low and mid vowels in order to examine the production of the vowels themselves, and to vary the context in which the stops are uttered. 
-The fricative initial words will be included to provide a closed syllable for shadowing the L3 vowel sounds. 
 The shadowing task will be programmed in Labvanced [@finger_labvanced_2016]. 
 
 ### Chapter 2: Word Reading Tasks 
@@ -160,60 +155,60 @@ Together with the shadowing task, the word reading tasks will be used to elicit 
 The word reading task be similar to the shadowing task, and is also replication of the method in @parrish_relative_2021.
 In these tasks, words will be presented on the screen in isolation and orthographically. 
 Participants will record themselves reading the word aloud and will be able to listen to their recording prior to submission. 
-
 The stimuli in the word reading tasks will be similar cross-linguistic matches to the words used in the shadowing task. 
 Specifically, voiceless stop-initial words will be used in all three places of articulation in one and two syllable words.
 All three places of articulation, as well as fricative initial stimuli, will be paired with high low and mid vowels.
 The word reading tasks will be programmed in Labvanced [@finger_labvanced_2016]. 
 
-### Chapter 3: Phoneme Categorization Task
+### Chapter 3: Perception
 
-In order to examine perception of vowels, a phoneme categorization task will be carried out in both German and French in separate sessions, carried out on different days.
-During this task, participants will hear tokens produced by L1 German or French speakers, in which a particular vowel sound is embedded in a particular consonant frame, which will vary by condition. 
-After each sound, the participants will see both English and French carrier words on the screen.
-They will be instructed to select the word that contains a vowel sound that most closely matches the stimulus that they heard per trial. 
-Then, participants will then rate their selection for goodness of fit on a slider scale by clicking. 
-The scale is continuous and ranges from 1-7, but allows for any point on the scale to be clicked, producing a rating that is not necessarily discrete.  
-In the VOT bias conditions, the vowel will be uttered in combination with either an aspirated (German) or unaspirated (French) syllable-initial stop. 
-In the conditions in which VOT bias is not present, a fricative-vowel-fricative frame will be used. 
-Participants will categorize 5 repetitions of each condition, resulting in 40 total categorizations per language. 
+In order to examine perception of vowels, a phoneme categorization task will be carried out in both German and French in separate sessions on different days.
+During this task, participants will hear tokens produced by L1 German or French speakers, in which a vowel sound is embedded in a consonant frame and choose which English or Spanish sound that best matches the sound that they heard. 
+The English and Spanish sounds will be presented orthographically on a screen in carrier words. 
+One at a time, a stimulus sound will be played and the participant will choose its closest match by clicking on the English or Spanish word on screen. 
+Following their selection, the participants will rate how closely the sound they heard matches the selection that they chose by clicking a slider scale.
+The scale ranges from 1-7, but the selection is any point on the scale, thus rendering a continuous rating. 
 
-In terms of discrimination, the present dissertation will focus on English vowel contrasts and VOT stop contrasts in two separate continua embedded in L3 words. 
-In particular, the discrimination task is designed to determine whether L3 learners have access to perceptual discrimination present in either their L1 or L2, or whether order of acquisition of languages may impact phonetic discrimination ability. .
+The stimulus sounds will be similar to the vowel sounds in the production sentences, and are listed in table 2. 
+The vowel sounds will be presented in two distinct consonant frames per language: a fricative frame (/fvf/) and a voiceless bilabial obstruent frame (/pVp/).
+These frames were chosen due to the similarity between German and English versus and Spanish and French bilabial stops, which are similar to one another.
+By including a bilabial frame, it is possible to determine whether language specific acoustic cues bias the categorization of the vowel sound to L1 or L2 categories. 
+For example, in the case of the vowel sound /i/, which is present in both English and Spanish, if the bilabial consonant frame matters for vowel categorization, then the German frame should result in more selections of English categories, and the French frame should result in more selections of Spanish categories when the vowel sound is present in both English and Spanish.
+On the other hand, the fricative frame allows for the examination of selections when no or vowel only acoustic bias present.  
 The experiment will be programmed in Psychopy [@peirce_psychopy2_2019] and a pilot version of the experiment can be accessed here: https://pavlovia.org/run/kparrish92/phoneme_categorization. 
 
-### Chapter 3: AX Discimination Task
 
-In addition to categorization, the present dissertation is concerned with the discrimination of fine phonetic detail, or detail that does not contribute to categorization, in all three languages of the L3 learner. 
-In particular, an AX discrimination task will be given to learners in all 3 languages, in which English language vowel continua will be embedded in L3 words to see whether phonetic discrimination is possible in L1 words, L2 words, and L3 words. 
-In particular, the present dissertation will draw on vowel continua in previous research in L2 phonology, including continua similar to the pat-pot continuum [@casillas_production_2016], and the sheep-ship continuum [@casillas_production_2015].
+```{r, echo=FALSE, out.width="70%", fig.cap="Figure 2"}
+knitr::include_graphics(here::here("includes", "figures", "figure2.png"))
+```
 
-The stimuli will be created from naturally produced tokens of each vowel sound in a language specific carrier word produced by the same speakers.
-The continua will created using a PRAAT script in which 7 steps will be created and the first three formats will be manipulated [@boersma_praat_2021]. 
-The vowels will be embedded in language-specific carrier words, but the acoustics of the vowels themselves will remain the same.
-In particular, the English carrier words will be *fat* and *fit*, the Spanish carrier words will be *facha* and *fin*, the German words  *faß* and *ficht*, and finally the French words will be *fille* and *fam*.
 
-In the AX discrimination task, the participants will hear a sequence of two words drawn from the pat-pot or sheep-ship continuum in 3 language-specific blocks and decide whether those words sound the same or different. 
-In the 7 step continuum, all 49 possible combinations of sound will be presented a total of three times each, resulting in 147 repetitions per continuum per participant.
+In terms of discrimination, the present dissertation will focus on English vowel contrasts using an AX discrimination task. 
+In particular, the discrimination task is designed to determine whether L3 learners have access to perceptual discrimination present in either their L1 or L2, or whether order of acquisition of languages may impact phonetic discrimination ability.
+In the AX discrimination task, the participants will hear a sequence of two words drawn from a **sheep-ship** like continuum in 2 language-specific (French and German) blocks and decide whether those words sound the same or different. 
+The continua will be created by using the tokens from the German and French L1 speakers productions of the vowels in both consonant frames made for the phoneme categorization task and resynthesizing them using a Praat script. 
+In addition, a second set of continua, using a pat-pot like continuum, will be created though this contrast is not present in French or German, to further test whether English vowel contrasts are accessible in L3 sounds.
+The continua will be purely spectral, and duration will be held constant.
+In each 7 step continuum, all 49 possible combinations of sound will be presented a total of three times each, resulting in 147 repetitions per continuum per participant.
 The task will be programmed in Psychopy [@peirce_psychopy2_2019]. 
 
 ## Procedure 
 
-Participants will complete the experimental tasks in a semi-longitudenal fashion, in which each participant will complete 1 of 3 language specific blocks on different dates. 
-Date collection will take place online and participants will be recruited using the online platform Prolific.co. 
+Participants will complete the experimental tasks in a semi-longitudenal fashion, in which each participant will complete 1 of 4 language specific blocks on different dates. 
+Data collection will take place online and participants will be recruited using the online platform Prolific.co. 
 Every potential participant will first complete a screening block, in which they will take the LexTALE [@izura_lexical_2016; @lemhofer_lexical_2016] in their L2 and the Bilingual Language Profile [@birdsong_bilingual_2012]. 
 Exclusion criteria will include a LexTALE score under 50% correct or knowledge of a third language. 
 
-Once participants are eligible for the experimental tasks, they will begin with either the L3, followed by the L1 or L2 in a counterbalanced manner. 
+Once participants are eligible for the experimental tasks, they will begin with either L3, followed by the L1 or L2 in a counterbalanced manner. 
 The blocks will begin with the production task, either a shadowing task (L3) or a word reading task (L1 and L2).
-Then, in the same experiment, the participant will completed the phoneme categorization task followed by the AX discrimination task. 
+Then, in the same experiment, the participant will complete the phoneme categorization task followed by the AX discrimination tasks. 
 In order to control for potential language mode effects brought on by the experiment, the language specific blocks will be given of separate days.
 Instructions will be given in each block in the participant's native language, either English or Spanish. 
 
 # Analysis 
 
 In the production tasks, both vowel and stop production will be analyzed using Bayesian Multilevel regression models. 
-In the case of stops, Voice Onset Time will be modeled as a function of language, LexTALE score, and a continuous dominance measure obtained from the BLP. 
+In the case of stops, Voice Onset Time will be modeled as a function of language, consonant frame, LexTALE score, and a continuous dominance measure obtained from the BLP.
 Random intercepts will include words and participants.
 In vowel production, F1 and F2 will be modeled separately using the same predictors as the stop model.
 A region of practical equivalence (ROPE) will also be established to determine whether any differences in productions between two languages can be attributed to noise in the data, and provide evidence that two specific languages are being produced in a near-equivalent manner.
@@ -221,4 +216,4 @@ Such evidence would entail the entire posterior distribution falling within the 
 Phoneme categorization will be analyzed in a descriptive manner.
 Specifically, it will show the preferred category per condition per language, and its ratings. 
 This data will be visualized and used in comparison to both production and discrimination data. 
-The AX discrimination task will again use Bayesian linear regression to model correctness as a function of language, LexTALE score, and dominance, with random intercepts per participant and item. 
+The AX discrimination task will again use Bayesian linear regression to model correctness as a function of language, consonant frame, LexTALE score, and dominance, with random intercepts per participant and item. 

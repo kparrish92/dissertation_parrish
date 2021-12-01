@@ -23,11 +23,11 @@ library(tidyverse)
 \setlength{\parindent}{0.2in} 
 
 <!-- Include chapters -->
-```{r, child='./sections/01a_intro.Rmd'}
+```{r, child='./sections/01_intro.Rmd'}
 ```
-```{r, child='./sections/01b_l3_models.Rmd'}
+```{r, child='./sections/02_lit_review.Rmd'}
 ```
-```{r, child='./sections/chapter2.rmd'}
+```{r, child='./sections/03_present_study.Rmd'}
 ```
 
 

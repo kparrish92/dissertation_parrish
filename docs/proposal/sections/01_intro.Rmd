@@ -2,8 +2,8 @@
 
 # Introduction
 
-The difficulty of learning a new language in adulthood has a well documented history. 
-This is especially true in the case of phonological acquisition.  
+The difficulty of learning a new language in adulthood has a well documented history.
+This is especially true in the case of phonological acquisition.
 For example, many studies over the course of the past five decades have demonstrated that adult second language (L2) learners often produce and perceive the sounds of the target language in a non-native manner [@flege_imitation_1988; @flege_age_1991]. 
 This difficulty arises, in part, because bilinguals often navigate complex communicative situations in which they produce and perceive speech from both of their languages in real time. 
 Much less is known about the acquisition of a third language (L3A), particularly with regard to L3 production, perception, and phonological learning. 
@@ -26,7 +26,7 @@ Additionally, factors such as L2 and L3 proficiency, language dominance and choi
 These L3 proficiency has varied in the body of literature, with some studies examining beginners, while others study intermediate and advanced learners. 
 Language dominance and use has not always been considered in L3 studies.
 
-The present dissertation aims to address the issue of low sample sizes and varied statistical analyses by, firstly, recruiting bilinguals who do not yet know a third language. Secondly, more fitting statistical analyses are used to evaluate equivalence for within and between group comparisons, such as Bayesian Regression with a region of practical equivalence.  
+The present dissertation aims to address the issue of low sample sizes and varied statistical analyses by, firstly, recruiting bilinguals who do not yet know a third language. Secondly, more fitting statistical analyses are used to evaluate equivalence for within and between group comparisons, such as Bayesian Regression with a region of practical equivalence.
 In terms of sample size, it is probable that low samples in L3 research have occured as a result of the difficulty in finding subjects with similar enough backgrounds in three languages.
 To work around the issue of low availability in participants, bilinguals first exposure to a third language is studied in the present dissertation. 
 It is likely that relatively homogeneous populations of bilinguals are in greater supply than trilingual populations, particularly when suggested methodological practices are to be used, such as the use of mirror-image groups (groups with the same L3 but opposite order of acquisition). 
@@ -55,7 +55,7 @@ On the other hand, when the release occurs prior to the onset of voicing, a posi
 Stops with a positive VOT are considered phonetically voiceless. 
 VOT has been found to be a primary acoustic cue in the distinction of stop consonants in many of the world's languages. 
 However, the use of VOT to make distinctions between sounds is language specific. 
-For example, Spanish and French belong to a classification of languages referred to as true-voicing languages [@lisker_cross-language_1964] .
+For example, Spanish and French belong to a classification of languages referred to as true-voicing languages [@lisker_cross-language_1964].
 This label suggests that the difference between a stop consonant that is phonemically voiced, such as /b/ is also phonetically voiced (negative VOT) and its counterpart that is phonemically voiceless, such as /p/ is also phonetically voiceless (positive VOT). 
 True voicing languages stand in contrast to aspirating languages, such as German and English, in that the phonemic categories /p/ and /b/ exist within these languages, but are distinct in the way that they make use of VOT.
 That is, in aspirating languages, /p/ typically has a long-lag VOT (a longer duration in milliseconds) than the true-voicing languages' /p/.
