@@ -12,7 +12,7 @@ The predictions and theoretical underpinnings of models of L3 acquisition are co
 
 The Cumulative Enhancement Model (CEM) [@flynn_cumulative-enhancement_2004] was one of the first formal models of L3 acquisition in adulthood. 
 The authors argued that L3 acquisition can provide unique insights about language learning that is not possible in L1 or L2 research alone.
-The key question in this article was whether the properties of the L1 maintain a privileged status in L3 acquisition, or if L3 acquisition is cumulative process, in which all grammatical properties of previously known languages impact subsequent language acquisition, and, importantly, are helpful.  
+The key question in this article was whether the properties of the L1 maintain a privileged status in L3 acquisition, or if L3 acquisition is cumulative process, in which all grammatical properties of previously known languages impact subsequent language acquisition, and, importantly, are helpful.
 Within this article, the authors conducted a study to provide evidence for the newly proposed CEM.
 The study examined the production of restrictive relative clauses in adults and children who spoke L3 English (L1 Kazakh-L2 Russian).
 The results revealed similar performance on the experimental task by adults and children, and that the production of relative clauses was influenced by the participants' L2 Russian. 
@@ -113,7 +113,8 @@ Like @montrul_clitics_2011, @parma_cross-linguistic_2017 also investigated L3 BP
 Another novelty of @parma_cross-linguistic_2017 was the inclusion of an online measure, a self-paced reading task, to measure comprehension, while the study also included a story-telling task to measure production. 
 The results of the comprehension task were inconclusive, and it could not be concluded that the experimental conditions were being processed at meaningfully difference speeds by any group.
 The production task, on the other hand, found evidence of errors in clitic production in L3 BP by both L1 and L2 Spanish speakers that could be likened to Spanish influence. 
-The results of these studies provided evidence contrary to the predictions of the L2 Status Factor and suggest that Spanish influences L3 BP. 
+The results of these studies provided evidence contrary to the predictions of the L2 Status Factor and suggest that Spanish influences L3 BP.
+
 Following these initial results in the language combination of L3 BP with English and Spanish, other studies aimed to test whether either the L1 or the L2 could influence performance on L3 tasks. 
 The evidence outside of the BP/Spanish/English triad has been more limited and controversial. 
 Some accounts in favor of the TPM's predicitive power have aimed to accumulate evidence in its favor.
@@ -167,7 +168,7 @@ In a series of studies, @stadt_influence_2016 examined L1 Dutch - L2 English - L
 In the first study, the results of a Grammaticality Judgement Task indicated that third year the immersion group showed signs of heavy L2 influence in the L3, where the regular group showed evidence of CLI from both the L1 and the L2. 
 
 In a follow up study, the authors recruited 4th year students from the same educational background to investigate whether L2 influence would differ between 3rd and 4th year students [@berns_role_2018]. 
-The results revealed that both 3rd and 4th year immersion groups behaved similarly and showed evidence of primarily English influence on their L3 judgments, though evidence for L1 influence was also found.  
+The results revealed that both 3rd and 4th year immersion groups behaved similarly and showed evidence of primarily English influence on their L3 judgments, though evidence for L1 influence was also found.
 In a second follow up study, the authors gave similar materials to the an L3 German group [@trotzke_l2_2020].
 In this case, L3 German judgments were concluded to have been influenced by the more typologically similar L1 Dutch, rather than L2 English as found in the previous cases.
 Taken together, the results of these studies suggest that both typology and L2 Status may play a role in modeling the patterns of cross linguistic influence in an L3.
@@ -230,7 +231,7 @@ Following the model introductions, its relationship and proposed expansion to L3
 The original SLM @flege_second_1995 focuses on the acquisition of segments in the L2 and emphasizes the importance of cross-linguistic similarity in L2 speech learning. In this view, new segments are predicted to be easier to learn, where segments which have close matches in the L2 will be much harder to acquire at a native-like level. 
 Essentially, the SLM proposes that L1 and L2 sounds are linked through a process referred to as "interlingual identification", in that the L2 sound encountered as first exposure are seen as either good or bad phonetic variants of a native category [@flege_second_1995].
 In this view, acquisition of L2 segments occurs after increased exposure to these segments, where segmental complexity modulates the rate of learning [@wayland_revised_2021].
-Additionally, the SLM posits that allophonic variation and segment position matter, as opposed to the learning of a phoneme generalizing across positions.   
+Additionally, the SLM posits that allophonic variation and segment position matter, as opposed to the learning of a phoneme generalizing across positions.
 For instance, @iverson_phonetic_2005 conducted a study in which they succesfully trained Japanese speakers to better identify /r/ and /l/ in word initial position, but that this training was not effective for word-medial or word-initial clusters containing liquids.
 
 The original SLM also suggested that the age of first exposure (the younger the better), and L2 experience were important predictors to L2 learning success.
@@ -360,7 +361,7 @@ For instance, @wrembel_extending_2019 examined the categorization and discrimina
 To test categorization, a cross-linguistic similarity task was used in which participants heard minimal pairs of sounds and had to rate how similar sounds were on a 1-7 Likert scale. 
 The results showed evidence that participants assimilated L3 sounds to both L1 and L2 categories, but preferred the L2. 
 In a second experiment, and AX discrimination task was given to participants to evaluate whether retroflex and palato-alveolar silibant discrimination, a feature of Polish, could be accessed in L3 words.
-The results revealed that discrimination of the L1 Polish contrast was very good (84% accuracy), suggesting that L3 learners retain access to L1 sound contrasts in L3 words.  
+The results revealed that discrimination of the L1 Polish contrast was very good (84% accuracy), suggesting that L3 learners retain access to L1 sound contrasts in L3 words.
 Additionally, this language specific phonetic discrimination was attended to by even L3 beginners. 
 @balas_non-native_2018 also used the PAM as a perceptual framework to work in and adapted it to L3 learners. 
 The study recruited three groups of Polish L1 speakers, including two L3 groups (L1 Polish-L2 English-L3 Dutch and L1 Polish-L2 English-L3 Dutch). 
@@ -382,7 +383,8 @@ The results revealed that bilingual participants outlearned the monolingual grou
 @wrembel_cross-linguistic_2020 also found that cross-linguistic influence is structure dependent and varies among individuals. 
 @onishi_effects_2016 reported a bilingual advantage, but, rather than feature dependent, suggested that this advantage was global.
 The study involved speakers of Korean who spoke L2 English and L3 Japanese.
-The author found a correlation between successful discrimination of L3 contrasts and L2 experience, and argued that this correlation is evidence for a bilingual advantage. 
+The author found a correlation between successful discrimination of L3 contrasts and L2 experience, and argued that this correlation is evidence for a bilingual advantage.
+
 These findings suggest that crosslinguistic similarity of both a bilingual's languages play a role in the ease of acquiring a novel, L3 sound.
 Additionally, research focused on a bilingual advantage in phonetic learning can inform L3 models, since it implies that bilinguals have access to the phonetic categories in both languages that they speak, even at first exposure, whether or not the advantages of bilingualism on phonetic learning are global or feature dependent. 
 Few studies have investigated the role of VOT in L3 perception. 

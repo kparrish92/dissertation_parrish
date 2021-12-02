@@ -174,7 +174,7 @@ The vowel sounds will be presented in two distinct consonant frames per language
 These frames were chosen due to the similarity between German and English versus and Spanish and French bilabial stops, which are similar to one another.
 By including a bilabial frame, it is possible to determine whether language specific acoustic cues bias the categorization of the vowel sound to L1 or L2 categories. 
 For example, in the case of the vowel sound /i/, which is present in both English and Spanish, if the bilabial consonant frame matters for vowel categorization, then the German frame should result in more selections of English categories, and the French frame should result in more selections of Spanish categories when the vowel sound is present in both English and Spanish.
-On the other hand, the fricative frame allows for the examination of selections when no or vowel only acoustic bias present.  
+On the other hand, the fricative frame allows for the examination of selections when no or vowel only acoustic bias present.
 The experiment will be programmed in Psychopy [@peirce_psychopy2_2019] and a pilot version of the experiment can be accessed here: https://pavlovia.org/run/kparrish92/phoneme_categorization. 
 
 

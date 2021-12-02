@@ -37,7 +37,7 @@ Current models of L3A do not always account for potential individual differences
 By investigating first exposure, it is possible to gather evidence regarding whether there is a default state of L1 and L2 CLI at first exposure to an L3, and whether this relative language influence is variable at the individual level. 
 If the goal of L3 models is to predict the trajectory of L3 acquisition, then it seems pivotal to uncover the potential variability of its starting point.
 
-To deal with the potential impact of proficiency and dominance on L3 production and perception, L2 proficiency was measured using the LexTALE in English [@izura_lexical_2016; @lemhofer_lexical_2016] and Spanish (citation). 
+To deal with the potential impact of proficiency and dominance on L3 production and perception, L2 proficiency was measured using the LexTALE in English [@izura_lexical_2016; @lemhofer_lexical_2016] and Spanish [@izura_lexical_2016]. 
 The Bilingual Language Profile (BLP) was used to measure language dominance and background [@birdsong_bilingual_2012].
 Finally, participant groups will be exposed to either German or French, to examine how phonetic similarity across languages may play a role in the first exposure to an L3.
 
