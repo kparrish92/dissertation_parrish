@@ -125,7 +125,7 @@ Either the English and Spanish versions of the task will be used in the study, d
 ### Stimuli 
 
 The following conditions will be tested in the body of the present dissertation in both perception and production. 
-The predictions in Table 1 are those that would support the idea that cross linguistic acoustic similarity drives CLI patterns in L3A.
+The predictions in Figure 3.1 are those that would support the idea that cross linguistic acoustic similarity drives CLI patterns in L3A.
 Additionally, these broad predictions serve for both perception and production, since there is little evidence that suggests that these L3A CLI patterns are distinct. 
 In Chapter 2, these L3 conditions will be produced in shadowing tasks, where the chosen words for each condition will be recorded by native speakers and embedded in an online experiment for participants to listen to and repeat. 
 In Chapter 3, the perception, involving both categorization and discrimination, of these conditions will be examined. 
@@ -195,13 +195,13 @@ One at a time, a stimulus sound will be played and the participant will choose i
 Following their selection, the participants will rate how closely the sound they heard matches the selection that they chose by clicking a slider scale.
 The scale ranges from 1-7, but the selection is any point on the scale, thus rendering a continuous rating. 
 
-The stimulus sounds will be similar to the vowel sounds in the production sentences, and are listed in table 2. 
+The stimulus sounds will be similar to the vowel sounds in the production sentences, and are listed in figure 3.2. 
 The vowel sounds will be presented in two distinct consonant frames per language: a fricative frame (/fvf/) and a voiceless bilabial obstruent frame (/pVp/).
 These frames were chosen due to the similarity between German and English versus and Spanish and French bilabial stops, which are similar to one another.
 By including a bilabial frame, it is possible to determine whether language specific acoustic cues bias the categorization of the vowel sound to L1 or L2 categories. 
 For example, in the case of the vowel sound /i/, which is present in both English and Spanish, if the bilabial consonant frame matters for vowel categorization, then the German frame should result in more selections of English categories, and the French frame should result in more selections of Spanish categories when the vowel sound is present in both English and Spanish.
 On the other hand, the fricative frame allows for the examination of selections when no or vowel only acoustic bias present.
-The experiment will be programmed in Psychopy [@peirce_psychopy2_2019] and a pilot version of the experiment can be accessed here: https://pavlovia.org/run/kparrish92/phoneme_categorization. 
+The experiment will be programmed in Psychopy [@peirce_psychopy2_2019].
 
 
 ```{r, echo=FALSE, out.width="70%", fig.cap="Perception Conditions"}
@@ -238,7 +238,7 @@ The timeline to completion starts with obtaining IRB approval, followed by exper
 Here, I propose a timeline for the completion of each step, including allowing time for feedback, up until a defense date in May 2023. 
 Following the defense of this proposal and implementation of the committee's recommendations in late January, the IRB will be submitted for review by mid-February.
 While awaiting IRB approval, the experiments will be created in which stimuli are created and L1 German and French informants will provide audio for re-synthesis in perception experiments and shadowing in production experiments.
-Once IRB approval is obtained and the experiments are created, data collection will begin in mid-April and take place over the summer, with the goal of being completed by early September, 2022.  
+Once IRB approval is obtained and the experiments are created, data collection will begin in mid-April and take place over the summer, with the goal of being completed by early September, 2022.
 Once all data has been collected, analysis and writing writing will begin in early September with the goal of being finished by mid-Spring 2023 (March).
 Following the completed dissertation draft, editing and revisions will be carried out and a final draft will be sent to the committee for review in April 2023 at least one month prior to a defense date in May 2023. 
 
