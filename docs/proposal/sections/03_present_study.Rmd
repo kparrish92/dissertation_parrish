@@ -1,18 +1,18 @@
 \chapter{The Present Study}
 
-The present study investigates the production and perception of words in a language by bilinguals that they do not yet know, specifically, French or German. <!-- words? or segments via words --> 
-In so doing, the present dissertation aims to investigate the very initial stage of acquisition by providing an overview of the initial relative influence of both L1 and L2. <!-- initial stage of L3 phonological acquisition --> 
+The present study investigates the production and perception of segments in words in a language by bilinguals that they do not yet know, specifically, French or German. <!-- words? or segments via words kp: fixed --> 
+In so doing, the present dissertation aims to investigate the very initial stage of L3 phonological acquisition acquisition by providing an overview of the initial relative influence of both L1 and L2. <!-- initial stage of L3 phonological acquisition kp: fixed--> 
 In this study, late Spanish-English bilinguals of both order of acquisition will be given an aspirating L3 (German) and a true-voicing L3 (French) to shadow.
 In perception, the participants will match L3 vowel sounds to L1 and L2 categories, and complete an AX discrimination task.
-Following these tasks, the link between perception and production will be discussed. <!-- discussed? or analyzed (and discussed)? --> 
+Following these tasks, the link between perception and production will be analyzed and discussed. <!-- discussed? or analyzed (and discussed)? kp: fixed --> 
 
 # Research Questions 
 
 The present dissertation is guided by the following research questions. 
-Broadly, this project focuses on the influence of L1 and L2 system on L3 perception and production, and how cross-linguistic similarity might predict this influence. <!-- ...of THE L1 and L2 systems... --> 
+Broadly, this project focuses on the influence of the L1 and L2 system on L3 perception and production, and how cross-linguistic similarity might predict this influence. <!-- ...of THE L1 and L2 systems... kp: fixed --> 
 By taking these factors into account, more precise evidence can be provided to evaluate the predictions of L3 models. 
 The following section introduces a total of 7 research questions that will be covered over three total chapters. 
-In each subsection, a research question will be introduced, followed by hypotheses and predictions, as well as additional possible outcomes and their interpretations. <!-- something to keep in mind, at some point I am certain that Tom or Jen Austin will ask how this is different from your QP. be prepared to talk about that --> 
+In each subsection, a research question will be introduced, followed by hypotheses and predictions, as well as additional possible outcomes and their interpretations. <!-- something to keep in mind, at some point I am certain that Tom or Jen Austin will ask how this is different from your QP. be prepared to talk about that kp: I feel pretty good about the answer to this. In the QP I wanted to show that language mode effects modulate the initial categorization of L3 sounds (I did not find evidence of this), here I want to look at how acoustics interact with order of acquisition in both perception and production, and look at multiple segments in the same speaker to determine whether different segments are affected to the same extent (if holisitic transfer is plausible)--> 
 
 ## Chapter 2: Production
 
@@ -34,12 +34,17 @@ RQ2: Will Spanish-English bilinguals produce vowels more like English or Spanish
 
 The predictions in vowel production are analogous to those in stop production. 
 It is predicted that L3 vowel production will be intermediate between L1 and L2 values. 
-The evidence in support of L3 models and their predictions is also identical in the case of vowels. <!-- Say they are the same (that's fine), but repeat them again here anyway to be complete. --> 
+The evidence in support of L3 models and their predictions is also identical in the case of vowels.
+That is, full transfer models (TPM, L2SF) predict that each segment should be equally affected by the same source language, either the L2 (L2SF) or the closest typological language (TPM).
+Full transfer models would be supported in L3 production and perception were found to be practically equivalent to either the L1 or the L2
+Partial transfer models (LPM, the Scalpel Model) suggest that production and perception L3 vowels are influenced by both the L1 and the L2 and that performance on experimental tasks of L3 vowels should fall between L1 and L2 performance.
+
+<!-- Say they are the same (that's fine), but repeat them again here anyway to be complete. kp: added --> 
 
 RQ3: Will the same CLI trends be observed in L3 German as L3 French in production? 
 
 It is predicted that the phonetic differences in the input will affect the performance in the shadowing task, at least at the group level. 
-In @parrish_relative_2021, L1 Spanish-L2 English bilinguals shadowed French, which is phonetically similar to Spanish in its use of VOT to distinguish stop consonants. <!-- is this study submitted somewhere? --> 
+In @parrish_relative_2021, L1 Spanish-L2 English bilinguals shadowed French, which is phonetically similar to Spanish in its use of VOT to distinguish stop consonants. <!-- is this study submitted somewhere? kp: yes, the international journal of multilingualism, still with the editor. I cited a talk that I did using this data for now--> 
 As a result, the French stimuli were unaspirated short lag stops.
 The group results, however, revealed that many participants aspirated word initial stops, presumably due to the influence of L2 English. 
 This result suggested that L2 influence is frequent and pronounced in some participants.
@@ -47,7 +52,7 @@ However, other participants produced target-like L3 French tokens.
 In this latter case, it was unclear whether L3 productions were target-like due to effective mimicry or language influence. 
 By including a German L3 group, both explanations can be tested.
 If, between groups with the same order of acquisition, relative VOT of shadowed German tokens are practically equivalent to the relative VOT of shadowed French and they are not target-like, then the phonetics of the stimuli will not seem to be a contributing factor to L3 pronunciation.
-That is, for example, if L1 Spanish-L2 English speakers aspirate German and French at the same rates, despite the German tokens being aspirated and French tokens being unsaturated, then the aspiration of the input would not reliably predict L3 production patterns. <!-- unsaturated? --> 
+That is, for example, if L1 Spanish-L2 English speakers aspirate German and French at the same rates, despite the German tokens being aspirated and French tokens being unaspirated, then the aspiration of the input would not reliably predict L3 production patterns. <!-- unsaturated? kp: auto-correct strikes again, but somehow didn't get the other hundren typos --> 
 If, on the other hand, L3 German VOT is aspirated more often than L3 French, it could be interpreted as evidence that the phonetic qualities of the input at first exposure to an L3 interact with language status effects. 
 A third possibility is that typological similarity of segments is the most influential factor predicting L3 pronunciation at first exposure. 
 In order for this view to be supported, close to target-like L3 production should be seen from both orders of acquisition.
@@ -90,10 +95,10 @@ As a result, the outcome of the relationship between L3 perception and productio
 4 total groups of participants will take part in each experiment, in what @westergaard_crosslinguistic_2017 refers to as a fully combined design.
 There will be 2 bilingual groups with opposite orders of acquisition, Spanish L1-English L2, and English L1-Spanish L2, with each of these groups hearing either L3 German and L3 French, and 2 monolingual English and monolingual Spanish groups, who also both shadow French or German. 
 German and French were chosen as the third languages primarily due to the phonetic differences in voice-onset time, where French is a true-voicing language (like Spanish) and German is an aspirating language (like English).
-Additionally, German and English and French and Spanish are typologically related in a global sense. <!-- What does global sense mean here? --> 
+Additionally, German and English and French and Spanish are typologically related in a global sense (i.e., not necessarily on a structure by structure basis). <!-- What does global sense mean here? kp: added info--> 
 As a result, the present design will allow for the examination of language status effects, global typology effects, and structure by structure similarity effects.
 By doing so, the relative influence of each of these factors can be determined in these populations, and the evaluation of L3 model predictions can be carried out.
-Based on a power analysis carried out in [@parrish_relative_2021], the bilingual groups will contain 75 participants per group, where the monolingual groups will contain 50 participants per group, for a total of 250 participants. <!-- Given how much you are talking about parrish_relative_2021 in this section (03_present_study), you probably need to give more detail about it (i.e., method, findings) in the 02_lit_review. --> 
+Based on a power analysis carried out in [@parrish_relative_2021], the bilingual groups will contain 75 participants per group, where the monolingual groups will contain 50 participants per group, for a total of 250 participants. <!-- Given how much you are talking about parrish_relative_2021 in this section (03_present_study), you probably need to give more detail about it (i.e., method, findings) in the 02_lit_review. kp: I have method and findings lines 355-358 (where I repeated data several times)--> 
 
 ## Materials
 
@@ -112,7 +117,7 @@ The BLP can be administered online and was chosen for its comprehensiveness whil
 ### LexTALE 
 
 The LexTALE [@izura_lexical_2016; @lemhofer_lexical_2016] will be used to measure English and Spanish proficiency. 
-The LexTALE is a lexical decision task, in which participants see either words or pseudowords on a screen one at a time. 
+The LexTALE is a lexical decision task, in which participants see either words or pseudowords on a screen one at a time.
 Participants are supposed to then decide whether the word presented is a real word in the language or a pseudoword. 
 The task is intended to be a measure of vocabulary size, which has been argued to correlate to language proficiency. 
 Either the English and Spanish versions of the task will be used in the study, depending upon the L2 of participant.
@@ -136,7 +141,7 @@ Condition 5 investigates an analogous circumstance, but uses an English-like vow
 Conditions 7 and 8 use a vowel not found in either English or Spanish, with a VOT bias (condition 7), and with a fricative (condition 8). 
 If within-word acoustics influence the categorization of sounds within that word, then the vowel in these conditions should be produced distinctly in condition 7, but similarly in condition 8. 
 
-```{r, echo=FALSE, out.width="70%", fig.cap="Figure 1"}
+```{r, echo=FALSE, out.width="70%", fig.cap="Vowel and stop conditions and predictions"}
 knitr::include_graphics(here::here("includes", "figures", "figure1.png"))
 ```
 
@@ -160,6 +165,27 @@ Specifically, voiceless stop-initial words will be used in all three places of a
 All three places of articulation, as well as fricative initial stimuli, will be paired with high low and mid vowels.
 The word reading tasks will be programmed in Labvanced [@finger_labvanced_2016]. 
 
+### Chapter 2: Procedure 
+
+Participants will complete the experimental tasks in a semi-longitudinal fashion, in which each participant will complete 1 of 4 language specific blocks on different dates. 
+Data collection will take place online and participants will be recruited using the online platform Prolific.co. 
+Every potential participant will first complete a screening block, in which they will take the LexTALE [@izura_lexical_2016; @lemhofer_lexical_2016] in their L2 and the Bilingual Language Profile [@birdsong_bilingual_2012]. 
+Exclusion criteria will include a LexTALE score under 50% correct or knowledge of a third language. 
+Once participants are eligible for the experimental tasks, they will begin with either L3, followed by the L1 or L2 in a counterbalanced manner. 
+The blocks will begin with the production task, either a shadowing task (L3) or a word reading task (L1 and L2).
+Then, in the same experiment, the participant will complete the phoneme categorization task followed by the AX discrimination tasks. 
+In order to control for potential language mode effects brought on by the experiment, the language specific blocks will be given of separate days.
+Instructions will be given in each block in the participant's native language, either English or Spanish. 
+
+### Chapter 2: Analysis 
+
+In the production tasks, both vowel and stop production will be analyzed using Bayesian Multilevel regression models. 
+In the case of stops, Voice Onset Time will be modeled as a function of language, consonant frame, LexTALE score, and a continuous dominance measure obtained from the BLP.
+Random intercepts will include words and participants.
+In vowel production, F1 and F2 will be modeled separately using the same predictors as the stop model.
+A region of practical equivalence (ROPE) will also be established to determine whether any differences in productions between two languages can be attributed to noise in the data, and provide evidence that two specific languages are being produced in a near-equivalent manner.
+Such evidence would entail the entire posterior distribution falling within the equivalence bounds. 
+
 ### Chapter 3: Perception
 
 In order to examine perception of vowels, a phoneme categorization task will be carried out in both German and French in separate sessions on different days.
@@ -178,42 +204,43 @@ On the other hand, the fricative frame allows for the examination of selections 
 The experiment will be programmed in Psychopy [@peirce_psychopy2_2019] and a pilot version of the experiment can be accessed here: https://pavlovia.org/run/kparrish92/phoneme_categorization. 
 
 
-```{r, echo=FALSE, out.width="70%", fig.cap="Figure 2"}
+```{r, echo=FALSE, out.width="70%", fig.cap="Perception Conditions"}
 knitr::include_graphics(here::here("includes", "figures", "figure2.png"))
 ```
 
 
 In terms of discrimination, the present dissertation will focus on English vowel contrasts using an AX discrimination task. 
 In particular, the discrimination task is designed to determine whether L3 learners have access to perceptual discrimination present in either their L1 or L2, or whether order of acquisition of languages may impact phonetic discrimination ability.
-In the AX discrimination task, the participants will hear a sequence of two words drawn from a **sheep-ship** like continuum in 2 language-specific (French and German) blocks and decide whether those words sound the same or different. 
+In the AX discrimination task, the participants will hear a sequence of two words drawn from a *sheep-ship* like continuum in 2 language-specific (French and German) blocks and decide whether those words sound the same or different. 
 The continua will be created by using the tokens from the German and French L1 speakers productions of the vowels in both consonant frames made for the phoneme categorization task and resynthesizing them using a Praat script. 
-In addition, a second set of continua, using a pat-pot like continuum, will be created though this contrast is not present in French or German, to further test whether English vowel contrasts are accessible in L3 sounds.
+In addition, a second set of continua, using a *pat-pot* like continuum, will be created though this contrast is not present in French or German, to further test whether English vowel contrasts are accessible in L3 sounds.
 The continua will be purely spectral, and duration will be held constant.
 In each 7 step continuum, all 49 possible combinations of sound will be presented a total of three times each, resulting in 147 repetitions per continuum per participant.
-The task will be programmed in Psychopy [@peirce_psychopy2_2019]. <!-- are you creating all the stimuli yourself or have they been used in previous studies? --> 
+Each continuum will be created by resynthesizing L1 French and German informant speech using a PRAAT scripts.
+The task will be programmed in Psychopy [@peirce_psychopy2_2019]. <!-- are you creating all the stimuli yourself or have they been used in previous studies? kp: making them - added a line with this info--> 
 
-## Procedure 
+### Chapter 3: Procedure 
 
-Participants will complete the experimental tasks in a semi-longitudenal fashion, in which each participant will complete 1 of 4 language specific blocks on different dates. 
-Data collection will take place online and participants will be recruited using the online platform Prolific.co. 
-Every potential participant will first complete a screening block, in which they will take the LexTALE [@izura_lexical_2016; @lemhofer_lexical_2016] in their L2 and the Bilingual Language Profile [@birdsong_bilingual_2012]. 
-Exclusion criteria will include a LexTALE score under 50% correct or knowledge of a third language. 
+The procedure for chapter 3 is included in the procedure for chapter 2. 
+That is, perception and production tasks will be given in four language specific blocks on different days, following a screening block. 
+Instructions will be given in the L1 of the participant, either English or Spanish, during each block. 
 
-Once participants are eligible for the experimental tasks, they will begin with either L3, followed by the L1 or L2 in a counterbalanced manner. 
-The blocks will begin with the production task, either a shadowing task (L3) or a word reading task (L1 and L2).
-Then, in the same experiment, the participant will complete the phoneme categorization task followed by the AX discrimination tasks. 
-In order to control for potential language mode effects brought on by the experiment, the language specific blocks will be given of separate days.
-Instructions will be given in each block in the participant's native language, either English or Spanish. 
+### Chapter 3: Analysis 
 
-# Analysis 
-
-In the production tasks, both vowel and stop production will be analyzed using Bayesian Multilevel regression models. 
-In the case of stops, Voice Onset Time will be modeled as a function of language, consonant frame, LexTALE score, and a continuous dominance measure obtained from the BLP.
-Random intercepts will include words and participants.
-In vowel production, F1 and F2 will be modeled separately using the same predictors as the stop model.
-A region of practical equivalence (ROPE) will also be established to determine whether any differences in productions between two languages can be attributed to noise in the data, and provide evidence that two specific languages are being produced in a near-equivalent manner.
-Such evidence would entail the entire posterior distribution falling within the equivalence bounds. 
 Phoneme categorization will be analyzed in a descriptive manner.
-Specifically, it will show the preferred category per condition per language, and its ratings. 
+Specifically, it will show the preferred category per condition per language, and its goodness ratings. 
 This data will be visualized and used in comparison to both production and discrimination data. 
 The AX discrimination task will again use Bayesian linear regression to model correctness as a function of language, consonant frame, LexTALE score, and dominance, with random intercepts per participant and item. 
+
+# Timeline 
+
+The timeline to completion starts with obtaining IRB approval, followed by experiment creation, data collection, data analysis, and finally with writing the results and discussion potions of the dissertation.
+Here, I propose a timeline for the completion of each step, including allowing time for feedback, up until a defense date in May 2023. 
+Following the defense of this proposal and implementation of the committee's recommendations in late January, the IRB will be submitted for review by mid-February.
+While awaiting IRB approval, the experiments will be created in which stimuli are created and L1 German and French informants will provide audio for re-synthesis in perception experiments and shadowing in production experiments.
+Once IRB approval is obtained and the experiments are created, data collection will begin in mid-April and take place over the summer, with the goal of being completed by early September, 2022.  
+Once all data has been collected, analysis and writing writing will begin in early September with the goal of being finished by mid-Spring 2023 (March).
+Following the completed dissertation draft, editing and revisions will be carried out and a final draft will be sent to the committee for review in April 2023 at least one month prior to a defense date in May 2023. 
+
+
+
