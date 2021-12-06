@@ -1,18 +1,18 @@
 \chapter{The Present Study}
 
-The present study investigates the production and perception of words in a language by bilinguals that they do not yet know, specifically, French or German.
-In so doing, the present dissertation aims to investigate the very initial stage of acquisition by providing an overview of the initial relative influence of both L1 and L2. 
+The present study investigates the production and perception of words in a language by bilinguals that they do not yet know, specifically, French or German. <!-- words? or segments via words --> 
+In so doing, the present dissertation aims to investigate the very initial stage of acquisition by providing an overview of the initial relative influence of both L1 and L2. <!-- initial stage of L3 phonological acquisition --> 
 In this study, late Spanish-English bilinguals of both order of acquisition will be given an aspirating L3 (German) and a true-voicing L3 (French) to shadow.
 In perception, the participants will match L3 vowel sounds to L1 and L2 categories, and complete an AX discrimination task.
-Following these tasks, the link between perception and production will be discussed.
+Following these tasks, the link between perception and production will be discussed. <!-- discussed? or analyzed (and discussed)? --> 
 
 # Research Questions 
 
 The present dissertation is guided by the following research questions. 
-Broadly, this project focuses on the influence of L1 and L2 system on L3 perception and production, and how cross-linguistic similarity might predict this influence. 
+Broadly, this project focuses on the influence of L1 and L2 system on L3 perception and production, and how cross-linguistic similarity might predict this influence. <!-- ...of THE L1 and L2 systems... --> 
 By taking these factors into account, more precise evidence can be provided to evaluate the predictions of L3 models. 
 The following section introduces a total of 7 research questions that will be covered over three total chapters. 
-In each subsection, a research question will be introduced, followed by hypotheses and predictions, as well as additional possible outcomes and their interpretations.  
+In each subsection, a research question will be introduced, followed by hypotheses and predictions, as well as additional possible outcomes and their interpretations. <!-- something to keep in mind, at some point I am certain that Tom or Jen Austin will ask how this is different from your QP. be prepared to talk about that --> 
 
 ## Chapter 2: Production
 
@@ -34,12 +34,12 @@ RQ2: Will Spanish-English bilinguals produce vowels more like English or Spanish
 
 The predictions in vowel production are analogous to those in stop production. 
 It is predicted that L3 vowel production will be intermediate between L1 and L2 values. 
-The evidence in support of L3 models and their predictions is also identical in the case of vowels. 
+The evidence in support of L3 models and their predictions is also identical in the case of vowels. <!-- Say they are the same (that's fine), but repeat them again here anyway to be complete. --> 
 
 RQ3: Will the same CLI trends be observed in L3 German as L3 French in production? 
 
 It is predicted that the phonetic differences in the input will affect the performance in the shadowing task, at least at the group level. 
-In @parrish_relative_2021, L1 Spanish-L2 English bilinguals shadowed French, which is phonetically similar to Spanish in its use of VOT to distinguish stop consonants.
+In @parrish_relative_2021, L1 Spanish-L2 English bilinguals shadowed French, which is phonetically similar to Spanish in its use of VOT to distinguish stop consonants. <!-- is this study submitted somewhere? --> 
 As a result, the French stimuli were unaspirated short lag stops.
 The group results, however, revealed that many participants aspirated word initial stops, presumably due to the influence of L2 English. 
 This result suggested that L2 influence is frequent and pronounced in some participants.
@@ -47,7 +47,7 @@ However, other participants produced target-like L3 French tokens.
 In this latter case, it was unclear whether L3 productions were target-like due to effective mimicry or language influence. 
 By including a German L3 group, both explanations can be tested.
 If, between groups with the same order of acquisition, relative VOT of shadowed German tokens are practically equivalent to the relative VOT of shadowed French and they are not target-like, then the phonetics of the stimuli will not seem to be a contributing factor to L3 pronunciation.
-That is, for example, if L1 Spanish-L2 English speakers aspirate German and French at the same rates, despite the German tokens being aspirated and French tokens being unsaturated, then the aspiration of the input would not reliably predict L3 production patterns.
+That is, for example, if L1 Spanish-L2 English speakers aspirate German and French at the same rates, despite the German tokens being aspirated and French tokens being unsaturated, then the aspiration of the input would not reliably predict L3 production patterns. <!-- unsaturated? --> 
 If, on the other hand, L3 German VOT is aspirated more often than L3 French, it could be interpreted as evidence that the phonetic qualities of the input at first exposure to an L3 interact with language status effects. 
 A third possibility is that typological similarity of segments is the most influential factor predicting L3 pronunciation at first exposure. 
 In order for this view to be supported, close to target-like L3 production should be seen from both orders of acquisition.
@@ -90,10 +90,10 @@ As a result, the outcome of the relationship between L3 perception and productio
 4 total groups of participants will take part in each experiment, in what @westergaard_crosslinguistic_2017 refers to as a fully combined design.
 There will be 2 bilingual groups with opposite orders of acquisition, Spanish L1-English L2, and English L1-Spanish L2, with each of these groups hearing either L3 German and L3 French, and 2 monolingual English and monolingual Spanish groups, who also both shadow French or German. 
 German and French were chosen as the third languages primarily due to the phonetic differences in voice-onset time, where French is a true-voicing language (like Spanish) and German is an aspirating language (like English).
-Additionally, German and English and French and Spanish are typologically related in a global sense. 
+Additionally, German and English and French and Spanish are typologically related in a global sense. <!-- What does global sense mean here? --> 
 As a result, the present design will allow for the examination of language status effects, global typology effects, and structure by structure similarity effects.
 By doing so, the relative influence of each of these factors can be determined in these populations, and the evaluation of L3 model predictions can be carried out.
-Based on a power analysis carried out in [@parrish_relative_2021], the bilingual groups will contain 75 participants per group, where the monolingual groups will contain 50 participants per group, for a total of 250 participants. 
+Based on a power analysis carried out in [@parrish_relative_2021], the bilingual groups will contain 75 participants per group, where the monolingual groups will contain 50 participants per group, for a total of 250 participants. <!-- Given how much you are talking about parrish_relative_2021 in this section (03_present_study), you probably need to give more detail about it (i.e., method, findings) in the 02_lit_review. --> 
 
 ## Materials
 
@@ -190,7 +190,7 @@ The continua will be created by using the tokens from the German and French L1 s
 In addition, a second set of continua, using a pat-pot like continuum, will be created though this contrast is not present in French or German, to further test whether English vowel contrasts are accessible in L3 sounds.
 The continua will be purely spectral, and duration will be held constant.
 In each 7 step continuum, all 49 possible combinations of sound will be presented a total of three times each, resulting in 147 repetitions per continuum per participant.
-The task will be programmed in Psychopy [@peirce_psychopy2_2019]. 
+The task will be programmed in Psychopy [@peirce_psychopy2_2019]. <!-- are you creating all the stimuli yourself or have they been used in previous studies? --> 
 
 ## Procedure 
 
