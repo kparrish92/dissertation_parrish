@@ -15,12 +15,12 @@ It is unclear what factors could be at the root of these varied findings.
 
 At large, empirical studies in L3 acquisition have used low samples and their results have been used as the basis of predictive models.
 An issue with the use of few participants to make generalizations is that it increases the likelihood of false positive and false negative results due to an insufficient quantity of samples from a hypothetical population distribution to reliably infer information about that group. <!-- I dont know that I would call a false negative a type of finding... it's the absense of a finding. Maybe say "...it increases the likelihood of false positives and false negatives" kp: reworded as suggested. --> 
-In addition to low samples, L3 studies typically use anaylses such as an ANOVA, t-tests,  non-parametric tests against zero, such as the Kruskal Wallis test.
+In addition to low samples, L3 studies typically use analyses such as an ANOVA, t-tests,  non-parametric tests against zero, such as the Kruskal Wallis test.
 An issue with these choices of analyses is the lack of evidence for the null hypothesis within the larger umbrella of the frequentist approach to inferential statistics. 
-That is, in the case of L3 acquisition, where the interset is which of two source languages impacts a third, the researcher is interested in the possibility of providing evidence that L3 performance is either L1 or L2 like.
+That is, in the case of L3 acquisition, where the interest is which of two source languages impacts a third, the researcher is interested in the possibility of providing evidence that L3 performance is either L1 or L2 like.
 Often, the lack of a so-called "significant" p-value in frequentist analysis is taken as evidence of similar performance between groups or within subjects.
 This conclusion is not well justified, since it is unclear if null results are due to low samples with wide confidence intervals and how much noise is expected in the data.
-That is, the lack of a significant p-value alone is not evidence for the null hypothesis.<!-- this is the perfect opportunity to say something to the effect of absense of evidence is not evidence of absense... in other words the lack of a significant p-value is not evidence for the null kp: added a sentence  --> 
+That is, the lack of a significant p-value alone is not evidence for the null hypothesis.<!-- this is the perfect opportunity to say something to the effect of absence of evidence is not evidence of absence... in other words the lack of a significant p-value is not evidence for the null kp: added a sentence  --> 
 When only a p-value is reported, and not detailed descriptive statistics, it is difficult to establish objective and precise criteria for evidence for practical equivalence. 
 
 Additionally, factors such as L2 and L3 proficiency, language dominance and choices of methods and analysis may play a role in the conclusions drawn by these studies.
@@ -75,12 +75,12 @@ In these studies, the frequency of the at least first and second formants are me
 The first formant (F1) is an acoustic correlate for vowel height, with higher values corresponding to lower vowels.
 The second formant (F2) represents vowel frontness, with higher values corresponding to a more fronted vowel. 
 The chosen languages also vary in the size of their vowel inventories.
-The Spanish vowel space is the smallest of the present study and consists of 5 distinct vowel monopthong categorizations [@bradlow_comparative_1995]. 
-English, French and German have larger relative vowel spaces, where English has 11 monopthongs, and German has 14 [@jongman_acoustic_1989; @bradlow_comparative_1995].
+The Spanish vowel space is the smallest of the present study and consists of 5 distinct vowel monophthong categorizations [@bradlow_comparative_1995]. 
+English, French and German have larger relative vowel spaces, where English has 11 monophthongs, and German has 14 [@jongman_acoustic_1989; @bradlow_comparative_1995].
 French has as many as 16 phonemic vowel sounds.
 
 Cross-linguistic differences in vowel spaces are important in part due to evidence that language specific L1 categories seem to matter during L2 learning. 
-That is, previous research has identified patterns in learning novel vowel contrasts, where some are easier than others and this ease is driven by cross-linguistic similarity and vowel inventory size between languages. [@escudero_cross-language_2011; van_leussen_learning_2015]. <!-- maybe a few refs here kp: added a few escudero studies --> 
+That is, previous research has identified patterns in learning novel vowel contrasts, where some are easier than others and this ease is driven by cross-linguistic similarity and vowel inventory size between languages. [@escudero_cross-language_2011; @van_leussen_learning_2015]. <!-- maybe a few refs here kp: added a few escudero studies --> 
 
 The main question of the present dissertation is how cross-linguistic acoustic similarity and language status effects interact in L3 acquisition. 
 In other words, it will be examined whether L1 and L2 phonological systems have equal impact on the L3 in perception and production in that they are equally affected by cross-linguistic acoustic similarity, regardless of the most similar acoustic sound to an L3 sound is an L1 or L2 sound. 

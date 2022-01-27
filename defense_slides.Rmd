@@ -1,0 +1,58 @@
+# Defense Slides 
+
+https://kparrish92.shinyapps.io/shiny_scatter_sampling/
+
+- L3 models - predictions
+
+- L3 Phon evidence for the models 
+
+- What's the issue? 
+ - There seems to be variation in relative influence of L1 and L2
+ - What factors could be assiated with this variation? 
+ - Cross-linguistic similarity via parsing 
+ 
+ 
+- Talk about sampling 
+ 
+ 
+The LPM views L3 learning as learning via parsing.
+
+Parsing is input driven learning. 
+
+When the input is ambigious or misleading, non-facilitative CLI occurs.
+
+But, will every participant who parses L3 input effectively match it to the appropriate source language? 
+
+Likely not - will **cross-linguistic acoustic (dis)similarity**, **order of acquisition**  and **L2 proficiency** play roles in predicting how L1 and L2 impact L3 perception and production?
+
+The present dissertation aims to quantify and examine the variation in the degrees of co-activation of the L1 and the L2 in L3 acquistiion when taking these factors into account. 
+
+Parrish (2021) showed evidence of variation in matching L3 input to L1 or L2 categories.
+
+- Study desc 
+
+- In the study, many participants showed evidence of L2 English interference, while others produced target like L3 French. 
+
+- It might be the target-like speakers better parse L3 input, and(or) they experienced influence from the L1.
+
+- The present dissertation teases apart this difference by recruiting more groups and having bilinguals shadow both French and German. 
+
+A combination of a large sample, 2 L3s and a fully combined design allow for the relative roles of L3 acoustics and order of acquisition to be examined.
+
+Predictions:
+
+**There will be wide variation** in each condition/case, where some minority produce target-like L3 vot, with a spectrum of increasing L2 influence by others. 
+
+**L3 acoustics will matter** L3 French and L3 German will be shadowed distinctly: L3 German will have longer VOT on average. 
+ -  but all groups will have many members who experience unhelpful L2 influence 
+ 
+<!----- maybe add visuals here to help explain predictions ---->
+
+**order of acquisition will predict influence**, in that less target like productions will be seen in conditions where the L2 and the L3 are dissimilar in their use of vot 
+
+What might explain the variability?
+
+ - Individual cognitive differences 
+ - Adding a digit span task to the tasks 
+
+

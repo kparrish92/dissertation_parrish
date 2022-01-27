@@ -232,3 +232,8 @@ pct %>%
   ) +
   facet_wrap(~participant) + guides(fill=FALSE)
 
+
+# Plot the vowel space of the stimuli 
+
+r
+
