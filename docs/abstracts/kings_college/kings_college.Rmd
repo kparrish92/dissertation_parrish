@@ -1,0 +1,77 @@
+---
+title: 
+date: "3/18/22"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+mainfont: Times New Roman
+header-includes:
+    - \usepackage{setspace}\singlespacing
+    - \setlength{\parindent}{4em}
+    - \setlength{\parskip}{0em}
+fontsize: 12pt
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(here)
+```
+
+**A Fully Combined Design of the Categorization of Unknown Language Vowels by Spanish-English Bilinguals** 
+
+  In the growing field of third language acquisition, various models aim to predict how individuals with two language systems (the L1 and L2) approach and acquire a new, third language. 
+Distinct models have been proposed as a result of empirical work done largely in studies in L3 morphosyntax.
+These models propose that various linguistic factors may explain patterns observed in L3 learners, including language status (Bardel & Falk, 2007), perceived psychotypological similarity between languages (Rothman, 2015), or underlying structural similarity (Westergaard et al., 2017; Slabakova, 2017).
+Importantly, all of these views have gained some support in the L3 morphosyntax literature (Puig-Mayenco et al., 2020; Rothman et al., 2019), but the impact of each of these factors in L3 phonology remains an open question.  
+
+The present study adds to this lack of work done in L3 perception by examining both monolingual and bilingual categorization of vowel sounds in two languages that they do not speak in order to determine whether a) order of acquisition or b) cross-linguistic similarity (typology) better predicts the categorization of L3 sounds. 
+The group design was chosen to operationalize order of acquisition, where the choice to expose bilinguals to two distinct novel languages was chosen to investigate whether cross-linguistic acoustic similarity impacts categorization. 
+In particular, a fully combined design of Spanish and English bilinguals completed a vowel categorization task, similar to those done in studies in bilingual phonology (Best & Tyler, 2007).
+In the task, participants listened to an L3 vowel sound and were given English and Spanish orthographic vowels in carrier words.
+Their task was to match the played sound to either an English or Spanish sound by pressing a key on their keyboard. 
+Following each selection, participants rated their selection on a continuous 1-5 scale. 
+There were 4 vowel conditions (Spanish-like /o/, English-like wedge, both /i/, and neither /y/) in both German and French.
+These new languages were chosen due to the typological proximity between each language pair. 
+The carrier words in English were *feel*, *fought*, *fun* and *fool*, and the Spanish carrier words were *fin*, *son* and *su*.
+
+The data were analyzed using Bayesian multilevel logistic regression models and modeled the selection of an English word as a function of language (German or French), vowel condition, (wedge, /o/, /i/, and /y/), frame (fricative or bilabial) and all higher order interactions.
+A model was run for both bilingual groups and revealed a surprisingly similar preference for English categories in both groups. 
+Specifically, the probability of choosing an English category in both groups was at least .6 for each phoneme (Figure 1). 
+An additional Bayesian Model was carried out post-hoc to determine whether this similar performance could be deemed practically equivalent.
+This analysis modeled language choice (English or Spanish) as a function of group (L1 Spanish or L1 English) and stimulus language (German or French) and found that 100% of the plausible parameter estimates fell within the ROPE for both predictors (ROPE = -.18, .18). 
+This is taken as evidence for practical equivalence between groups and an overall preference for English categories in perception, regardless of order of acquisition or whether the sound played was French or German.
+
+\newpage
+
+**Figure 1**
+```{r, out.width="90%", out.height="60%"}
+knitr::include_graphics(here("docs", "abstracts", "kings_college", 
+              "figs", "prob_plots.png"))
+```
+
+## References
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+\phantom{.} 
+\textcolor{white}{\\} 
+\vspace{-0.5in}
+\begin{tiny}
+
+Bardel, C., \& Falk, Y. (2007). The role of the second language in third language acquisition: The case of Germanic syntax. Second Language Research, 23(4), 459–484. https://doi.org/10.1177/0267658307080557
+
+Best, C. T., \& Tyler, M. D. (2007). Nonnative and second-language speech perception: Commonalities and complementarities. In O.-S. Bohn \& M. J. Munro (Eds.), Language Learning \& Language Teaching (Vol. 17, pp. 13–34). John Benjamins Publishing Company. https://doi.org/10.1075/lllt.17.07bes
+
+Puig-Mayenco, E., Gonzalez Alonso, J., \& Rothman, J. (2020). A systematic review of transfer studies in third language acquisition. Second Language Research, 36(1), 31–64. https://doi.org/10.1177/0267658318809147
+
+Rothman, J. (2015). Linguistic and cognitive motivations for the Typological Primacy Model (TPM) of third language (L3) transfer: Timing of acquisition and proficiency considered. Bilingualism: Language and Cognition, 18(2), 179–190. https://doi.org/10.1017/S136672891300059X
+
+Rothman, J., Gonzalez Alonso, J., \& Puig-Mayenco, E. (2019). A Review of Published Work. In Third Language Acquisition and Linguistic Transfer (1st ed., pp. 188–246). Cambridge University Press.
+
+Slabakova, R. (2017). The scalpel model of third language acquisition. International Journal of Bilingualism, 21(6), 651–665. https://doi.org/10.1177/1367006916655413
+
+Westergaard, M., Mitrofanova, N., Mykhaylyk, R., \& Rodina, Y. (2017). Crosslinguistic influence in the acquisition of a third language: The Linguistic Proximity Model. International Journal of Bilingualism, 21(6), 666–682. https://doi.org/10.1177/1367006916648859
+
+\end{tiny}
+\endgroup

@@ -37,7 +37,8 @@ desc_df <- pct %>%
   group_by(stim, resp) %>% 
   summarise("response" = n(), rating = mean(slider.response),
             rating_sd = sd(slider.response)) %>% 
-  separate(resp, into = c("language", "resp"), sep = "_")
+  separate(resp, into = c("language", "resp"), sep = "_") %>% 
+  filter(response > 10)
 
 # sys = french close front rounded vowel
 # sus = french close back vowel
@@ -172,6 +173,9 @@ pct %>%
   group_by(participant, stim) %>% 
   summarise(response = sum())
 
+pct %>% 
+  group_by(stim) %>% 
+  summarise(response = n())
 
 #### Plot raw data ####
 
@@ -235,5 +239,5 @@ pct %>%
 
 # Plot the vowel space of the stimuli 
 
-r
+
 

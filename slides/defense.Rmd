@@ -233,6 +233,7 @@ Briefly, I'll start with an overview of the relevant research done in morphosynt
 
 
 ---
+
 # Background: Evidence
 
 .big[
@@ -474,8 +475,6 @@ Recall that the present dissertation is framed by the LPM - and in addition to c
 ---
 
 # Research Questions
-
-
 
 .blue[RQ1]: Does **order of acquisition** impact (relative) L1 and L2 influence of L3 *stop consonant* and *vowel* production and perception?
 
@@ -1157,6 +1156,7 @@ The Bayesian Posterior distribution will be used to evaluate RQs
 (Kruschke, 2018; Plonsky & Oswald, 2014)
 ]
 ---
+
 # Expected Results 
 
 .big[
