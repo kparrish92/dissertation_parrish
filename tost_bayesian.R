@@ -8,9 +8,14 @@ span = read.csv(here("scripts", "spanish_bilingual_pct",
 
 all = rbind(eng, span)
 
-mod_tost = brm(language_num ~ l1*stim_language + (1 | participant), data = all)
+mod_tost = brm(language_num ~ l1 + (1 | participant), data = all)
 
-fixef(mod_tost)
+plogis(fixef(mod_tost))
+
+plogis(.69)
+plogis(.69+.06)
+
+plogis(fixef(mod))
 
 
 mcmc_areas(mod_tost,

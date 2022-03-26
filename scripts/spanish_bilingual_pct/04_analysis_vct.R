@@ -29,8 +29,10 @@ all_pct %>%
 
 mod = brm(language_num ~ stim_language*phoneme*frame +
              (1 | participant), 
-          data = all_pct)
+          data = all_pct, family = "binomial")
 summary(mod)
+
+fixef(mod)
 
 mod %>% 
   write_rds(here("scripts", "spanish_bilingual_pct", "models", 

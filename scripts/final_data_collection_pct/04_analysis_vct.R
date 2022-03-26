@@ -14,13 +14,14 @@ pct_fr = pct_fr %>%
 pct_ger = pct_ger %>% 
   rename(rating = slider.response)
 
-
 all_pct = rbind(pct_fr, pct_ger) %>% 
   separate(resp, into = c("word", "language")) %>% 
   mutate(language_num = case_when(
     language == "eng" ~ 1,
     language == "span" ~ 0
   )) 
+
+length(unique(all_pct$participant))
 
 all_pct %>% 
   write.csv(here("scripts", "final_data_collection_pct", 
@@ -34,7 +35,7 @@ library(lme4)
 library(lmerTest)
 mod = brm(language_num ~ stim_language*phoneme*frame +
              (1 | participant), 
-          data = all_pct)
+          data = all_pct, family = "binomial")
 summary(mod)
 
 mod %>% 

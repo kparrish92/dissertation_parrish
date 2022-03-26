@@ -3,6 +3,8 @@
 mod = read_rds(here("scripts", "spanish_bilingual_pct", "models",
                     "bayesian_log_sp.RDS"))
 
+summary(mod)
+
 df_bayesian = data.frame(fixef(mod))
 
 # French /i/ (baseline)
