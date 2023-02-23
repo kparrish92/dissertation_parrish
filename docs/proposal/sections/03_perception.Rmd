@@ -1,0 +1,256 @@
+\chapter{The Perception of the new language vowels by Spanish-English bilinguals}
+
+# Introduction 
+
+Broad sentence about L3/L2 learning. 
+Reminder of relevant review. 
+Relevant phenomenon. 
+Specific example of evidence for phenomenon. 
+How this chapter addresses the question/with what experiments. 
+What is predicted. 
+Why it is interesting/what this would mean.
+
+## Subsection 1 - Perception/perceptual assimilation in L2 and L3 speech 
+
+Earliest history of this idea in L2
+First study and why/what they were interested in, RQs and prediction.
+Second study as a response and predictions 
+Third study as a response and how it builds 
+
+Earliest history of this idea in L3
+First study and why/what they were interested in, RQs and prediction.
+Second study as a response and predictions 
+Third study as a response and how it builds 
+
+Study four, most important and in detail, including information about what type of words were measured, the groups.
+The results and their finding or contribution to theory according to the authors.
+
+What all of these studies together mean for L3 perception... does it suggest that L1 and L2 can influence the L3?
+Relating these things to models of L2 and L3.
+
+## Subsection 2 - Discrimination in L2 and L3 acquisition 
+
+Earliest history of this idea in L2
+First study and why/what they were interested in, RQs and prediction.
+Second study as a response and predictions 
+Third study as a response and how it builds 
+
+Earliest history of this idea in L3
+First study and why/what they were interested in, RQs and prediction.
+Second study as a response and predictions 
+Third study as a response and how it builds 
+
+Study four, most important and in detail, including information about what type of words were measured, the groups.
+The results and their finding or contribution to theory according to the authors.
+
+What all of these studies together mean for L3 perception... does it suggest that L1 and L2 can influence the L3?
+Relating these things to models of L2 and L3.
+
+## Overview of experiments
+
+The goal of the experiments is to...
+For this reason, two experiments...
+The first experiment was a...
+The methodology resembles...
+Specifically, this task was designed to adapt L2 methods to L3 methods..
+It differs in that...
+This differences shows that, unlike previous experiments, XYZ
+
+The second experiment was...
+It examined how... 
+Specifically, it used XY methods to induce discrimination rather than categorization. 
+These categorizations allowed for the examination of perception in a purely phonetic, rather than phonemic, context, since categorization was not explcitely involved in this task.
+Also, additional groups completed this task to test....
+
+# Experiment 1 - L3 Perceptual Assimilation Task 
+
+Experiment one examined the initial state of categorization of the vowels of two unknown languages, French and German, by Spanish-English bilinguals, Spanish monolinguals and English monolinguals. 
+Each participant completed a background questionnaire and a perceptual assimilation task.
+
+## Participants 
+
+The experiment included XX Spanish-English bilinguals who spoke L1 Spanish, XX Spanish-English bilinguals who spoke L1 English, XX Spanish monolinguals and XX English monolinguals. 
+These speakers were recruited in the recommended fully combined design (see e.g. **Westergaard**, **Rothman**), which allows for the comparison between L3 and L2 groups in distinct orders of acquisition. 
+All participants were recruited on prolific and were pre-screened according to criteria detailed below.
+In addition to filters in place from Prolfic.co, the participants were screened further using an adapted version of the Bilingual Language Profile @birdsong_bilingual_2012].
+All participants who answered 'no' to the question "Do you speak a language other than English and Spanish" were permitted to continue the experiment. 
+
+
+### Bilinguals 
+
+Screening data and experiment-initial questionnaires were used to find bilingual participants who began learning their L2 later in life and reported not having learned a language aside from English and Spanish.
+The English L1 group came from all over the 
+United States while Spanish L1 group came from Mexico.
+Each groups mean age, L2 use, self-reported oral and perceptive  proficiency are seen in figure \@ref(fig:aoa).
+As can be seen from the figures, The English L1-Spanish L2 group began L2 learning later on average, while they also felt comfortable in their L2 at a later age than the Spanish L1-English L2 group. 
+The participants also rated their L2 proficiency. 
+They were given a 0-6 Likert-type scale in which they answered the questions "How well do you speak [their L2]?" and "How well do you understand [their L2]?".
+"0" corresponded to "not very well at all", where "6" corresponded to "very well" (Figure \@ref(fig:prof))
+
+```{r, 'aoa', echo=FALSE, fig.cap="Age of Onset and Age of Acquisition in each bilingual group"}
+knitr::include_graphics(here::here("sections", "figs", "ao_aoa_combined.png"))
+
+```
+
+```{r, 'prof', echo=FALSE, fig.cap="Self-rated 1-6 proficiency in production and perception"}
+knitr::include_graphics(here::here("sections", "figs", "proficiency_combined.png"))
+
+```
+
+
+### Monolinguals 
+
+Like the bilingual groups, the monolingual participants spoke American English (n = **x** henceforth the English monolingual group), while the Spanish group spoke Mexican Spanish (n = **x**henceforth the Spanish monolingual group).
+These participants reported not speaking a second language and growing up
+in either the United States or Mexico. 
+Table **XX** shows the mean age of each participant, along with the total number of female speakers in the sample. 
+These speakers were recruited to compare how naive L2 learners compare to the native L3 learners mentioned in the previous section.
+
+## Materials 
+
+### Target phrases/conditions 
+
+The participants heard and categorized a total of 4 vowel conditions per language given 7 total carrier words to choose from. 
+The 4 vowel conditions included the /i/, /y/, /o/, and schwa/wedge.
+The four sounds were embedded in both a fricative /fVf/ and bilibial /pVp/ or /pVf/ frames and played a total of 5 times each. 
+Thus, each participant categorized 40 tokens per language (5 repetitions x 2 frames x 4 vowel conditions), given 7 carrier words from which they chose.
+The 7 word choices included 3 English carrier word choices intended to represent the phonemes /i/, schwa/wedge, /u/ and /a/ (*feel*, *fun*, *fool* and *thought*).
+The remaining 3 choices were Spanish carrier words intended to represent the phonemes /i/, /u/ and /o/ (*fin*, *su*, *son*).
+The screen that the participants saw \@ref(fig:vct) shows an instance of the selection trail.
+
+The vowel sounds included in both experiments were intended to bring about four distinct cross-linguistic situations. 
+First, the L3 phoneme /i/ was included to create a conflict in which both source languages, Spanish and English, have a similar sound /i/. 
+The phoneme /i/ was given in the Spanish word *fin* and the English word *feel*.
+Next, the L3 phoneme, referred to as either the wedge or (schwa depending upon lexical stress) was given in an attempt to bias the selection of English. 
+This condition was intended to be assimilated to the English choice *fun*.
+Third, the phoneme /o/ was included to bias the same Spanish category, where a rounded /o/ does not exist in American English. 
+The intended choice in this case was the Spanish word *son*, but the English word *thought* was also provided as an alternative. 
+Finally, the phoneme /y/ was added to explore how a sound that is not present in either language will be categorized. 
+Given that /y/ is a high-front vowel, it is possible that it could be assimilated to other high vowels, either /i/ as in *feel* or *fin*, or /u/, as provided in *fool* or *su*. 
+Additionally, after making each selection, the participants then rated their pick for goodness of fit by clicking a 1-5 continuous Likert scale (\@ref(fig:likert).
+
+
+```{r, 'vct', echo=FALSE, fig.cap="Example screen of the vowel categorization task"}
+knitr::include_graphics(here::here("sections", "figs", "vct.png"))
+
+```
+
+```{r, 'likert', echo=FALSE, fig.cap="Example of the likert style rating after each selection"}
+knitr::include_graphics(here::here("sections", "figs", "likert.png"))
+
+```
+
+### Stimuli 
+
+The stimuli were recorded by adult, female L1 speakers of French and German respectively and was also collected online.
+The speakers were given each vowel in a word or non-word in both a fricative and bilabial frame. 
+In the event a non-word was provided, a real word containing that vowel sound was included to aid the informant in producing the intended pronunciation of the vowel. 
+Once the stimuli were recorded, one of the two tokens provided by the speaker for each vowel was selected and re-synthesized adding the appropriate onset and coda. 
+In total, 8 stimuli were created per language. 
+Figure \@ref(fig:stim) shows the formant values of the included stimuli in German and French in comparison to similar sounds in English and Spanish. 
+For the purpose of this Figure, an adult female speaker of Madrid Spanish and an adult female American English speaker provided vowel tokens of the answer choices in the present study by producing the carrier words while being recorded in PRAAT (*son*, *su* and *fin* in Spanish and *fought*, *feel*, *fool*, and *fun* in English).
+
+```{r, 'stim', echo=FALSE, fig.cap="Formant values of the model speakers"}
+knitr::include_graphics(here::here("sections", "figs", "stimuli.png"))
+
+```
+
+
+## Procedure 
+
+All participants first completed the adapted Bilingual Language Profile [@birdsong_bilingual_2012] online.
+An English and Spanish version of the questionnaire was adapted and given to the participants based on their L1. 
+All participants who answered "no" to the question "Besides English and Spanish, do you speak a third language?" were invited to take part in the experimental task.
+The vowel categorization task was given to participants online. An English and Spanish version of this task was also created, in which all instructions were given in either English or Spanish. 
+During the task, all participants heard French first, followed by a brief pause, and then heard German sounds.
+The order of the stimuli was counterbalanced and the two tasks were given in a single session with a brief pause between them. 
+The experiments were programmed in Psychopy 
+@peirce_psychopy2_2019] and made available online via Pavlovia. 
+
+## Statistical Analysis 
+
+For the vowel categorization tasks, the data were analyzed using a series of Bayesian multilevel multinomial logistic regression model in R @[R-base].
+The models were fit using the R package `brms` 
+@[burkner2017brms].
+A model was run for each of 4 groups: L1 Spanish, L1 English, monolingual English and monolingual Spanish.
+In each model, the outcome variable was word choice. 
+In the bilingual groups, this consisted of 7 total options (3 Spanish words: *fin*, *su*, *son* and 4 English words: *fun*, *fought*, *feel*, and *fool*.)
+Thus, outcome of the bilingual models estimates the log odds of choosing one of the seven choices, and would sum to 1 when converted to probability. 
+The fixed effect predictors of the bilingual models were phoneme (/i/, schwa, /y/ and /o/), stimulus language (French or German) and Lextale score (continuous and transformed to a z-score) and all higher order interactions. Random effects included a random intercept for participant to take into account the nested structure of the data. 
+
+The monolingual models modeled word choice as a function of phoneme and stimulus language, again with a random intercept for participant to take into account the nested structure of the data. 
+In this case, language choice was more limited in each group limited, with the Spanish monolingual group only having 3 options: *fin*, *su*, *son*, while the English group had 4 word choices: *fun*, *fought*, *feel*, and *fool*.
+The model included regularizing, weakly informative priors @gelman_prior_2017], 
+which were normally distributed and centered at 0 with a standard deviation of 8 for all population-level parameters.
+The region of practical equivalence (ROPE) was set to 0.18, as the outcome variable was in log-odds (see @kruschke_rejecting_2018]). 
+All models were fit with 2000 iterations (1000 warm-up). 
+Markov-chain Monte-Carlo sampling was carried out with 6 chains distributed between 8 processing cores.
+
+## Results 
+
+Table **table 1** shows the overall percentage of each word choice (out of 4 possible in English), given the each of the 4 phonemes in both French and Spanish by the English monolingual group.
+The bold numbers are cases in which a word received at least 33 percent of choices.
+
+<!--- generate code to make this from df and get paths to work --->
+
+\begin{table}[h]
+  \begin{center}
+  \caption[Another table caption here]{The percentage of categorizations of phonemes in the English monolinguals group. \label{tab1}}
+  \vspace{0.3in}
+    \begin{tabular}{cccccc}
+      \hline 
+      \hline
+      Stimulus Language & choice & i & o & schwa & y \\ 
+      \hline
+German & feel & \textbf{0.93} & 0.01 & 0.01 & 0.06 \\ 
+German & fool & 0.02 & \textbf{0.45} & - & \textbf{0.78} \\ 
+German & fought & 0.05 & \textbf{0.52} & \textbf{0.42} & 0.11 \\ 
+German & fun & - & 0.02 & \textbf{0.57} & 0.05 \\ 
+French & feel & \textbf{0.90} & - & 0.14 & 0.04 \\ 
+French & fool & 0.04 & 0.07 & 0.03 & \textbf{0.69} \\ 
+French & fought & 0.04 & \textbf{0.38} & 0.31 & 0.21 \\ 
+French & fun & 0.02 & \textbf{0.54} & \textbf{0.52} & 0.06 \\ 
+      \hline
+    \end{tabular}
+  \end{center}
+\end{table}
+
+
+
+You can include IPA characters via the `TIPA` package. 
+Here is an example:
+
+\textipa{[Sip]-[SIp]} - Looks good. 
+
+
+
+
+
+
+
+
+# Experiment 2 - L3 AX discrimination Task 
+
+## Participants 
+
+## Materials 
+
+### Target phrases/conditions 
+
+### Stimuli 
+
+### Recordings 
+
+### Acoustic Analysis 
+
+## Procedure 
+
+## Statistical Analysis 
+
+
+# Discussion and Conclusion 
+
+<!---- leave blank ---->
+#### Production 
+
+This chapter presented...

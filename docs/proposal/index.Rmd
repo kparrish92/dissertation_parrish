@@ -14,11 +14,15 @@ bibliography: includes/bib/bib.bib
 csl: includes/bib/apa.csl
 ---
 
-
 ```{r, include = FALSE}
-library(ggplot2)
-library(tidyverse)
+library(papaja)
+source(here::here("scripts", "perception", "03_load_data.R"))
 ```
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, out.width="100%")
+```
+
 <!-- Indent from second paragraph on --> 
 \setlength{\parindent}{0.2in} 
 
@@ -27,7 +31,7 @@ library(tidyverse)
 ```
 ```{r, child='./sections/02_lit_review.Rmd'}
 ```
-```{r, child='./sections/03_present_study.Rmd'}
+```{r, child='./sections/03_perception.Rmd'}
 ```
 
 

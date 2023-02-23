@@ -64,7 +64,7 @@ Next, I'll talk about how the present dissertation contributes to the field, and
   - L2 initial state is limited by **L1 phonetic categories.** 
 
 - Less is known about L3 phonology.
-  - In L3 learning, **L1 and L2 phonetic cateogories exist at initial exposure.**
+  - In L3 learning, **L1 and L2 phonetic categories exist at initial exposure.**
 ]
 
 .pull-right[
